@@ -55,9 +55,8 @@ const toggleMenu = () => {
             data-uc-navbar=" animation: uc-animation-slide-top-small; duration: 150;">
             <div class="uc-navbar-left">
               <div class="uc-logo ltr:ms-1 rtl:me-1">
-                <NuxtLink class="panel text-none" to="/" style="width: 140px;">
-                  <img class="dark:d-none" src="~/assets/images/common/logo-8-light.svg" alt="Lexend">
-                  <img class="d-none dark:d-block" src="~/assets/images/common/logo-8-dark.svg" alt="Lexend">
+                <NuxtLink class="panel text-none fw-bold fs-4" to="/" style="width: 140px; letter-spacing: 0.05em;">
+                  DAE
                 </NuxtLink>
               </div>
             </div>
@@ -432,7 +431,7 @@ const toggleMenu = () => {
                                       <a href="#">Resources</a>
                                     </li>
                                     <li>
-                                      <NuxtLink to="/blog-sidebar">Blog</NuxtLink>
+                                      <a href="#how-it-works">How It Works</a>
                                     </li>
                                     <li>
                                       <NuxtLink to="/page-career">Career</NuxtLink>
@@ -462,15 +461,15 @@ const toggleMenu = () => {
                   </div>
                 </li>
                 <li>
-                  <NuxtLink to="/blog-sidebar">Blog</NuxtLink>
+                  <a href="#how-it-works">How It Works</a>
                 </li>
-                <li><NuxtLink to="/page-pricing-2">Pricing</NuxtLink></li>
-                <li><NuxtLink to="/page-integrations">Integrations</NuxtLink></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="#features">Features</a></li>
               </ul>
             </div>
             <div class="uc-navbar-right">
-              <NuxtLink class="btn btn-md dark:text-white border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent fs-5 lg:px-3 d-none lg:d-inline-flex rounded-pill"
-                to="/page-contact-2">Contact sales</NuxtLink>
+              <a class="btn btn-md dark:text-white border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent fs-5 lg:px-3 d-none lg:d-inline-flex rounded-pill"
+                href="#" >Book a Demo</a>
               <a class="btn btn-md btn-tertiary w-48px h-48px d-inline-flex lg:d-none" @click="toggleMenu" style="cursor: pointer;"
                 data-uc-toggle="" role="button">
                 <i class="icon icon-2 unicon-menu"></i>

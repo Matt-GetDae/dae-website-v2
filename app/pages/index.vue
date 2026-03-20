@@ -6,28 +6,28 @@ import FooterEight from '~/layouts/footers/FooterEight.vue'
 
 
 useHead({
-  title: "Home 9 - Lexend - Software, SaaS & Startup Nuxt js Template",
+  title: "DAE - Dental Appointment Engine | Implant Consultations on Autopilot",
     meta: [
-    { name: "description", content: "Lexend is a modern Nuxt.js template for SaaS, Software, and Startup websites. Build fast and SEO-friendly pages." },
-    { name: "keywords", content: "SaaS, Startup, Software, Nuxt.js Template, SaaS Template, Startup Template" },
+    { name: "description", content: "DAE is the technology platform and marketing system that helps dental clinics generate and book high-value implant consultations automatically." },
+    { name: "keywords", content: "dental implant marketing, dental appointment engine, implant consultations, dental clinic growth, patient generation" },
     { name: "robots", content: "index, follow" },
-    { name: "author", content: "Lexend" },
+    { name: "author", content: "DAE - Dental Appointment Engine" },
   ],
   link: [
-    { rel: "canonical", href: "https://lexend-nuxtjs.vercel.app/" },
+    { rel: "canonical", href: "https://dentalappointmentengine.com/" },
   ],
   metaOG: [
-    { property: "og:title", content: "Lexend - Software, SaaS & Startup Nuxt js Template" },
-    { property: "og:description", content: "Lexend is a modern Nuxt.js template for SaaS, Software, and Startup websites." },
+    { property: "og:title", content: "DAE - Dental Appointment Engine | Implant Consultations on Autopilot" },
+    { property: "og:description", content: "The technology platform and marketing system that helps dental clinics generate and book high-value implant consultations automatically." },
     { property: "og:type", content: "website" },
-    { property: "og:url", content: "https://lexend-nuxtjs.vercel.app/" },
-    { property: "og:image", content: "https://lexend-nuxtjs.vercel.app/og-image.jpg" } 
+    { property: "og:url", content: "https://dentalappointmentengine.com/" },
+    { property: "og:image", content: "https://dentalappointmentengine.com/og-image.jpg" } 
   ],
   metaTwitter: [
     { name: "twitter:card", content: "summary_large_image" },
-    { name: "twitter:title", content: "Lexend - Software, SaaS & Startup Nuxt js Template" },
-    { name: "twitter:description", content: "Lexend is a modern Nuxt.js template for SaaS, Software, and Startup websites." },
-    { name: "twitter:image", content: "https://lexend-nuxtjs.vercel.app/og-image.jpg" }
+    { name: "twitter:title", content: "DAE - Dental Appointment Engine | Implant Consultations on Autopilot" },
+    { name: "twitter:description", content: "The technology platform and marketing system that helps dental clinics generate and book high-value implant consultations automatically." },
+    { name: "twitter:image", content: "https://dentalappointmentengine.com/og-image.jpg" }
   ],
 })
 
