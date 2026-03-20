@@ -111,9 +111,7 @@ onUnmounted(() => {
             data-anime="onview:-100; targets: >*; translateY: [48, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 200});">
             <span
               class="fs-7 fw-medium py-narrow px-2 bg-dark text-white dark:bg-primary dark:text-dark rounded-pill">Dental Appointment Engine</span>
-            <h2 class="h2 xl:display-5 m-0 text-center">Implant consultations on autopilot for
-              <span class="text-tertiary dark:text-primary">{{ displayText }}<span class="typed-cursor">|</span></span>
-            </h2>
+            <h2 class="h2 xl:display-5 m-0 text-center" style="min-height: 2.4em;">Implant consultations<br>on autopilot for <span class="text-tertiary dark:text-primary">{{ displayText }}<span class="typed-cursor">|</span></span></h2>
             <p class="fs-5 lg:fs-4">The technology platform that helps dental clinics generate and book high-value implant consultations automatically.</p>
             <div class="panel vstack items-center gap-1 max-w-400px lg:max-w-750px mx-auto text-center mt-2 xl:mt-4">
               <div class="mb-2 lg:mb-3">
