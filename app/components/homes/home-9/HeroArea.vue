@@ -1,6 +1,59 @@
-<template>
+<script setup>
+import { ref, onMounted, onUnmounted } from 'vue'
 
-  
+const words = ['your clinic', 'your practice', 'your growth']
+const displayText = ref('')
+const isDeleting = ref(false)
+const wordIndex = ref(0)
+const charIndex = ref(0)
+let timer = null
+
+const typeSpeed = 80
+const backSpeed = 50
+const backDelay = 1500
+const typeDelay = 200
+
+function tick() {
+  const currentWord = words[wordIndex.value]
+
+  if (!isDeleting.value) {
+    // Typing forward
+    charIndex.value++
+    displayText.value = currentWord.substring(0, charIndex.value)
+
+    if (charIndex.value === currentWord.length) {
+      // Finished typing, pause then start deleting
+      isDeleting.value = true
+      timer = setTimeout(tick, backDelay)
+      return
+    }
+    timer = setTimeout(tick, typeSpeed)
+  } else {
+    // Deleting
+    charIndex.value--
+    displayText.value = currentWord.substring(0, charIndex.value)
+
+    if (charIndex.value === 0) {
+      // Finished deleting, move to next word
+      isDeleting.value = false
+      wordIndex.value = (wordIndex.value + 1) % words.length
+      timer = setTimeout(tick, typeDelay)
+      return
+    }
+    timer = setTimeout(tick, backSpeed)
+  }
+}
+
+onMounted(() => {
+  timer = setTimeout(tick, 500)
+})
+
+onUnmounted(() => {
+  if (timer) clearTimeout(timer)
+})
+</script>
+
+<template>
   <div id="hero_header" class="hero-header section panel overflow-hidden">
     <div class="section-outer py-6 lg:py-8 xl:py-10 min-h-700px">
       <div
@@ -59,12 +112,7 @@
             <span
               class="fs-7 fw-medium py-narrow px-2 bg-dark text-white dark:bg-primary dark:text-dark rounded-pill">Dental Appointment Engine</span>
             <h2 class="h2 xl:display-5 m-0 text-center">Implant consultations on autopilot for
-              <span class="text-tertiary dark:text-primary"
-                data-uc-typed="typeSpeed: 80; backSpeed: 50; backDelay: 1500; loop: true;">
-                <span>your clinic</span>
-                <span>your practice</span>
-                <span>your growth</span>
-              </span>
+              <span class="text-tertiary dark:text-primary">{{ displayText }}<span class="typed-cursor">|</span></span>
             </h2>
             <p class="fs-5 lg:fs-4">The technology platform that helps dental clinics generate and book high-value implant consultations automatically.</p>
             <div class="panel vstack items-center gap-1 max-w-400px lg:max-w-750px mx-auto text-center mt-2 xl:mt-4">
@@ -83,6 +131,17 @@
       </div>
     </div>
   </div>
-
-
 </template>
+
+<style scoped>
+.typed-cursor {
+  display: inline;
+  font-weight: 100;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+</style>
