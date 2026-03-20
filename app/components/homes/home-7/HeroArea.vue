@@ -17,27 +17,27 @@ import { VueWriter } from 'vue-writer'
     <div class="section-outer panel pb-6 sm:pb-8 pt-9 xl:pt-10 xl:pb-9">
       <div class="d-none lg:d-block"
         data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: anime.stagger(150, {start: 500});">
-        <img src="/assets/images/vectors/marketing.svg" alt="Icon"
+        <img src="~/assets/images/vectors/marketing.svg" alt="Icon"
           class="d-inline-block position-absolute w-72px dark:d-none" style="top: 15%; left: 10%;">
-        <img src="/assets/images/vectors/charts-pc.svg" alt="Icon"
+        <img src="~/assets/images/vectors/charts-pc.svg" alt="Icon"
           class="d-inline-block position-absolute w-72px dark:d-none" style="top: 15%; right: 10%;">
-        <img src="/assets/images/vectors/group.svg" alt="Icon"
+        <img src="~/assets/images/vectors/group.svg" alt="Icon"
           class="d-inline-block position-absolute w-64px dark:d-none"
           style="top: 35%; right: -1%; transform: rotate(45deg);">
-        <img src="/assets/images/vectors/idea.svg" alt="Icon"
+        <img src="~/assets/images/vectors/idea.svg" alt="Icon"
           class="d-inline-block position-absolute w-48px dark:d-none" style="top: 40%; left: 15%;">
-        <img src="/assets/images/vectors/group.svg" alt="Icon"
+        <img src="~/assets/images/vectors/group.svg" alt="Icon"
           class="d-inline-block position-absolute w-64px dark:d-none" style="top: 30%; left: -1%;">
-        <img src="/assets/images/vectors/marketing-dark.svg" alt="Icon"
+        <img src="~/assets/images/vectors/marketing-dark.svg" alt="Icon"
           class="d-inline-block position-absolute w-72px d-none dark:d-block" style="top: 15%; left: 10%;">
-        <img src="/assets/images/vectors/charts-pc-dark.svg" alt="Icon"
+        <img src="~/assets/images/vectors/charts-pc-dark.svg" alt="Icon"
           class="d-inline-block position-absolute w-72px d-none dark:d-block" style="top: 15%; right: 10%;">
-        <img src="/assets/images/vectors/group-dark.svg" alt="Icon"
+        <img src="~/assets/images/vectors/group-dark.svg" alt="Icon"
           class="d-inline-block position-absolute w-64px d-none dark:d-block"
           style="top: 35%; right: -1%; transform: rotate(45deg);">
-        <img src="/assets/images/vectors/idea-dark.svg" alt="Icon"
+        <img src="~/assets/images/vectors/idea-dark.svg" alt="Icon"
           class="d-inline-block position-absolute w-48px d-none dark:d-block" style="top: 40%; left: 15%;">
-        <img src="/assets/images/vectors/group-dark.svg" alt="Icon"
+        <img src="~/assets/images/vectors/group-dark.svg" alt="Icon"
           class="d-inline-block position-absolute w-64px d-none dark:d-block" style="top: 30%; left: -1%;">
       </div>
       <div class="container max-w-xl">
@@ -61,7 +61,7 @@ import { VueWriter } from 'vue-writer'
                 <div class="vstack md:hstack justify-center gap-2 mt-3">
                   <a href="#"
                     class="btn btn-md xl:btn-lg btn-alt-dark border-dark px-3 lg:px-5 fw-bold contrast-shadow-sm hover:contrast-shadow">
-                    <img src="/assets/images/template/google-icon.svg" alt="Google Icon">
+                    <img src="~/assets/images/template/google-icon.svg" alt="Google Icon">
                     <span>Start free trial</span>
                   </a>
                 </div>
@@ -70,8 +70,8 @@ import { VueWriter } from 'vue-writer'
                     <div>
                       <div class="hstack justify-center gap-1">
                         <span class="icon mb-narrow">
-                          <img class="w-24px dark:d-none" src="/assets/images/custom-icons/icon-08.svg" alt="icon">
-                          <img class="w-24px d-none dark:d-block" src="/assets/images/custom-icons/dark-icon-08.svg"
+                          <img class="w-24px dark:d-none" src="~/assets/images/custom-icons/icon-08.svg" alt="icon">
+                          <img class="w-24px d-none dark:d-block" src="~/assets/images/custom-icons/dark-icon-08.svg"
                             alt="icon">
                         </span>
                         <span class="fs-7 fw-medium mb-narrow text-inherit">AI-Powered Automation</span>
@@ -80,8 +80,8 @@ import { VueWriter } from 'vue-writer'
                     <div>
                       <div class="hstack justify-center gap-1">
                         <span class="icon mb-narrow">
-                          <img class="w-24px dark:d-none" src="/assets/images/custom-icons/icon-07.svg" alt="icon">
-                          <img class="w-24px d-none dark:d-block" src="/assets/images/custom-icons/dark-icon-07.svg"
+                          <img class="w-24px dark:d-none" src="~/assets/images/custom-icons/icon-07.svg" alt="icon">
+                          <img class="w-24px d-none dark:d-block" src="~/assets/images/custom-icons/dark-icon-07.svg"
                             alt="icon">
                         </span>
                         <span class="fs-7 fw-medium mb-narrow text-inherit">Chatbots, Free forever</span>
@@ -90,8 +90,8 @@ import { VueWriter } from 'vue-writer'
                     <div>
                       <div class="hstack justify-center gap-1">
                         <span class="icon mb-narrow">
-                          <img class="w-24px dark:d-none" src="/assets/images/custom-icons/icon-04.svg" alt="icon">
-                          <img class="w-24px d-none dark:d-block" src="/assets/images/custom-icons/dark-icon-04.svg"
+                          <img class="w-24px dark:d-none" src="~/assets/images/custom-icons/icon-04.svg" alt="icon">
+                          <img class="w-24px d-none dark:d-block" src="~/assets/images/custom-icons/dark-icon-04.svg"
                             alt="icon">
                         </span>
                         <span class="fs-7 fw-medium mb-narrow text-inherit">Cutting-edge AI features</span>
@@ -107,8 +107,8 @@ import { VueWriter } from 'vue-writer'
                 class="panel max-w-1000px mx-auto mt-2 rounded lg:rounded-1-5 xl:rounded-2 border border-dark contrast-shadow-lg overflow-hidden"
                 data-anime="onscroll: .hero-header; onscroll-trigger: 0.5; translateY: [-80, 0]; scale: [0.8, 1]; easing: linear;">
 
-                <video src="/assets/images/media/lexend-home-7.webm" preload="none" loop muted playsinline autoplay
-                  poster="/assets/images/media/lexend-home-7.png" class="w-full h-full object-cover"></video>
+                <video src="~/assets/images/media/lexend-home-7.webm" preload="none" loop muted playsinline autoplay
+                  poster="" class="w-full h-full object-cover"></video>
 
               </div>
             </div>

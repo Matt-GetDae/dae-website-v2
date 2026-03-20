@@ -44,7 +44,7 @@ import 'swiper/css/pagination'
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-10.jpg" alt="Why Traditional Agency Models Are Failing">
+                        src="~/assets/images/blog/post-10.jpg" alt="Why Traditional Agency Models Are Failing">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="Why Traditional Agency Models Are Failing"></NuxtLink>
                     </figure>
@@ -69,7 +69,7 @@ import 'swiper/css/pagination'
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-11.jpg" alt="How to Budget for Based Predictable Growth">
+                        src="~/assets/images/blog/post-11.jpg" alt="How to Budget for Based Predictable Growth">
                       <NuxtLink to="/blog-details-2" class="position-cover"
                         data-caption="How to Budget for Based Predictable Growth"></NuxtLink>
                     </figure>
@@ -94,7 +94,7 @@ import 'swiper/css/pagination'
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-12.jpg" alt="Maximize Value from your Marketing Subscription">
+                        src="~/assets/images/blog/post-12.jpg" alt="Maximize Value from your Marketing Subscription">
                       <NuxtLink to="/blog-details-3" class="position-cover"
                         data-caption="Maximize Value from your Marketing Subscription"></NuxtLink>
                     </figure>
@@ -119,7 +119,7 @@ import 'swiper/css/pagination'
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-5.jpg" alt="Leading work from tasks management">
+                        src="~/assets/images/blog/post-5.jpg" alt="Leading work from tasks management">
                       <NuxtLink to="/blog-details-2" class="position-cover"
                         data-caption="Leading work from tasks management"></NuxtLink>
                     </figure>
@@ -144,7 +144,7 @@ import 'swiper/css/pagination'
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-4.jpg" alt="Team solve today’s biggest challenges">
+                        src="~/assets/images/blog/post-4.jpg" alt="Team solve today’s biggest challenges">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="Team solve today’s biggest challenges"></NuxtLink>
                     </figure>

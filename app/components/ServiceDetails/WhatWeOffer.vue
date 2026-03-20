@@ -4,7 +4,7 @@
   <div class="section panel overflow-hidden mx-2 lg:mx-0 mt-n3 lg:mt-n6">
     <div class="container max-w-xl">
       <div data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 500;">
-        <img class="w-full rounded-2" src="/assets/images/template/hero-page-service-detail.jpg"
+        <img class="w-full rounded-2" src="~/assets/images/template/hero-page-service-detail.jpg"
           alt="hero-page-service-detail">
       </div>
     </div>
@@ -48,7 +48,7 @@
               <div class="service-item vstack gap-2 p-1 rounded-2 border dark:text-white">
                 <div class="hstack gap-2 p-2 bg-secondary dark:bg-white dark:bg-opacity-5 rounded-1-5">
                   <div class="icon-box w-48px h-48px rounded-circle cstack bg-primary text-white">
-                    <img class="w-20px xl:w-24px" src="/assets/images/common/icons/zap.svg" alt="feature-icon"
+                    <img class="w-20px xl:w-24px" src="~/assets/images/common/icons/zap.svg" alt="feature-icon"
                       data-uc-svg>
                   </div>
                   <h3 class="title h5 xl:h4 m-0">Custom Websites</h3>
@@ -91,7 +91,7 @@
               <div class="service-item vstack gap-2 p-1 rounded-2 border dark:text-white">
                 <div class="hstack gap-2 p-2 bg-secondary dark:bg-white dark:bg-opacity-5 rounded-1-5">
                   <div class="icon-box w-48px h-48px rounded-circle cstack bg-primary text-white">
-                    <img class="w-20px xl:w-24px" src="/assets/images/common/icons/settings.svg" alt="feature-icon"
+                    <img class="w-20px xl:w-24px" src="~/assets/images/common/icons/settings.svg" alt="feature-icon"
                       data-uc-svg>
                   </div>
                   <h3 class="title h5 xl:h4 m-0">Web Applications</h3>
@@ -134,7 +134,7 @@
               <div class="service-item vstack gap-2 p-1 rounded-2 border dark:text-white">
                 <div class="hstack gap-2 p-2 bg-secondary dark:bg-white dark:bg-opacity-5 rounded-1-5">
                   <div class="icon-box w-48px h-48px rounded-circle cstack bg-primary text-white">
-                    <img class="w-20px xl:w-24px" src="/assets/images/common/icons/target.svg" alt="feature-icon"
+                    <img class="w-20px xl:w-24px" src="~/assets/images/common/icons/target.svg" alt="feature-icon"
                       data-uc-svg>
                   </div>
                   <h3 class="title h5 xl:h4 m-0">Native Mobile Apps</h3>

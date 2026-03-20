@@ -38,7 +38,7 @@ defineProps({
                 <div class="panel vstack items-start gap-4 ltr:md:pe-8 rtl:md:ps-8">
                   <div class="vstack gap-2">
                     <NuxtLink to="/"> 
-                      <img class="text-primary" src="/assets/images/common/logo-dark-2.svg" alt="Lexend">
+                      <img class="text-primary" src="~/assets/images/common/logo-dark-2.svg" alt="Lexend">
                     </NuxtLink>
                     <p>This powerfull tool eliminates the need to leave Salesforce to get things done as I can create a
                       custom proposal with dynamic pricing tables.</p>
@@ -46,11 +46,11 @@ defineProps({
                   <div class="hstack items-start gap-1">
                     <a href="#">
                       <img class="text-gray-900 dark:text-white hover:text-opacity-70 transition-all duration-150 image-filter"
-                        src="/assets/images/common/playstore.svg" alt="Google Play Store" data-uc-svg>
+                        src="~/assets/images/common/playstore.svg" alt="Google Play Store" data-uc-svg>
                     </a>
                     <a href="#">
                       <img class="text-gray-900 dark:text-white hover:text-opacity-70 transition-all duration-150 image-filter"
-                        src="/assets/images/common/appstore.svg" alt="Apple Store" data-uc-svg>
+                        src="~/assets/images/common/appstore.svg" alt="Apple Store" data-uc-svg>
                     </a>
                   </div>
                 </div>

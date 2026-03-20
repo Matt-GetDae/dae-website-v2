@@ -45,32 +45,32 @@ onBeforeUnmount(() => {
     <ul class="nav-y gap-0 fs-7">
       <li @click="props.togglelengModal(false)">
         <a href="#en" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150">
-          <img class="w-20px me-1" src="/assets/images/common/en.svg" alt="English" />English
+          <img class="w-20px me-1" src="~/assets/images/common/en.svg" alt="English" />English
         </a>
       </li>
       <li @click="props.togglelengModal(false)">
         <a href="#fr" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150">
-          <img class="w-20px me-1" src="/assets/images/common/fr.svg" alt="French" />French
+          <img class="w-20px me-1" src="~/assets/images/common/fr.svg" alt="French" />French
         </a>
       </li>
       <li @click="props.togglelengModal(false)">
         <a href="#ge" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150">
-          <img class="w-20px me-1" src="/assets/images/common/ge.svg" alt="Germany" />Germany
+          <img class="w-20px me-1" src="~/assets/images/common/ge.svg" alt="Germany" />Germany
         </a>
       </li>
       <li @click="props.togglelengModal(false)">
         <a href="#sp" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150">
-          <img class="w-20px me-1" src="/assets/images/common/sp.svg" alt="Spain" />Spain
+          <img class="w-20px me-1" src="~/assets/images/common/sp.svg" alt="Spain" />Spain
         </a>
       </li>
       <li @click="props.togglelengModal(false)">
         <a href="#ar" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150">
-          <img class="w-20px me-1" src="/assets/images/common/ar.svg" alt="العربية" />Arabic (العربية)
+          <img class="w-20px me-1" src="~/assets/images/common/ar.svg" alt="العربية" />Arabic (العربية)
         </a>
       </li>
       <li @click="props.togglelengModal(false)">
         <a href="#ch" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150">
-          <img class="w-20px me-1" src="/assets/images/common/ch.svg" alt="中文" />Chinese (中文)
+          <img class="w-20px me-1" src="~/assets/images/common/ch.svg" alt="中文" />Chinese (中文)
         </a>
       </li>
     </ul>

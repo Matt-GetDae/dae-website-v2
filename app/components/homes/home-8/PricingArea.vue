@@ -984,7 +984,7 @@ const toggleTable = () => {
                 <div
                   class="vstack items-start justify-between gap-2 lg:gap-4 p-2 xl:p-3 min-h-200px border bg-white text-dark rounded-1-5 shadow-xs">
                   <span class="icon mb-narrow">
-                    <img class="w-40px" src="/assets/images/custom-icons/home-8-icon-01.svg" alt="icon">
+                    <img class="w-40px" src="~/assets/images/custom-icons/home-8-icon-01.svg" alt="icon">
                   </span>
                   <span class="fs-6 fw-medium mb-narrow text-inherit">Enrich Data with Context & Risk Management</span>
                 </div>
@@ -993,7 +993,7 @@ const toggleTable = () => {
                 <div
                   class="vstack items-start justify-between gap-2 lg:gap-4 p-2 xl:p-3 min-h-200px border bg-white text-dark rounded-1-5 shadow-xs">
                   <span class="icon mb-narrow">
-                    <img class="w-40px" src="/assets/images/custom-icons/home-8-icon-08.svg" alt="icon">
+                    <img class="w-40px" src="~/assets/images/custom-icons/home-8-icon-08.svg" alt="icon">
                   </span>
                   <span class="fs-6 fw-medium mb-narrow text-inherit">Intuitive dashboard for at-a-glance
                     insights</span>
@@ -1003,7 +1003,7 @@ const toggleTable = () => {
                 <div
                   class="vstack items-start justify-between gap-2 lg:gap-4 p-2 xl:p-3 min-h-200px border bg-white text-dark rounded-1-5 shadow-xs">
                   <span class="icon mb-narrow">
-                    <img class="w-40px" src="/assets/images/custom-icons/home-8-icon-07.svg" alt="icon">
+                    <img class="w-40px" src="~/assets/images/custom-icons/home-8-icon-07.svg" alt="icon">
                   </span>
                   <span class="fs-6 fw-medium mb-narrow text-inherit">Automated data analysis and reporting</span>
                 </div>
@@ -1012,7 +1012,7 @@ const toggleTable = () => {
                 <div
                   class="vstack items-start justify-between gap-2 lg:gap-4 p-2 xl:p-3 min-h-200px border bg-white text-dark rounded-1-5 shadow-xs">
                   <span class="icon mb-narrow">
-                    <img class="w-40px" src="/assets/images/custom-icons/home-8-icon-04.svg" alt="icon">
+                    <img class="w-40px" src="~/assets/images/custom-icons/home-8-icon-04.svg" alt="icon">
                   </span>
                   <span class="fs-6 fw-medium mb-narrow text-inherit">Scalable plans to fit any business size</span>
                 </div>
@@ -1021,7 +1021,7 @@ const toggleTable = () => {
                 <div
                   class="vstack items-start justify-between gap-2 lg:gap-4 p-2 xl:p-3 min-h-200px border bg-white text-dark rounded-1-5 shadow-xs">
                   <span class="icon mb-narrow">
-                    <img class="w-40px" src="/assets/images/custom-icons/home-8-icon-05.svg" alt="icon">
+                    <img class="w-40px" src="~/assets/images/custom-icons/home-8-icon-05.svg" alt="icon">
                   </span>
                   <span class="fs-6 fw-medium mb-narrow text-inherit">Third-Party Management & AI-Powered Tools</span>
                 </div>

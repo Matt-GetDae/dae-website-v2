@@ -49,7 +49,7 @@ import { Navigation } from "swiper/modules";
                                             <SwiperSlide class="swiper-slide">
                                                 <article class="post type-post panel overflow-hidden vstack gap-3 p-2 rounded-3 bg-white dark:bg-opacity-5">
                                                     <figure class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/projects/project-01.webp" alt="EcoShop Platform">
+                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/projects/project-01.webp" alt="EcoShop Platform">
                                                         <a href="#" class="position-cover" data-caption="EcoShop Platform"></a>
                                                     </figure>
                                                     <div class="panel vstack gap-1 p-1">
@@ -71,7 +71,7 @@ import { Navigation } from "swiper/modules";
                                             <SwiperSlide class="swiper-slide">
                                                 <article class="post type-post panel overflow-hidden vstack gap-3 p-2 rounded-3 bg-white dark:bg-opacity-5">
                                                     <figure class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/projects/project-02.webp" alt="StyleHub Boutique">
+                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/projects/project-02.webp" alt="StyleHub Boutique">
                                                         <a href="#" class="position-cover" data-caption="StyleHub Boutique"></a>
                                                     </figure>
                                                     <div class="panel vstack gap-1 p-1">
@@ -93,7 +93,7 @@ import { Navigation } from "swiper/modules";
                                             <SwiperSlide class="swiper-slide">
                                                 <article class="post type-post panel overflow-hidden vstack gap-3 p-2 rounded-3 bg-white dark:bg-opacity-5">
                                                     <figure class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/projects/project-03.webp" alt="HealthTrack App">
+                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/projects/project-03.webp" alt="HealthTrack App">
                                                         <a href="#" class="position-cover" data-caption="HealthTrack App"></a>
                                                     </figure>
                                                     <div class="panel vstack gap-1 p-1">
@@ -115,7 +115,7 @@ import { Navigation } from "swiper/modules";
                                             <SwiperSlide class="swiper-slide">
                                                 <article class="post type-post panel overflow-hidden vstack gap-3 p-2 rounded-3 bg-white dark:bg-opacity-5">
                                                     <figure class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/projects/project-04.webp" alt="Corp Industries">
+                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/projects/project-04.webp" alt="Corp Industries">
                                                         <a href="#" class="position-cover" data-caption="Corp Industries"></a>
                                                     </figure>
                                                     <div class="panel vstack gap-1 p-1">
@@ -137,7 +137,7 @@ import { Navigation } from "swiper/modules";
                                             <SwiperSlide class="swiper-slide">
                                                 <article class="post type-post panel overflow-hidden vstack gap-3 p-2 rounded-3 bg-white dark:bg-opacity-5">
                                                     <figure class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/projects/project-05.webp" alt="Thompson Industries">
+                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/projects/project-05.webp" alt="Thompson Industries">
                                                         <a href="#" class="position-cover" data-caption="Thompson Industries"></a>
                                                     </figure>
                                                     <div class="panel vstack gap-1 p-1">
@@ -159,7 +159,7 @@ import { Navigation } from "swiper/modules";
                                             <SwiperSlide class="swiper-slide">
                                                 <article class="post type-post panel overflow-hidden vstack gap-3 p-2 rounded-3 bg-white dark:bg-opacity-5">
                                                     <figure class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/projects/project-06.webp" alt="GreenTech Solutions">
+                                                        <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/projects/project-06.webp" alt="GreenTech Solutions">
                                                         <a href="#" class="position-cover" data-caption="GreenTech Solutions"></a>
                                                     </figure>
                                                     <div class="panel vstack gap-1 p-1">

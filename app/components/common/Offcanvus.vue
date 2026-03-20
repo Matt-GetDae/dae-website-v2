@@ -106,8 +106,8 @@ onMounted(() => {
       <header class="uc-offcanvas-header hstack justify-between items-center pb-2 bg-white dark:bg-gray-900">
         <div class="uc-logo">
           <NuxtLink class="h5 text-none text-gray-900 dark:text-white" to="/">
-            <img class="dark:d-none" src="/assets/images/common/logo-light.svg" alt="Lexend" />
-            <img class="d-none dark:d-block" src="/assets/images/common/logo-dark.svg" alt="Lexend" />
+            <img class="dark:d-none" src="~/assets/images/common/logo-light.svg" alt="Lexend" />
+            <img class="d-none dark:d-block" src="~/assets/images/common/logo-dark.svg" alt="Lexend" />
           </NuxtLink>
         </div>
 

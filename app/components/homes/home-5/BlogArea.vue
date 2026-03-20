@@ -73,7 +73,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/post-4.jpg" alt="UX review presentations">
+                            src="~/assets/images/blog/post-4.jpg" alt="UX review presentations">
                           <NuxtLink to="/blog-details" class="position-cover" data-caption="UX review presentations"></NuxtLink>
                         </figure>
                         <div class="panel vstack gap-1">
@@ -97,7 +97,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/post-5.jpg" alt="Migrating to Linear 101">
+                            src="~/assets/images/blog/post-5.jpg" alt="Migrating to Linear 101">
                           <NuxtLink to="/blog-details-2" class="position-cover"
                             data-caption="Migrating to Linear 101"></NuxtLink>
                         </figure>
@@ -122,7 +122,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/post-6.jpg" alt="Building your API stack">
+                            src="~/assets/images/blog/post-6.jpg" alt="Building your API stack">
                           <NuxtLink to="/blog-details-3" class="position-cover"
                             data-caption="Building your API stack"></NuxtLink>
                         </figure>
@@ -147,7 +147,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/img-01.jpg" alt="UX review presentations">
+                            src="~/assets/images/blog/img-01.jpg" alt="UX review presentations">
                           <NuxtLink to="/blog-details" class="position-cover" data-caption="UX review presentations"></NuxtLink>
                         </figure>
                         <div class="panel vstack gap-1">
@@ -171,7 +171,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/img-02.jpg" alt="Migrating to Linear 101">
+                            src="~/assets/images/blog/img-02.jpg" alt="Migrating to Linear 101">
                           <NuxtLink to="/blog-details-2" class="position-cover"
                             data-caption="Migrating to Linear 101"></NuxtLink>
                         </figure>
@@ -197,7 +197,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/post-4.jpg" alt="UX review presentations">
+                            src="~/assets/images/blog/post-4.jpg" alt="UX review presentations">
                           <NuxtLink to="/blog-details" class="position-cover" data-caption="UX review presentations"></NuxtLink>
                         </figure>
                         <div class="panel vstack gap-1">
@@ -221,7 +221,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/post-5.jpg" alt="Migrating to Linear 101">
+                            src="~/assets/images/blog/post-5.jpg" alt="Migrating to Linear 101">
                           <NuxtLink to="/blog-details-2" class="position-cover"
                             data-caption="Migrating to Linear 101"></NuxtLink>
                         </figure>
@@ -246,7 +246,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/post-6.jpg" alt="Building your API stack">
+                            src="~/assets/images/blog/post-6.jpg" alt="Building your API stack">
                           <NuxtLink to="/blog-details-3" class="position-cover"
                             data-caption="Building your API stack"></NuxtLink>
                         </figure>
@@ -271,7 +271,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/img-01.jpg" alt="UX review presentations">
+                            src="~/assets/images/blog/img-01.jpg" alt="UX review presentations">
                           <NuxtLink to="/blog-details" class="position-cover" data-caption="UX review presentations"></NuxtLink>
                         </figure>
                         <div class="panel vstack gap-1">
@@ -295,7 +295,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-4x3 rounded-1-5 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/blog/img-02.jpg" alt="Migrating to Linear 101">
+                            src="~/assets/images/blog/img-02.jpg" alt="Migrating to Linear 101">
                           <NuxtLink to="/blog-details-2" class="position-cover"
                             data-caption="Migrating to Linear 101"></NuxtLink>
                         </figure>

@@ -8,23 +8,23 @@
             <div class="row child-cols-4 sm:child-cols items-center justify-center text-center g-2 sm:g-6 xl:g-9">
               <div>
                 <img class="text-opacity-60 dark:text-white dark:text-opacity-100 image-filter"
-                  src="/assets/images/brands/brand-09.svg" alt="Hello" data-uc-svg>
+                  src="~/assets/images/brands/brand-09.svg" alt="Hello" data-uc-svg>
               </div>
               <div>
                 <img class="text-opacity-60 dark:text-white dark:text-opacity-100 image-filter"
-                  src="/assets/images/brands/brand-05.svg" alt="Hello" data-uc-svg>
+                  src="~/assets/images/brands/brand-05.svg" alt="Hello" data-uc-svg>
               </div>
               <div>
                 <img class="text-opacity-60 dark:text-white dark:text-opacity-100 image-filter"
-                  src="/assets/images/brands/brand-10.svg" alt="Hello" data-uc-svg>
+                  src="~/assets/images/brands/brand-10.svg" alt="Hello" data-uc-svg>
               </div>
               <div>
                 <img class="text-opacity-60 dark:text-white dark:text-opacity-100 image-filter"
-                  src="/assets/images/brands/brand-11.svg" alt="Hello" data-uc-svg>
+                  src="~/assets/images/brands/brand-11.svg" alt="Hello" data-uc-svg>
               </div>
               <div>
                 <img class="text-opacity-60 dark:text-white dark:text-opacity-100 image-filter"
-                  src="/assets/images/brands/brand-12.svg" alt="Hello" data-uc-svg>
+                  src="~/assets/images/brands/brand-12.svg" alt="Hello" data-uc-svg>
               </div>
             </div>
           </div>

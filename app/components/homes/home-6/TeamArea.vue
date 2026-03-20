@@ -24,7 +24,7 @@
                   <div
                     class="panel vstack items-center gap-2 text-center p-3 lg:p-5 rounded-1-5 bg-white dark:bg-gray-700">
                     <img class="w-80px md:w-100px lg:w-150px h-80px md:h-100px lg:h-150px bg-gray-25 rounded-circle"
-                      src="/assets/images/team/01.png" alt="Nilson Laurent">
+                      src="~/assets/images/team/01.png" alt="Nilson Laurent">
                     <div class="panel vstack items-center gap-narrow">
                       <h6 class="h6 lg:h5 lh-lg m-0">Nilson Laurent</h6>
                       <span class="fs-7 lg:fs-6 lh-lg opacity-70">Founder</span>
@@ -42,7 +42,7 @@
                   <div
                     class="panel vstack items-center gap-2 text-center p-3 lg:p-5 rounded-1-5 bg-white dark:bg-gray-700">
                     <img class="w-80px md:w-100px lg:w-150px h-80px md:h-100px lg:h-150px bg-gray-25 rounded-circle"
-                      src="/assets/images/team/04.png" alt="Jason Chedjou">
+                      src="~/assets/images/team/04.png" alt="Jason Chedjou">
                     <div class="panel vstack items-center gap-narrow">
                       <h6 class="h6 lg:h5 lh-lg m-0">Jason Chedjou</h6>
                       <span class="fs-7 lg:fs-6 lh-lg opacity-70">Developer</span>
@@ -60,7 +60,7 @@
                   <div
                     class="panel vstack items-center gap-2 text-center p-3 lg:p-5 rounded-1-5 bg-white dark:bg-gray-700">
                     <img class="w-80px md:w-100px lg:w-150px h-80px md:h-100px lg:h-150px bg-gray-25 rounded-circle"
-                      src="/assets/images/team/05.png" alt="Zouhir Naji">
+                      src="~/assets/images/team/05.png" alt="Zouhir Naji">
                     <div class="panel vstack items-center gap-narrow">
                       <h6 class="h6 lg:h5 lh-lg m-0">Zouhir Naji</h6>
                       <span class="fs-7 lg:fs-6 lh-lg opacity-70">Developer</span>
@@ -78,7 +78,7 @@
                   <div
                     class="panel vstack items-center gap-2 text-center p-3 lg:p-5 rounded-1-5 bg-white dark:bg-gray-700">
                     <img class="w-80px md:w-100px lg:w-150px h-80px md:h-100px lg:h-150px bg-gray-25 rounded-circle"
-                      src="/assets/images/team/06.png" alt="Zaid Schwartz">
+                      src="~/assets/images/team/06.png" alt="Zaid Schwartz">
                     <div class="panel vstack items-center gap-narrow">
                       <h6 class="h6 lg:h5 lh-lg m-0">Zaid Schwartz</h6>
                       <span class="fs-7 lg:fs-6 lh-lg opacity-70">Designer</span>
@@ -96,7 +96,7 @@
                   <div
                     class="panel vstack items-center gap-2 text-center p-3 lg:p-5 rounded-1-5 bg-white dark:bg-gray-700">
                     <img class="w-80px md:w-100px lg:w-150px h-80px md:h-100px lg:h-150px bg-gray-25 rounded-circle"
-                      src="/assets/images/team/07.png" alt="Sarah Mandella">
+                      src="~/assets/images/team/07.png" alt="Sarah Mandella">
                     <div class="panel vstack items-center gap-narrow">
                       <h6 class="h6 lg:h5 lh-lg m-0">Sarah Mandella</h6>
                       <span class="fs-7 lg:fs-6 lh-lg opacity-70">Support</span>

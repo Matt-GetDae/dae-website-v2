@@ -17,7 +17,7 @@
             <div class="order-1 lg:order-0">
               <div class="features-item vstack justify-between gap-6 xl:gap-8 p-4 xl:p-6 rounded-1-5  ">
                 <div class="icon-box w-48px h-48px rounded-1-5 cstack bg-primary">
-                  <img class="w-20px xl:w-24px text-white image-filter-white" src="/assets/images/common/icons/zap.svg" alt="feature-icon"
+                  <img class="w-20px xl:w-24px text-white image-filter-white" src="~/assets/images/common/icons/zap.svg" alt="feature-icon"
                     data-uc-svg>
                 </div>
                 <div class="panel">
@@ -38,7 +38,7 @@
               <div
                 class="features-item vstack justify-between gap-6 xl:gap-8 p-4 xl:p-6 rounded-1-5 bg-gradient-45 from-secondary to-transparent dark:from-gray-700 sm:rounded-bottom-end-0 lg:rounded-bottom-0">
                 <div class="icon-box w-48px h-48px rounded-1-5 cstack bg-primary">
-                  <img class="w-20px xl:w-24px text-white image-filter-white" src="/assets/images/common/icons/database.svg"
+                  <img class="w-20px xl:w-24px text-white image-filter-white" src="~/assets/images/common/icons/database.svg"
                     alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
@@ -58,7 +58,7 @@
             <div class="order-2 sm:order-1 lg:order-0">
               <div class="features-item vstack justify-between gap-6 xl:gap-8 p-4 xl:p-6 rounded-1-5  ">
                 <div class="icon-box w-48px h-48px rounded-1-5 cstack bg-primary">
-                  <img class="w-20px xl:w-24px text-white image-filter-white" src="/assets/images/common/icons/puzzle.svg"
+                  <img class="w-20px xl:w-24px text-white image-filter-white" src="~/assets/images/common/icons/puzzle.svg"
                     alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
@@ -79,7 +79,7 @@
               <div
                 class="features-item vstack justify-between gap-6 xl:gap-8 p-4 xl:p-6 rounded-1-5 bg-gradient-45 from-secondary to-transparent dark:from-gray-700 sm:rounded-start-0 lg:rounded-top-end-0 lg:rounded-start-1-5">
                 <div class="icon-box w-48px h-48px rounded-1-5 cstack bg-primary">
-                  <img class="w-20px xl:w-24px text-white image-filter-white" src="/assets/images/common/icons/target.svg"
+                  <img class="w-20px xl:w-24px text-white image-filter-white" src="~/assets/images/common/icons/target.svg"
                     alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
@@ -99,7 +99,7 @@
             <div class="order-3 lg:order-0">
               <div class="features-item vstack justify-between gap-6 xl:gap-8 p-4 xl:p-6 rounded-1-5  ">
                 <div class="icon-box w-48px h-48px rounded-1-5 cstack bg-primary">
-                  <img class="w-20px xl:w-24px text-white image-filter-white" src="/assets/images/common/icons/line-chart.svg"
+                  <img class="w-20px xl:w-24px text-white image-filter-white" src="~/assets/images/common/icons/line-chart.svg"
                     alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
@@ -120,7 +120,7 @@
               <div
                 class="features-item vstack justify-between gap-6 xl:gap-8 p-4 xl:p-6 rounded-1-5 bg-gradient-45 from-secondary to-transparent dark:from-gray-700 sm:rounded-top-end-0 lg:rounded-top-start-0 lg:rounded-top-end-1-5">
                 <div class="icon-box w-48px h-48px rounded-1-5 cstack bg-primary">
-                  <img class="w-20px xl:w-24px text-white image-filter-white" src="/assets/images/common/icons/settings.svg"
+                  <img class="w-20px xl:w-24px text-white image-filter-white" src="~/assets/images/common/icons/settings.svg"
                     alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">

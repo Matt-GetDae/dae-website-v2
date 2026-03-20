@@ -15,7 +15,7 @@
                   <div class="panel vstack items-start gap-2">
                     <div class="panel">
                       <div class="hstack h-48px">
-                        <img class="w-128px text-gray-900 dark:text-white image-filter" src="/assets/images/brands/brand-07.svg"
+                        <img class="w-128px text-gray-900 dark:text-white image-filter" src="~/assets/images/brands/brand-07.svg"
                           alt="Brand" data-uc-svg>
                       </div>
                     </div>
@@ -24,7 +24,7 @@
                       whereas now we can focus on building out to help our employees.”</p>
                   </div>
                   <div class="panel hstack gap-2 mt-2 lg:mt-4">
-                    <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                    <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                     <div class="panel vstack items-start gap-0">
                       <h6 class="h6 m-0">Mark Zellers</h6>
                       <span class="fs-7 opacity-70">CEO, Co-Founder.</span>
@@ -37,7 +37,7 @@
                   <div class="panel vstack items-start gap-2">
                     <div class="panel">
                       <div class="hstack h-48px">
-                        <img class="w-128px text-gray-900 dark:text-white image-filter" src="/assets/images/brands/brand-06.svg"
+                        <img class="w-128px text-gray-900 dark:text-white image-filter" src="~/assets/images/brands/brand-06.svg"
                           alt="Brand" data-uc-svg>
                       </div>
                     </div>
@@ -46,7 +46,7 @@
                       pricing tables, and get approval from my boss all within 36 minutes.”</p>
                   </div>
                   <div class="panel hstack gap-2 mt-2 lg:mt-4">
-                    <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png" alt="Natalia Larsson">
+                    <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png" alt="Natalia Larsson">
                     <div class="panel vstack items-start gap-0">
                       <h6 class="h6 m-0">Natalia Larsson</h6>
                       <span class="fs-7 opacity-70">Director of Sales</span>
@@ -59,7 +59,7 @@
                   <div class="panel vstack items-start gap-2">
                     <div class="panel">
                       <div class="hstack h-48px">
-                        <img class="w-128px text-gray-900 dark:text-white image-filter" src="/assets/images/brands/brand-08.svg"
+                        <img class="w-128px text-gray-900 dark:text-white image-filter" src="~/assets/images/brands/brand-08.svg"
                           alt="Brand" data-uc-svg>
                       </div>
                     </div>
@@ -68,7 +68,7 @@
                       regulation and as we look to create our website and this builder just outstanding!”</p>
                   </div>
                   <div class="panel hstack gap-2 mt-2 lg:mt-4">
-                    <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                    <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                     <div class="panel vstack items-start gap-0">
                       <h6 class="h6 m-0">Sarah Edrissi</h6>
                       <span class="fs-7 opacity-70">Lead Marketing</span>

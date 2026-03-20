@@ -10,27 +10,27 @@
               <div class="row child-cols items-center text-center">
                 <div>
                   <div class="panel">
-                    <img class="max-w-40px lg:max-w-56px" src="/assets/images/apps/asana.svg" alt="brand">
+                    <img class="max-w-40px lg:max-w-56px" src="~/assets/images/apps/asana.svg" alt="brand">
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-40px lg:max-w-56px" src="/assets/images/apps/mailchimp.svg" alt="brand">
+                    <img class="max-w-40px lg:max-w-56px" src="~/assets/images/apps/mailchimp.svg" alt="brand">
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-40px lg:max-w-56px" src="/assets/images/apps/zapier.svg" alt="brand">
+                    <img class="max-w-40px lg:max-w-56px" src="~/assets/images/apps/zapier.svg" alt="brand">
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-40px lg:max-w-56px" src="/assets/images/apps/bitbucket.svg" alt="brand">
+                    <img class="max-w-40px lg:max-w-56px" src="~/assets/images/apps/bitbucket.svg" alt="brand">
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-40px lg:max-w-56px" src="/assets/images/apps/drive.svg" alt="brand">
+                    <img class="max-w-40px lg:max-w-56px" src="~/assets/images/apps/drive.svg" alt="brand">
                   </div>
                 </div>
               </div>

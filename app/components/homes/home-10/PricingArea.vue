@@ -19,7 +19,7 @@
                 </li>
                 <li :class="{ 'uc-active': activeTab === 'yearly' }">
                   <a class="d-flex justify-center text-white cursor-pointer" @click="switchTab('yearly')">Pay yearly</a> 
-                    <img class="position-absolute top-50 start-100 translate-middle-y mt-n3 ltr:ms-2 rtl:me-2 text-tertiary d-none md:d-block" src="/assets/images/template/50_off.svg" alt="50% OFF">
+                    <img class="position-absolute top-50 start-100 translate-middle-y mt-n3 ltr:ms-2 rtl:me-2 text-tertiary d-none md:d-block" src="~/assets/images/template/50_off.svg" alt="50% OFF">
                 </li>  
               </ul>
 

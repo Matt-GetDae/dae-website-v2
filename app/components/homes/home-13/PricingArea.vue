@@ -56,7 +56,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                     <ul class="nav-y gap-1 fs-7 xl:fs-6 dark:text-white">
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Unlimited transcription</span>
@@ -64,7 +64,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Limited AI Summariesn</span>
@@ -72,7 +72,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>800 mins storage</span>
@@ -80,7 +80,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Record zoom, Gmeet, MS Teams, more</span>
@@ -110,7 +110,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                     <ul class="nav-y gap-1 fs-7 xl:fs-6 text-white dark:text-dark">
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Unlimited transcription</span>
@@ -118,7 +118,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Limited AI Summariesn</span>
@@ -126,7 +126,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>800 mins storage</span>
@@ -134,7 +134,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Record zoom, Gmeet, MS Teams, more</span>
@@ -166,7 +166,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                     <ul class="nav-y gap-1 fs-7 xl:fs-6 dark:text-white">
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Unlimited transcription</span>
@@ -174,7 +174,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Limited AI Summariesn</span>
@@ -182,7 +182,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>800 mins storage</span>
@@ -190,7 +190,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       </li>
                       <li class="row child-cols items-start g-1">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>Record zoom, Gmeet, MS Teams, more</span>
@@ -248,12 +248,12 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       <div>
                         <div class="clients-item-video panel">
                           <figure class="clients-item-video panel ratio ratio-1x1 overflow-hidden h-100">
-                            <img class="image media-cover" src="/assets/images/portrait/home-13-03.jpg"
+                            <img class="image media-cover" src="~/assets/images/portrait/home-13-03.jpg"
                               alt="client image">
                             <div class="position-cover" data-uc-lightbox="video-autoplay: true; animation: scale;">
                               <a @click="playVideo(videoUrl)" :style="{ cursor: 'pointer' }"
                                 class="position-absolute top-50 start-50 translate-middle uc-link w-80px h-80px xl:w-100px xl:h-100px rounded-circle cstack bg-black bg-opacity-50 backdrop-2">
-                                <img class="w-32px h-32px text-white" src="/assets/images/common/icons/play.svg"
+                                <img class="w-32px h-32px text-white" src="~/assets/images/common/icons/play.svg"
                                   alt="icon" data-uc-svg>
                               </a>
                             </div>
@@ -285,12 +285,12 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       <div>
                         <div class="clients-item-video panel">
                           <figure class="clients-item-video panel ratio ratio-1x1 overflow-hidden h-100">
-                            <img class="image media-cover" src="/assets/images/portrait/home-13-01.jpg"
+                            <img class="image media-cover" src="~/assets/images/portrait/home-13-01.jpg"
                               alt="client image">
                             <div class="position-cover" data-uc-lightbox="video-autoplay: true; animation: scale;">
                               <a @click="playVideo(videoUrl)" :style="{ cursor: 'pointer' }"
                                 class="position-absolute top-50 start-50 translate-middle uc-link w-80px h-80px xl:w-100px xl:h-100px rounded-circle cstack bg-black bg-opacity-50 backdrop-2">
-                                <img class="w-32px h-32px text-white" src="/assets/images/common/icons/play.svg"
+                                <img class="w-32px h-32px text-white" src="~/assets/images/common/icons/play.svg"
                                   alt="icon" data-uc-svg>
                               </a>
                             </div>
@@ -322,12 +322,12 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                       <div>
                         <div class="clients-item-video panel">
                           <figure class="clients-item-video panel ratio ratio-1x1 overflow-hidden h-100">
-                            <img class="image media-cover" src="/assets/images/portrait/home-13-02.jpg"
+                            <img class="image media-cover" src="~/assets/images/portrait/home-13-02.jpg"
                               alt="client image">
                             <div class="position-cover" data-uc-lightbox="video-autoplay: true; animation: scale;">
                               <a @click="playVideo(videoUrl)" :style="{ cursor: 'pointer' }"
                                 class="position-absolute top-50 start-50 translate-middle uc-link w-80px h-80px xl:w-100px xl:h-100px rounded-circle cstack bg-black bg-opacity-50 backdrop-2">
-                                <img class="w-32px h-32px text-white" src="/assets/images/common/icons/play.svg"
+                                <img class="w-32px h-32px text-white" src="~/assets/images/common/icons/play.svg"
                                   alt="icon" data-uc-svg>
                               </a>
                             </div>

@@ -11,7 +11,7 @@
               data-uc-grid>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-01.jpg" alt="Mark Zellers">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-01.jpg" alt="Mark Zellers">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">Mark Zellers</h6>
                     <span class="fs-7 opacity-70">Founder & CEO</span>
@@ -20,7 +20,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-02.jpg" alt="John Zellers">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-02.jpg" alt="John Zellers">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">John Zellers</h6>
                     <span class="fs-7 opacity-70">Co-Founder</span>
@@ -29,7 +29,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-03.jpg" alt="Kim Yun Son">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-03.jpg" alt="Kim Yun Son">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">Kim Yun Son</h6>
                     <span class="fs-7 opacity-70">Engineering Manager</span>
@@ -38,7 +38,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-04.jpg" alt="André Garcia">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-04.jpg" alt="André Garcia">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">André Garcia</h6>
                     <span class="fs-7 opacity-70">Product Manager</span>
@@ -47,7 +47,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-05.jpg" alt="Peter Lary">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-05.jpg" alt="Peter Lary">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">Peter Lary</h6>
                     <span class="fs-7 opacity-70">UX Researcher</span>
@@ -56,7 +56,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-06.jpg" alt="Henry Matt">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-06.jpg" alt="Henry Matt">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">Henry Matt</h6>
                     <span class="fs-7 opacity-70">Customer Success</span>
@@ -65,7 +65,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-07.jpg" alt="Natalia">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-07.jpg" alt="Natalia">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">Natalia</h6>
                     <span class="fs-7 opacity-70">Lead of fun</span>
@@ -74,7 +74,7 @@
               </div>
               <div>
                 <div class="panel vstack gap-2">
-                  <img class="w-100 rounded" src="/assets/images/template/team-08.jpg" alt="Larry">
+                  <img class="w-100 rounded" src="~/assets/images/template/team-08.jpg" alt="Larry">
                   <div class="panel vstack items-start gap-0">
                     <h6 class="h6 m-0">Larry</h6>
                     <span class="fs-7 opacity-70">Director of Joy</span>

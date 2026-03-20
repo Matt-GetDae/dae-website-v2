@@ -8,7 +8,7 @@
           <div class="brands panel">
             <div class="row child-cols-4 sm:child-cols items-center justify-center text-center g-2 sm:g-6 xl:g-9">
               <div>
-                <img class="text-secondary dark:text-white" src="/assets/images/brands/brand-09.svg" alt="Hello"
+                <img class="text-secondary dark:text-white" src="~/assets/images/brands/brand-09.svg" alt="Hello"
                   data-uc-svg="" hidden=""><svg width="152" height="48" viewBox="0 0 152 48" fill="none"
                   xmlns="http://www.w3.org/2000/svg" class="text-secondary dark:text-white uc-svg">
                   <path fill-rule="evenodd" clip-rule="evenodd"
@@ -42,7 +42,7 @@
                 </svg>
               </div>
               <div>
-                <img class="text-secondary dark:text-white" src="/assets/images/brands/brand-05.svg" alt="Hello"
+                <img class="text-secondary dark:text-white" src="~/assets/images/brands/brand-05.svg" alt="Hello"
                   data-uc-svg="" hidden=""><svg width="179" height="48" viewBox="0 0 179 48" fill="none"
                   xmlns="http://www.w3.org/2000/svg" class="text-secondary dark:text-white uc-svg">
                   <path
@@ -94,7 +94,7 @@
                 </svg>
               </div>
               <div>
-                <img class="text-secondary dark:text-white" src="/assets/images/brands/brand-10.svg" alt="Hello"
+                <img class="text-secondary dark:text-white" src="~/assets/images/brands/brand-10.svg" alt="Hello"
                   data-uc-svg="" hidden=""><svg width="157" height="48" viewBox="0 0 157 48" fill="none"
                   xmlns="http://www.w3.org/2000/svg" class="text-secondary dark:text-white uc-svg">
                   <path
@@ -148,7 +148,7 @@
                 </svg>
               </div>
               <div>
-                <img class="text-secondary dark:text-white" src="/assets/images/brands/brand-11.svg" alt="Hello"
+                <img class="text-secondary dark:text-white" src="~/assets/images/brands/brand-11.svg" alt="Hello"
                   data-uc-svg="" hidden=""><svg width="158" height="48" viewBox="0 0 158 48" fill="none"
                   xmlns="http://www.w3.org/2000/svg" class="text-secondary dark:text-white uc-svg">
                   <path
@@ -178,7 +178,7 @@
                 </svg>
               </div>
               <div>
-                <img class="text-secondary dark:text-white" src="/assets/images/brands/brand-12.svg" alt="Hello"
+                <img class="text-secondary dark:text-white" src="~/assets/images/brands/brand-12.svg" alt="Hello"
                   data-uc-svg="" hidden=""><svg width="149" height="48" viewBox="0 0 149 48" fill="none"
                   xmlns="http://www.w3.org/2000/svg" class="text-secondary dark:text-white uc-svg">
                   <path fill-rule="evenodd" clip-rule="evenodd"

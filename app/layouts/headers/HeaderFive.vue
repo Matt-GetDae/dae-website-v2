@@ -76,8 +76,8 @@ const toggleMenu = () => {
             <div class="uc-navbar-left">
               <div class="uc-logo">
                 <NuxtLink class="panel text-none" to="/">
-                  <img v-if="!isSticky" src="/assets/images/common/logo-dark.svg" alt="Lexend">
-                  <img v-if="isSticky" src="/assets/images/common/logo-light.svg" alt="Lexend">
+                  <img v-if="!isSticky" src="~/assets/images/common/logo-dark.svg" alt="Lexend">
+                  <img v-if="isSticky" src="~/assets/images/common/logo-light.svg" alt="Lexend">
                 </NuxtLink>
 
 

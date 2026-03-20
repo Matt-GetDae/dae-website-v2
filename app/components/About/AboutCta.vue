@@ -5,25 +5,25 @@
       <div class="d-none lg:d-block"
         data-anime="onview: -100; targets: img; scale: [0.8, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: 350;">
         <div class="position-absolute top-50 start-0 translate-middle-y ms-n6">
-          <img class="w-200px xl:w-250px d-block dark:d-none" src="/assets/images/template/thinking.svg" alt="thinking">
-          <img class="w-200px xl:w-250px d-none dark:d-block" src="/assets/images/template/thinking-dark.svg"
+          <img class="w-200px xl:w-250px d-block dark:d-none" src="~/assets/images/template/thinking.svg" alt="thinking">
+          <img class="w-200px xl:w-250px d-none dark:d-block" src="~/assets/images/template/thinking-dark.svg"
             alt="thinking-dark">
         </div>
         <div class="position-absolute top-50 end-0 translate-middle-y me-n6">
-          <img class="w-200px xl:w-250px d-block dark:d-none" src="/assets/images/template/send-message.svg"
+          <img class="w-200px xl:w-250px d-block dark:d-none" src="~/assets/images/template/send-message.svg"
             alt="send-message">
-          <img class="w-200px xl:w-250px d-none dark:d-block" src="/assets/images/template/send-message-dark.svg"
+          <img class="w-200px xl:w-250px d-none dark:d-block" src="~/assets/images/template/send-message-dark.svg"
             alt="send-message-dark">
         </div>
       </div>
       <div class="d-none lg:d-block"
         data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
         <div class="position-absolute bottom-0 start-0 rotate-45" style="bottom: 30% !important; left: 24% !important;">
-          <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2"
+          <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2"
             data-uc-svg>
         </div>
         <div class="position-absolute top-0 end-0 rotate-45" style="top: 50% !important; right: 21% !important;">
-          <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1"
+          <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1"
             data-uc-svg>
         </div>
       </div>

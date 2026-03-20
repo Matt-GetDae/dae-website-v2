@@ -8,10 +8,10 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
 <template>
     <div class="panel overflow-hidden mx-1 lg:mx-2 rounded-2 xl:rounded-3 bg-tertiary dark:bg-gray-800">
             <div class="d-none sm:d-block">
-                <img src="/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10" style="top: -12%; left: 6%;" data-uc-svg>
+                <img src="~/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10" style="top: -12%; left: 6%;" data-uc-svg>
             </div>
             <div class="d-none sm:d-block">
-                <img src="/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10" style="bottom: -12%; right: 6%;" data-uc-svg>
+                <img src="~/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10" style="bottom: -12%; right: 6%;" data-uc-svg>
             </div>
 
             <!-- Section start -->
@@ -99,15 +99,15 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                         <SwiperSlide class="swiper-slide">
                                             <div class="clients-item panel vstack justify-between gap-3 xl:gap-5 p-3 lg:p-4 xl:p-5 border bg-white dark:bg-opacity-5 rounded-2 h-100">
                                                 <div class="rating d-flex gap-0">
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                                                 </div>
                                                 <p class="desc fs-5 xl:fs-4 text-gray dark:text-gray-100">"Has transformed how our team works. We've cut meeting time by 30% and improved project delivery by 25%."</p>
                                                 <div class="author panel hstack gap-2">
-                                                    <img class="w-48px rounded-circle" src="/assets/images/avatars/15.png" alt="Harry Peterson">
+                                                    <img class="w-48px rounded-circle" src="~/assets/images/avatars/15.png" alt="Harry Peterson">
                                                     <div class="panel vstack justify-center gap-0">
                                                         <h6 class="h6 m-0">Harry Peterson</h6>
                                                         <span class="fs-7 opacity-70">Project Manager at Elevate</span>
@@ -118,15 +118,15 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                         <SwiperSlide class="swiper-slide">
                                             <div class="clients-item panel vstack justify-between gap-3 xl:gap-5 p-3 lg:p-4 xl:p-5 border bg-white dark:bg-opacity-5 rounded-2 h-100">
                                                 <div class="rating d-flex gap-0">
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                                                 </div>
                                                 <p class="desc fs-5 xl:fs-4 text-gray dark:text-gray-100">"The automation features alone saved our accounting team per week best software investment we've made this year."</p>
                                                 <div class="author panel hstack gap-2">
-                                                    <img class="w-48px rounded-circle" src="/assets/images/avatars/16.png" alt="Mark Rodriguez">
+                                                    <img class="w-48px rounded-circle" src="~/assets/images/avatars/16.png" alt="Mark Rodriguez">
                                                     <div class="panel vstack justify-center gap-0">
                                                         <h6 class="h6 m-0">Mark Rodriguez</h6>
                                                         <span class="fs-7 opacity-70">CTO at NexusCorps</span>
@@ -137,15 +137,15 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                         <SwiperSlide class="swiper-slide">
                                             <div class="clients-item panel vstack justify-between gap-3 xl:gap-5 p-3 lg:p-4 xl:p-5 border bg-white dark:bg-opacity-5 rounded-2 h-100">
                                                 <div class="rating d-flex gap-0">
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                                                 </div>
                                                 <p class="desc fs-5 xl:fs-4 text-gray dark:text-gray-100">"Implementation took less than a week, and the ROI was immediate. Our team adopted it faster than any other tool."</p>
                                                 <div class="author panel hstack gap-2">
-                                                    <img class="w-48px rounded-circle" src="/assets/images/avatars/17.png" alt="Sané Hommels">
+                                                    <img class="w-48px rounded-circle" src="~/assets/images/avatars/17.png" alt="Sané Hommels">
                                                     <div class="panel vstack justify-center gap-0">
                                                         <h6 class="h6 m-0">Sané Hommels</h6>
                                                         <span class="fs-7 opacity-70">Operations Director at Goodwell</span>
@@ -156,15 +156,15 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                         <SwiperSlide class="swiper-slide">
                                             <div class="clients-item panel vstack justify-between gap-3 xl:gap-5 p-3 lg:p-4 xl:p-5 border bg-white dark:bg-opacity-5 rounded-2 h-100">
                                                 <div class="rating d-flex gap-0">
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                                                 </div>
                                                 <p class="desc fs-5 xl:fs-4 text-gray dark:text-gray-100">“We are based in Europe and the latest Data Protection Regulation forces us to look for service suppliers than comply!”</p>
                                                 <div class="author panel hstack gap-2">
-                                                    <img class="w-48px rounded-circle" src="/assets/images/avatars/06.png" alt="Mark Zellers">
+                                                    <img class="w-48px rounded-circle" src="~/assets/images/avatars/06.png" alt="Mark Zellers">
                                                     <div class="panel vstack justify-center gap-0">
                                                         <h6 class="h6 m-0">Mark Zellers</h6>
                                                         <span class="fs-7 opacity-70">Director of Sales at Goodwell</span>
@@ -175,15 +175,15 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                         <SwiperSlide class="swiper-slide">
                                             <div class="clients-item panel vstack justify-between gap-3 xl:gap-5 p-3 lg:p-4 xl:p-5 border bg-white dark:bg-opacity-5 rounded-2 h-100">
                                                 <div class="rating d-flex gap-0">
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                                                    <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                                                    <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                                                 </div>
                                                 <p class="desc fs-5 xl:fs-4 text-gray dark:text-gray-100">“This powerfull tool eliminates the need to leave Salesforce to get things done as I can create a custom proposal with dynamic.”</p>
                                                 <div class="author panel hstack gap-2">
-                                                    <img class="w-48px rounded-circle" src="/assets/images/avatars/02.jpg" alt="Natalia Larsson">
+                                                    <img class="w-48px rounded-circle" src="~/assets/images/avatars/02.jpg" alt="Natalia Larsson">
                                                     <div class="panel vstack justify-center gap-0">
                                                         <h6 class="h6 m-0">Natalia Larsson</h6>
                                                         <span class="fs-7 opacity-70">Lead Marketing at NexusCorps</span>

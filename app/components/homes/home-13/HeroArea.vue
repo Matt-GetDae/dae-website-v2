@@ -10,13 +10,13 @@
                 <div class="container">
                     <div class="section-inner panel">
                         <div class="d-none lg:d-block" data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: anime.stagger(150, {start: 500});">
-                            <img src="/assets/images/vectors/finger.svg" alt="Icon" class="d-inline-block position-absolute w-64px xl:w-80px dark:text-white lg:d-none xl:d-block" style="top: 29%; left: 33%;" data-uc-svg>
-                            <img src="/assets/images/vectors/finger.svg" alt="Icon" class="d-inline-block position-absolute w-64px xl:w-80px dark:text-white xl:d-none" style="top: 34%; left: 28%;" data-uc-svg>
-                            <img src="/assets/images/vectors/star-01.svg" alt="Icon" class="d-inline-block position-absolute w-32px xl:w-48px dark:text-white" style="top: 1%; left: 8%;" data-uc-svg>
-                            <img src="/assets/images/vectors/star-01.svg" alt="Icon" class="d-inline-block position-absolute w-20px xl:w-32px dark:text-white" style="top: 8%; right: 6%;" data-uc-svg>
-                            <img src="/assets/images/vectors/star-02.svg" alt="Icon" class="d-inline-block position-absolute w-18px xl:w-24px dark:text-white" style="top: 5%; left: 13%;" data-uc-svg>
-                            <img src="/assets/images/vectors/star-02.svg" alt="Icon" class="d-inline-block position-absolute w-20px xl:w-32px dark:text-white" style="top: 24%; left: 7%;" data-uc-svg>
-                            <img src="/assets/images/vectors/star-02.svg" alt="Icon" class="d-inline-block position-absolute w-20px xl:w-32px dark:text-white" style="top: 28%; right: 21%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/finger.svg" alt="Icon" class="d-inline-block position-absolute w-64px xl:w-80px dark:text-white lg:d-none xl:d-block" style="top: 29%; left: 33%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/finger.svg" alt="Icon" class="d-inline-block position-absolute w-64px xl:w-80px dark:text-white xl:d-none" style="top: 34%; left: 28%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/star-01.svg" alt="Icon" class="d-inline-block position-absolute w-32px xl:w-48px dark:text-white" style="top: 1%; left: 8%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/star-01.svg" alt="Icon" class="d-inline-block position-absolute w-20px xl:w-32px dark:text-white" style="top: 8%; right: 6%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/star-02.svg" alt="Icon" class="d-inline-block position-absolute w-18px xl:w-24px dark:text-white" style="top: 5%; left: 13%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/star-02.svg" alt="Icon" class="d-inline-block position-absolute w-20px xl:w-32px dark:text-white" style="top: 24%; left: 7%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/star-02.svg" alt="Icon" class="d-inline-block position-absolute w-20px xl:w-32px dark:text-white" style="top: 28%; right: 21%;" data-uc-svg>
                         </div>
                         <div class="row child-cols-12 justify-center items-center g-8">
                             <div class="lg:col-10">
@@ -38,7 +38,7 @@
                                         </div>
                                     </div>
                                     <div class="panel rounded-2" data-anime="translateY: [80, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 450; delay: 950;">
-                                        <img src="/assets/images/template/dashboard-13-home.png" alt="Dashboard Lexend">
+                                        <img src="~/assets/images/template/dashboard-13-home.png" alt="Dashboard Lexend">
                                     </div>
                                 </div>
                             </div>

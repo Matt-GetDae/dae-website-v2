@@ -19,7 +19,7 @@
                   class="features-item vstack justify-between gap-4 px-3 py-4 xl:p-5 rounded-2 bg-white dark:bg-opacity-5">
                   <div class="icon-box">
                     <img class="w-48px h-48px text-primary dark:text-quaternary"
-                      src="/assets/images/custom-icons/home-13-icon-01.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/custom-icons/home-13-icon-01.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
                     <div class="vstack gap-1">
@@ -35,7 +35,7 @@
                   class="features-item vstack justify-between gap-4 px-3 py-4 xl:p-5 rounded-2 bg-white dark:bg-opacity-5">
                   <div class="icon-box">
                     <img class="w-48px h-48px text-primary dark:text-quaternary"
-                      src="/assets/images/custom-icons/home-13-icon-02.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/custom-icons/home-13-icon-02.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
                     <div class="vstack gap-1">
@@ -51,7 +51,7 @@
                   class="features-item vstack justify-between gap-4 px-3 py-4 xl:p-5 rounded-2 bg-white dark:bg-opacity-5">
                   <div class="icon-box">
                     <img class="w-48px h-48px text-primary dark:text-quaternary"
-                      src="/assets/images/custom-icons/home-13-icon-03.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/custom-icons/home-13-icon-03.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
                     <div class="vstack gap-1">
@@ -67,7 +67,7 @@
                   class="features-item vstack justify-between gap-4 px-3 py-4 xl:p-5 rounded-2 bg-white dark:bg-opacity-5">
                   <div class="icon-box">
                     <img class="w-48px h-48px text-primary dark:text-quaternary"
-                      src="/assets/images/custom-icons/home-13-icon-04.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/custom-icons/home-13-icon-04.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
                     <div class="vstack gap-1">
@@ -83,7 +83,7 @@
                   class="features-item vstack justify-between gap-4 px-3 py-4 xl:p-5 rounded-2 bg-white dark:bg-opacity-5">
                   <div class="icon-box">
                     <img class="w-48px h-48px text-primary dark:text-quaternary"
-                      src="/assets/images/custom-icons/home-13-icon-05.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/custom-icons/home-13-icon-05.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
                     <div class="vstack gap-1">
@@ -99,7 +99,7 @@
                   class="features-item vstack justify-between gap-4 px-3 py-4 xl:p-5 rounded-2 bg-white dark:bg-opacity-5">
                   <div class="icon-box">
                     <img class="w-48px h-48px text-primary dark:text-quaternary"
-                      src="/assets/images/custom-icons/home-13-icon-06.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/custom-icons/home-13-icon-06.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
                     <div class="vstack gap-1">

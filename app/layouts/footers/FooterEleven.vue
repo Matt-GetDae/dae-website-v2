@@ -12,7 +12,7 @@
                                 <div class="col-12 sm:col-6 lg:col-3 xl:col-auto">
                                     <div class="panel vstack items-start gap-3 xl:gap-4 xl:w-350px">
                                         <NuxtLink to="/" style="width: 140px">
-                                            <img class="text-primary dark:text-white image-filter" src="/assets/images/common/logo-12-light.svg" alt="Lexend" data-uc-svg>
+                                            <img class="text-primary dark:text-white image-filter" src="~/assets/images/common/logo-12-light.svg" alt="Lexend" data-uc-svg>
                                         </NuxtLink>
                                     </div>
                                 </div>

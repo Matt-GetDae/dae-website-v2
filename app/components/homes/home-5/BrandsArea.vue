@@ -52,35 +52,35 @@ import { Autoplay, FreeMode } from "swiper/modules";
                   data-uc-swiper-s="items: 4; center: false; center-bounds: false;"
                   data-uc-swiper-m="items: 5; gap: 80;">
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-01.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-01.svg"
                       alt="Proline" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-02.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-02.svg"
                       alt="Iceberg" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-03.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-03.svg"
                       alt="PinPoint" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-04.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-04.svg"
                       alt="Clues" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-05.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-05.svg"
                       alt="Snowflake" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-06.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-06.svg"
                       alt="Proline" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-07.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-07.svg"
                       alt="Iceberg" data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="/assets/images/brands/brand-08.svg"
+                    <img class="brand-item-image h-40px xl:h-48px image-filter" src="~/assets/images/brands/brand-08.svg"
                       alt="PinPoint" data-uc-svg>
                   </SwiperSlide>
                 </Swiper>

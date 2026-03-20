@@ -17,7 +17,7 @@
           </div>
           <div class="image-wrap lg:max-w-1/2 mt-2"
             data-anime="onview:-100; translateX: [48, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 500;">
-            <img class="image" src="/assets/images/template/home-06-builder-tools.png" alt="builder-tools">
+            <img class="image" src="~/assets/images/template/home-06-builder-tools.png" alt="builder-tools">
           </div>
         </div>
       </div>

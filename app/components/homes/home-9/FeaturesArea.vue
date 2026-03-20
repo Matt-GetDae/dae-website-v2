@@ -26,7 +26,7 @@
                 class="panel vstack lg:hstack gap-2 p-2 overflow-hidden bg-secondary-300 text-gray-900 dark:bg-tertiary-700 dark:bg-gradient-45 to-transparent dark:text-white rounded-2 lg:rounded-3 border border-dark dark:border-white dark:border-opacity-15">
                 <div class="panel lg:max-w-300px lg:min-w-300px">
                   <img class="rounded-1-5 border border-dark dark:border-white dark:border-opacity-15"
-                    src="/assets/images/features/home-8-feature-01.png" alt="">
+                    src="~/assets/images/features/home-8-feature-01.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-2">
                   <h4 class="h4 m-0 text-inherit">Seamless integrations with your app tools</h4>
@@ -42,7 +42,7 @@
                 class="panel vstack lg:hstack gap-2 p-2 overflow-hidden bg-secondary-300 text-gray-900 dark:bg-tertiary-700 dark:bg-gradient-45 to-transparent dark:text-white rounded-2 lg:rounded-3 border border-dark dark:border-white dark:border-opacity-15">
                 <div class="panel lg:max-w-300px lg:min-w-300px">
                   <img class="rounded-1-5 border border-dark dark:border-white dark:border-opacity-15"
-                    src="/assets/images/features/home-8-feature-02.png" alt="">
+                    src="~/assets/images/features/home-8-feature-02.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-2">
                   <h4 class="h4 m-0 text-inherit">Intuitive dashboard for at-a-glance insights</h4>
@@ -58,7 +58,7 @@
                 class="panel vstack lg:hstack gap-2 p-2 overflow-hidden bg-secondary-300 text-gray-900 dark:bg-tertiary-700 dark:bg-gradient-45 to-transparent dark:text-white rounded-2 lg:rounded-3 border border-dark dark:border-white dark:border-opacity-15">
                 <div class="panel lg:max-w-300px lg:min-w-300px">
                   <img class="rounded-1-5 border border-dark dark:border-white dark:border-opacity-15"
-                    src="/assets/images/features/home-8-feature-03.png" alt="">
+                    src="~/assets/images/features/home-8-feature-03.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-2">
                   <h4 class="h4 m-0 text-inherit">Get more value from your tools</h4>
@@ -74,7 +74,7 @@
                 class="panel vstack lg:hstack gap-2 p-2 overflow-hidden bg-secondary-300 text-gray-900 dark:bg-tertiary-700 dark:bg-gradient-45 to-transparent dark:text-white rounded-2 lg:rounded-3 border border-dark dark:border-white dark:border-opacity-15">
                 <div class="panel lg:max-w-300px lg:min-w-300px">
                   <img class="rounded-1-5 border border-dark dark:border-white dark:border-opacity-15"
-                    src="/assets/images/features/home-8-feature-04.png" alt="">
+                    src="~/assets/images/features/home-8-feature-04.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-2">
                   <h4 class="h4 m-0 text-inherit">Enrich Data with Risk Management</h4>
@@ -90,7 +90,7 @@
                 class="panel vstack lg:hstack gap-2 p-2 overflow-hidden bg-secondary-300 text-gray-900 dark:bg-tertiary-700 dark:bg-gradient-45 to-transparent dark:text-white rounded-2 lg:rounded-3 border border-dark dark:border-white dark:border-opacity-15">
                 <div class="panel lg:max-w-300px lg:min-w-300px">
                   <img class="rounded-1-5 border border-dark dark:border-white dark:border-opacity-15"
-                    src="/assets/images/features/home-8-feature-05.png" alt="">
+                    src="~/assets/images/features/home-8-feature-05.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-2">
                   <h4 class="h4 m-0 text-inherit">Scalable plans to fit any business size</h4>
@@ -106,7 +106,7 @@
                 class="panel vstack lg:hstack gap-2 p-2 overflow-hidden bg-secondary-300 text-gray-900 dark:bg-tertiary-700 dark:bg-gradient-45 to-transparent dark:text-white rounded-2 lg:rounded-3 border border-dark dark:border-white dark:border-opacity-15">
                 <div class="panel lg:max-w-300px lg:min-w-300px">
                   <img class="rounded-1-5 border border-dark dark:border-white dark:border-opacity-15"
-                    src="/assets/images/features/home-8-feature-06.png" alt="">
+                    src="~/assets/images/features/home-8-feature-06.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-2">
                   <h4 class="h4 m-0 text-inherit">Automated data analysis and reporting</h4>
@@ -142,8 +142,8 @@
               <div class="hstack justify-center gap-narrow">
                 <span class="desc rtl:order-first">5,200+ reviews on</span>
                 <div>
-                  <img src="/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
-                  <img src="/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
+                  <img src="~/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
+                  <img src="~/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
                     class="w-96px d-none dark:d-inline-flex">
                 </div>
               </div>

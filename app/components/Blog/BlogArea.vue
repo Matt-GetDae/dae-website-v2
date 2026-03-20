@@ -87,11 +87,11 @@ const blog_data  = [
       <div class="position-absolute top-0 start-0 end-0 min-h-screen overflow-hidden d-none lg:d-block"
         data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 100});">
         <div class="position-absolute top-0 start-0 rotate-45" style="top: 16% !important; left: 18% !important;">
-          <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1"
+          <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1"
             data-uc-svg>
         </div>
         <div class="position-absolute top-0 end-0 rotate-45" style="top: 5% !important; right: 18% !important;">
-          <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2"
+          <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2"
             data-uc-svg>
         </div>
       </div>
@@ -109,7 +109,7 @@ const blog_data  = [
                     <figure
                       class="featured-image m-0 rounded ratio ratio-4x3 rounded lg:rounded-2 uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/img-05.jpg" alt="Maximizing your reach with marketing strategies">
+                        src="~/assets/images/blog/img-05.jpg" alt="Maximizing your reach with marketing strategies">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="Maximizing your reach with marketing strategies">
                       </NuxtLink>
@@ -126,7 +126,7 @@ const blog_data  = [
                       <ul class="post-meta nav-x ft-tertiary justify-center fs-7 gap-1">
                         <li>
                           <div class="hstack gap-narrow ft-tertiary ">
-                            <img src="/assets/images/avatars/02.png" alt="David"
+                            <img src="~/assets/images/avatars/02.png" alt="David"
                               class="w-24px h-24px rounded-circle me-narrow">
                             <NuxtLink to="/page-author" class="text-none fw-bold text-dark dark:text-white">David
                             </NuxtLink>

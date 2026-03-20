@@ -42,23 +42,23 @@
                     <div
                       class="row child-cols-4 sm:child-cols justify-center items-center gx-2 gy-3 sm:g-8 text-dark dark:text-white">
                       <div>
-                        <img src="/assets/images/companies/company-logo-1.svg" alt="Company 1"
+                        <img src="~/assets/images/companies/company-logo-1.svg" alt="Company 1"
                           class="h-40px sm:h-48px w-auto image-filter" data-uc-svg>
                       </div>
                       <div>
-                        <img src="/assets/images/companies/company-logo-2.svg" alt="Company 2"
+                        <img src="~/assets/images/companies/company-logo-2.svg" alt="Company 2"
                           class="h-40px sm:h-48px w-auto image-filter" data-uc-svg>
                       </div>
                       <div>
-                        <img src="/assets/images/companies/company-logo-3.svg" alt="Company 3"
+                        <img src="~/assets/images/companies/company-logo-3.svg" alt="Company 3"
                           class="h-40px sm:h-48px w-auto image-filter" data-uc-svg>
                       </div>
                       <div>
-                        <img src="/assets/images/companies/company-logo-4.svg" alt="Company 4"
+                        <img src="~/assets/images/companies/company-logo-4.svg" alt="Company 4"
                           class="h-40px sm:h-48px w-auto image-filter" data-uc-svg>
                       </div>
                       <div>
-                        <img src="/assets/images/companies/company-logo-5.svg" alt="Company 5"
+                        <img src="~/assets/images/companies/company-logo-5.svg" alt="Company 5"
                           class="h-40px sm:h-48px w-auto image-filter" data-uc-svg>
                       </div>
                     </div>
@@ -68,7 +68,7 @@
               <div
                 class="panel rounded-2 mx-auto max-w-1000px mb-3 sm:mb-4 md:mb-5 xl:mb-7 overflow-hidden border rounded-2 shadow-md lg:shadow-xl"
                 data-anime="onview: -100; translateY: [16, 0]; scale: [1.1, 1]; opacity: [0, 1]; easing: easeOutExpo; duration: 750; delay: 250;">
-                <img src="/assets/images/template/dashboard-11-home.png" alt="Dashboard Lexend" class="w-100">
+                <img src="~/assets/images/template/dashboard-11-home.png" alt="Dashboard Lexend" class="w-100">
               </div>
             </div>
           </div>

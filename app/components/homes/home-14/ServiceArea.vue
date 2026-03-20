@@ -4,10 +4,10 @@
       class="section-outer panel overflow-hidden py-6 sm:py-8 xl:py-10 mx-1 mt-1 lg:mx-2 lg:mt-2 rounded-2 xl:rounded-3 bg-gray-900 dark:bg-gray-800 uc-dark">
       <div class="container">
         <div class="section-inner panel">
-          <img src="/assets/images/vectors/tapes.svg" alt="victor"
+          <img src="~/assets/images/vectors/tapes.svg" alt="victor"
             class="position-absolute start-0 h-400px lg:h-350px xl:h-400px text-white text-opacity-20"
             style="top: -38%;" data-uc-svg>
-          <img src="/assets/images/vectors/tapes.svg" alt="victor"
+          <img src="~/assets/images/vectors/tapes.svg" alt="victor"
             class="position-absolute end-0 h-400px lg:h-350px xl:h-400px text-white text-opacity-20"
             style="bottom: -38%;" data-uc-svg>
           <div
@@ -21,7 +21,7 @@
               <div>
                 <div class="features-item vstack items-center gap-4 px-3 py-4 xl:p-6 rounded-2 bg-white bg-opacity-5">
                   <div class="icon-box">
-                    <img class="w-48px h-48px text-secondary" src="/assets/images/custom-icons/home-13-icon-01.svg"
+                    <img class="w-48px h-48px text-secondary" src="~/assets/images/custom-icons/home-13-icon-01.svg"
                       alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
@@ -36,7 +36,7 @@
               <div>
                 <div class="features-item vstack items-center gap-4 px-3 py-4 xl:p-6 rounded-2 bg-white bg-opacity-5">
                   <div class="icon-box">
-                    <img class="w-48px h-48px text-secondary" src="/assets/images/custom-icons/home-13-icon-02.svg"
+                    <img class="w-48px h-48px text-secondary" src="~/assets/images/custom-icons/home-13-icon-02.svg"
                       alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
@@ -51,7 +51,7 @@
               <div>
                 <div class="features-item vstack items-center gap-4 px-3 py-4 xl:p-6 rounded-2 bg-white bg-opacity-5">
                   <div class="icon-box">
-                    <img class="w-48px h-48px text-secondary" src="/assets/images/custom-icons/home-13-icon-03.svg"
+                    <img class="w-48px h-48px text-secondary" src="~/assets/images/custom-icons/home-13-icon-03.svg"
                       alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
@@ -66,7 +66,7 @@
               <div>
                 <div class="features-item vstack items-center gap-4 px-3 py-4 xl:p-6 rounded-2 bg-white bg-opacity-5">
                   <div class="icon-box">
-                    <img class="w-48px h-48px text-secondary" src="/assets/images/custom-icons/home-13-icon-04.svg"
+                    <img class="w-48px h-48px text-secondary" src="~/assets/images/custom-icons/home-13-icon-04.svg"
                       alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
@@ -81,7 +81,7 @@
               <div>
                 <div class="features-item vstack items-center gap-4 px-3 py-4 xl:p-6 rounded-2 bg-white bg-opacity-5">
                   <div class="icon-box">
-                    <img class="w-48px h-48px text-secondary" src="/assets/images/custom-icons/home-13-icon-05.svg"
+                    <img class="w-48px h-48px text-secondary" src="~/assets/images/custom-icons/home-13-icon-05.svg"
                       alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">
@@ -96,7 +96,7 @@
               <div>
                 <div class="features-item vstack items-center gap-4 px-3 py-4 xl:p-6 rounded-2 bg-white bg-opacity-5">
                   <div class="icon-box">
-                    <img class="w-48px h-48px text-secondary" src="/assets/images/custom-icons/home-13-icon-06.svg"
+                    <img class="w-48px h-48px text-secondary" src="~/assets/images/custom-icons/home-13-icon-06.svg"
                       alt="feature-icon" data-uc-svg>
                   </div>
                   <div class="panel">

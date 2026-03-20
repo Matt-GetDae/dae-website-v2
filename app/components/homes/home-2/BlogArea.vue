@@ -15,7 +15,7 @@
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-2 uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/img-11.jpg" alt="Top 5 reasons to invest in marketing">
+                        src="~/assets/images/blog/img-11.jpg" alt="Top 5 reasons to invest in marketing">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="Top 5 reasons to invest in marketing"></NuxtLink>
                     </figure>
@@ -27,7 +27,7 @@
                         class="post-meta nav-x ft-tertiary justify-center gap-1 fs-7 text-gray-400 dark:text-gray-300 d-none lg:d-flex">
                         <li>
                           <div class="hstack gap-narrow ft-tertiary ">
-                            <img src="/assets/images/avatars/02.png" alt="David"
+                            <img src="~/assets/images/avatars/02.png" alt="David"
                               class="w-24px h-24px rounded-circle me-narrow">
                             <NuxtLink to="/page-author" class="text-none fw-bold text-dark dark:text-white">David</NuxtLink>
                           </div>
@@ -49,7 +49,7 @@
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-2 uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/img-12.jpg" alt="How can marketing help your business?">
+                        src="~/assets/images/blog/img-12.jpg" alt="How can marketing help your business?">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="How can marketing help your business?"></NuxtLink>
                     </figure>
@@ -61,7 +61,7 @@
                         class="post-meta nav-x ft-tertiary justify-center gap-1 fs-7 text-gray-400 dark:text-gray-300 d-none lg:d-flex">
                         <li>
                           <div class="hstack gap-narrow ft-tertiary ">
-                            <img src="/assets/images/avatars/06.png" alt="Allen"
+                            <img src="~/assets/images/avatars/06.png" alt="Allen"
                               class="w-24px h-24px rounded-circle me-narrow">
                             <NuxtLink to="/page-author" class="text-none fw-bold text-dark dark:text-white">Allen</NuxtLink>
                           </div>
@@ -83,7 +83,7 @@
                     <figure
                       class="featured-image m-0 rounded ratio ratio-3x2 rounded-2 uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/img-13.jpg" alt="The ultimate guide to marketing success">
+                        src="~/assets/images/blog/img-13.jpg" alt="The ultimate guide to marketing success">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="The ultimate guide to marketing success"></NuxtLink>
                     </figure>
@@ -95,7 +95,7 @@
                         class="post-meta nav-x ft-tertiary justify-center gap-1 fs-7 text-gray-400 dark:text-gray-300 d-none lg:d-flex">
                         <li>
                           <div class="hstack gap-narrow ft-tertiary ">
-                            <img src="/assets/images/avatars/01.png" alt="Kevin"
+                            <img src="~/assets/images/avatars/01.png" alt="Kevin"
                               class="w-24px h-24px rounded-circle me-narrow">
                             <NuxtLink to="/page-author" class="text-none fw-bold text-dark dark:text-white">Kevin</NuxtLink>
                           </div>

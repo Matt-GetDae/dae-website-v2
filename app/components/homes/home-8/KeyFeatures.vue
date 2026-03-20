@@ -17,7 +17,7 @@
             <div class="order-1 lg:order-0">
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-white rounded">
-                  <img class="w-24px xl:w-32px" src="/assets/images/custom-icons/home-8-icon-01.svg" alt="feature-icon">
+                  <img class="w-24px xl:w-32px" src="~/assets/images/custom-icons/home-8-icon-01.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -31,7 +31,7 @@
             <div class="order-0">
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-white rounded">
-                  <img class="w-24px xl:w-32px" src="/assets/images/custom-icons/home-8-icon-02.svg" alt="feature-icon">
+                  <img class="w-24px xl:w-32px" src="~/assets/images/custom-icons/home-8-icon-02.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -45,7 +45,7 @@
             <div class="order-2 sm:order-1 lg:order-0">
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-white rounded">
-                  <img class="w-24px xl:w-32px" src="/assets/images/custom-icons/home-8-icon-03.svg" alt="feature-icon">
+                  <img class="w-24px xl:w-32px" src="~/assets/images/custom-icons/home-8-icon-03.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -59,7 +59,7 @@
             <div class="order-1 lg:order-0">
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-white rounded">
-                  <img class="w-24px xl:w-32px" src="/assets/images/custom-icons/home-8-icon-07.svg" alt="feature-icon">
+                  <img class="w-24px xl:w-32px" src="~/assets/images/custom-icons/home-8-icon-07.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -73,7 +73,7 @@
             <div class="order-3 lg:order-0">
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-white rounded">
-                  <img class="w-24px xl:w-32px" src="/assets/images/custom-icons/home-8-icon-05.svg" alt="feature-icon">
+                  <img class="w-24px xl:w-32px" src="~/assets/images/custom-icons/home-8-icon-05.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -87,7 +87,7 @@
             <div class="order-2 lg:order-0">
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-white rounded">
-                  <img class="w-24px xl:w-32px" src="/assets/images/custom-icons/home-8-icon-06.svg" alt="feature-icon">
+                  <img class="w-24px xl:w-32px" src="~/assets/images/custom-icons/home-8-icon-06.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -122,8 +122,8 @@
               <div class="hstack justify-center gap-narrow">
                 <span class="desc rtl:order-first">4,000+ reviews on</span>
                 <div>
-                  <img src="/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
-                  <img src="/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
+                  <img src="~/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
+                  <img src="~/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
                     class="w-96px d-none dark:d-inline-flex">
                 </div>
               </div>

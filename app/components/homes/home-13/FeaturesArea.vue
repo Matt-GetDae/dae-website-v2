@@ -22,7 +22,7 @@
                       patterns with customizable dashboards.</p>
                   </div>
                   <div class="panel">
-                    <img class="rounded-2" src="/assets/images/features/home-13-feature-01.png" alt="">
+                    <img class="rounded-2" src="~/assets/images/features/home-13-feature-01.png" alt="">
                   </div>
                 </div>
               </div>
@@ -35,7 +35,7 @@
                       use without switching contexts.</p>
                   </div>
                   <div class="panel">
-                    <img class="rounded-2" src="/assets/images/features/home-13-feature-02.png" alt="">
+                    <img class="rounded-2" src="~/assets/images/features/home-13-feature-02.png" alt="">
                   </div>
                 </div>
               </div>
@@ -48,7 +48,7 @@
                       everyone in sync, no matter where they.</p>
                   </div>
                   <div class="panel">
-                    <img class="rounded-2" src="/assets/images/features/home-13-feature-03.png" alt="">
+                    <img class="rounded-2" src="~/assets/images/features/home-13-feature-03.png" alt="">
                   </div>
                 </div>
               </div>
@@ -61,7 +61,7 @@
                       our intuitive and secure payment system.</p>
                   </div>
                   <div class="panel">
-                    <img class="rounded-2" src="/assets/images/features/home-13-feature-04.png" alt="">
+                    <img class="rounded-2" src="~/assets/images/features/home-13-feature-04.png" alt="">
                   </div>
                 </div>
               </div>

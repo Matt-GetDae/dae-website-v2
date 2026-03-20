@@ -3,11 +3,11 @@
     <div class="position-absolute top-0 start-0 end-0 min-h-screen overflow-hidden d-none lg:d-block"
       data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
       <div class="position-absolute top-0 start-0 rotate-45" style="top: 30% !important; left: 18% !important;">
-        <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1"
+        <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1"
           data-uc-svg>
       </div>
       <div class="position-absolute top-0 end-0 rotate-45" style="top: 15% !important; right: 18% !important;">
-        <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2"
+        <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2"
           data-uc-svg>
       </div>
     </div>
@@ -26,7 +26,7 @@
                 <div class="panel overflow-hidden rounded-3 h-100 min-h-350px">
                   <figure class="panel h-100 m-0 rounded ">
                     <canvas class="h-100 w-100"></canvas>
-                    <img class="media-cover image" src="/assets/images/template/hero-contact.jpg" alt="Hero image" fetchpriority="high">
+                    <img class="media-cover image" src="~/assets/images/template/hero-contact.jpg" alt="Hero image" fetchpriority="high">
                   </figure>
                   <div class="position-cover text-white vstack justify-end p-4 lg:p-6 xl:p-9">
                     <div class="position-cover bg-gradient-to-t from-black to-transparent opacity-50"></div>

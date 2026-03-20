@@ -28,7 +28,7 @@
                         <ul class="nav-y gap-2 fs-7 xl:fs-6 text-gray-400 dark:text-gray-200">
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Up to 10 users</span>
@@ -36,7 +36,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>50 automation credits</span>
@@ -44,7 +44,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>5 workflow templates</span>
@@ -52,7 +52,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Basic analytics</span>
@@ -60,7 +60,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Email support</span>
@@ -100,7 +100,7 @@
                           <ul class="nav-y gap-2 fs-7 xl:fs-6 text-gray-400 dark:text-gray-200">
                             <li class="row child-cols items-start g-1">
                               <div class="col-auto">
-                                <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                                <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                               </div>
                               <div>
                                 <span>Unlimited users</span>
@@ -108,7 +108,7 @@
                             </li>
                             <li class="row child-cols items-start g-1">
                               <div class="col-auto">
-                                <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                                <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                               </div>
                               <div>
                                 <span>200 automation credits</span>
@@ -116,7 +116,7 @@
                             </li>
                             <li class="row child-cols items-start g-1">
                               <div class="col-auto">
-                                <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                                <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                               </div>
                               <div>
                                 <span>50 workflow templates</span>
@@ -124,7 +124,7 @@
                             </li>
                             <li class="row child-cols items-start g-1">
                               <div class="col-auto">
-                                <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                                <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                               </div>
                               <div>
                                 <span>Advanced analytics</span>
@@ -132,7 +132,7 @@
                             </li>
                             <li class="row child-cols items-start g-1">
                               <div class="col-auto">
-                                <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                                <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                               </div>
                               <div>
                                 <span>Priority support</span>
@@ -168,7 +168,7 @@
                         <ul class="nav-y gap-2 fs-7 xl:fs-6 text-gray-400 dark:text-gray-200">
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Unlimited everything</span>
@@ -176,7 +176,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Custom workflows</span>
@@ -184,7 +184,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Dedicated account manager</span>
@@ -192,7 +192,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>Advanced security features</span>
@@ -200,7 +200,7 @@
                           </li>
                           <li class="row child-cols items-start g-1">
                             <div class="col-auto">
-                              <img src="/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
+                              <img src="~/assets/images/vectors/check-06.svg" alt="icon" style="padding-top: 2px;">
                             </div>
                             <div>
                               <span>24/7 premium support</span>

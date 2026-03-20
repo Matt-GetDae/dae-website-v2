@@ -10,35 +10,35 @@
             data-anime="onview: -100; targets: > *; translateY: [-16, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(200);">
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-01.svg" alt="Proline" data-uc-svg>
+                src="~/assets/images/brands/brand-01.svg" alt="Proline" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-02.svg" alt="Iceberg" data-uc-svg>
+                src="~/assets/images/brands/brand-02.svg" alt="Iceberg" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-03.svg" alt="PinPoint" data-uc-svg>
+                src="~/assets/images/brands/brand-03.svg" alt="PinPoint" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-04.svg" alt="Clues" data-uc-svg>
+                src="~/assets/images/brands/brand-04.svg" alt="Clues" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-05.svg" alt="Snowflake" data-uc-svg>
+                src="~/assets/images/brands/brand-05.svg" alt="Snowflake" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-06.svg" alt="Proline" data-uc-svg>
+                src="~/assets/images/brands/brand-06.svg" alt="Proline" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-07.svg" alt="Iceberg" data-uc-svg>
+                src="~/assets/images/brands/brand-07.svg" alt="Iceberg" data-uc-svg>
             </div>
             <div>
               <img class="max-w-100px md:max-w-128px text-black dark:text-secondary image-filter"
-                src="/assets/images/brands/brand-08.svg" alt="PinPoint" data-uc-svg>
+                src="~/assets/images/brands/brand-08.svg" alt="PinPoint" data-uc-svg>
             </div>
           </div>
         </div>

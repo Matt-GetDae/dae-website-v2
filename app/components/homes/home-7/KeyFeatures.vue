@@ -3,11 +3,11 @@
     <div
       class="section-outer panel py-4 md:py-6 xl:py-10 bg-secondary dark:bg-primary-700 dark:text-white dark:text-opacity-60 rounded-2 lg:rounded-4"
       data-anime="onscroll: .key-features; onscroll-trigger: 1; onscoll-duration: 150%; translateY: [-80, 0]; scale: [0.85, 1]; opacity: [0.85, 1]; easing: linear;">
-      <img class="d-none lg:d-inline-block w-200px position-absolute" src="/assets/images/vectors/man-trigger.svg"
+      <img class="d-none lg:d-inline-block w-200px position-absolute" src="~/assets/images/vectors/man-trigger.svg"
         alt="man-trigger" style="bottom: -5%; left: 20%;"
         data-anime="onview: -200; scale: [0.8, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 500;">
       <img class="d-none lg:d-inline-block w-32px position-absolute text-white image-filter"
-        src="/assets/images/vectors/appostrof.svg" alt="appostrof"
+        src="~/assets/images/vectors/appostrof.svg" alt="appostrof"
         style="bottom: 16%; right: 33%; transform: rotate(45deg);" data-uc-svg
         data-anime="onview: -200; scale: [0.8, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 500;">
       <div class="container sm:max-w-lg">
@@ -28,7 +28,7 @@
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-tertiary rounded">
                   <img class="w-24px xl:w-32px text-primary-400 dark:text-tertiary"
-                    src="/assets/images/custom-icons/icon-01.svg" alt="feature-icon">
+                    src="~/assets/images/custom-icons/icon-01.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -43,7 +43,7 @@
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-tertiary rounded">
                   <img class="w-24px xl:w-32px text-primary-400 dark:text-tertiary"
-                    src="/assets/images/custom-icons/icon-02.svg" alt="feature-icon">
+                    src="~/assets/images/custom-icons/icon-02.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -58,7 +58,7 @@
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-tertiary rounded">
                   <img class="w-24px xl:w-32px text-primary-400 dark:text-tertiary"
-                    src="/assets/images/custom-icons/icon-03.svg" alt="feature-icon">
+                    src="~/assets/images/custom-icons/icon-03.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -73,7 +73,7 @@
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-tertiary rounded">
                   <img class="w-24px xl:w-32px text-primary-400 dark:text-tertiary"
-                    src="/assets/images/custom-icons/icon-07.svg" alt="feature-icon">
+                    src="~/assets/images/custom-icons/icon-07.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -88,7 +88,7 @@
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-tertiary rounded">
                   <img class="w-24px xl:w-32px text-primary-400 dark:text-tertiary"
-                    src="/assets/images/custom-icons/icon-05.svg" alt="feature-icon">
+                    src="~/assets/images/custom-icons/icon-05.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -103,7 +103,7 @@
               <div class="features-item vstack items-center justify-center text-center gap-4">
                 <div class="icon-box cstack w-48px h-48px dark:bg-tertiary rounded">
                   <img class="w-24px xl:w-32px text-primary-400 dark:text-tertiary"
-                    src="/assets/images/custom-icons/icon-06.svg" alt="feature-icon">
+                    src="~/assets/images/custom-icons/icon-06.svg" alt="feature-icon">
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -123,7 +123,7 @@
             <div class="vstack md:hstack justify-center gap-2 mt-3">
               <a href="#"
                 class="btn btn-md xl:btn-lg btn-alt-dark border-dark px-3 lg:px-5 fw-bold contrast-shadow-sm hover:contrast-shadow">
-                <img src="/assets/images/template/google-icon.svg" alt="Google Icon">
+                <img src="~/assets/images/template/google-icon.svg" alt="Google Icon">
                 <span>Start free trial</span>
               </a>
             </div>

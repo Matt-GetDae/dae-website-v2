@@ -97,7 +97,7 @@ const swiperConfig = {
                         v-for="star in testimonial.rating" 
                         :key="star" 
                         class="icon icon-1" 
-                        src="/assets/images/star.svg" 
+                        src="~/assets/images/star.svg" 
                         alt="star"
                         loading="lazy"
                       >
@@ -134,7 +134,7 @@ const swiperConfig = {
                         v-for="star in testimonial.rating" 
                         :key="star" 
                         class="icon icon-1" 
-                        src="/assets/images/star.svg" 
+                        src="~/assets/images/star.svg" 
                         alt="star"
                         loading="lazy"
                       >

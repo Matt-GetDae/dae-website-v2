@@ -23,7 +23,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/zap.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/zap.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">Drag-and-Drop Interface</h3>
                   <a href="#" class="position-cover"></a>
@@ -35,7 +35,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/database.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/database.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">Pre-Designed Templates</h3>
                   <a href="#" class="position-cover"></a>
@@ -47,7 +47,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/puzzle.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/puzzle.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">Fully Responsive Design</h3>
                   <a href="#" class="position-cover"></a>
@@ -59,7 +59,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/target.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/target.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">Website Customization</h3>
                   <a href="#" class="position-cover"></a>
@@ -71,7 +71,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/line-chart.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/line-chart.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">UI Elements Library</h3>
                   <a href="#" class="position-cover"></a>
@@ -83,7 +83,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/settings.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/settings.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">Global & Local Styles</h3>
                   <a href="#" class="position-cover"></a>
@@ -95,7 +95,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-secondary">
                     <img class="w-20px xl:w-24px text-white dark:text-primary image-filter-white"
-                      src="/assets/images/common/icons/puzzle.svg" alt="feature-icon" data-uc-svg>
+                      src="~/assets/images/common/icons/puzzle.svg" alt="feature-icon" data-uc-svg>
                   </div>
                   <h3 class="title h6 md:h5 m-0">Third-Party Integrations</h3>
                   <a href="#" class="position-cover"></a>

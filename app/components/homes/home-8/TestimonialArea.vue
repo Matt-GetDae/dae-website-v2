@@ -57,7 +57,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -80,7 +80,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           with dynamic pricing tables, and get approval from my boss all within 36 minutes.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png" alt="Natalia Larsson">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png" alt="Natalia Larsson">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -103,7 +103,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           this regulation and as we look to create our website and this builder just outstanding!”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -126,7 +126,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/08.png" alt="Anna Yon">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/08.png" alt="Anna Yon">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -149,7 +149,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -172,7 +172,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           with dynamic pricing tables, and get approval from my boss all within 36 minutes.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png" alt="Natalia Larsson">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png" alt="Natalia Larsson">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -195,7 +195,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           this regulation and as we look to create our website and this builder just outstanding!”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -218,7 +218,7 @@ import { Autoplay, Navigation } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/08.png" alt="Anna Yon">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/08.png" alt="Anna Yon">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>

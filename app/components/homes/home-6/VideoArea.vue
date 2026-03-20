@@ -26,13 +26,13 @@ const closeVideo = () => {
         >
      
           <video
-            src="/assets/images/media/lexend_vid_home-6.webm"
+            src="~/assets/images/media/lexend_vid_home-6.webm"
             preload="none"
             loop
             muted
             playsinline
             autoplay
-            poster="/assets/images/media/lexend_vid_home-6.jpg"
+            poster=""
             class="w-full h-full object-cover"
           ></video>
  
@@ -58,7 +58,7 @@ const closeVideo = () => {
               </button>
  
               <video
-                src="/assets/images/media/lexend_vid_home-6.webm"
+                src="~/assets/images/media/lexend_vid_home-6.webm"
                 controls
                 autoplay
                 playsinline

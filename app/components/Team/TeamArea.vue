@@ -15,7 +15,7 @@
                                 <div class="row child-cols-6 sm:child-cols-4 lg:child-cols-3 col-match gx-2 gy-4 xl:gx-4 xl:gy-6" data-anime="onview: -100; targets: >*; translateY: [48, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 400});">
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/01.jpg" alt="Amélie Laurent">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/01.jpg" alt="Amélie Laurent">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Amélie Laurent</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Founder & CEO</span>
@@ -24,7 +24,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/02.jpg" alt="Nikolas Gibbons">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/02.jpg" alt="Nikolas Gibbons">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Nikolas Gibbons</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Engineering Manager</span>
@@ -33,7 +33,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/03.jpg" alt="Sienna Hewitt">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/03.jpg" alt="Sienna Hewitt">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Sienna Hewitt</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Product Manager</span>
@@ -42,7 +42,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/04.jpg" alt="Lily-Rose Chedjou">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/04.jpg" alt="Lily-Rose Chedjou">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Lily-Rose Chedjou</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Frontend Developer</span>
@@ -51,7 +51,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/05.jpg" alt="Zahra Christensen">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/05.jpg" alt="Zahra Christensen">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Zahra Christensen</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Backend Developer</span>
@@ -60,7 +60,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/06.jpg" alt="Caitlyn King">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/06.jpg" alt="Caitlyn King">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Caitlyn King</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Product Designer</span>
@@ -69,7 +69,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/07.jpg" alt="Zaid Schwartz">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/07.jpg" alt="Zaid Schwartz">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Zaid Schwartz</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">UX Researcher</span>
@@ -78,7 +78,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack gap-2 xl:gap-3">
-                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="/assets/images/team/08.jpg" alt="Marco Kelly">
+                                            <img class="w-100 rounded-1 sm:rounded-1-5" src="~/assets/images/team/08.jpg" alt="Marco Kelly">
                                             <div class="panel vstack items-start gap-narrow">
                                                 <h6 class="h6 xl:h5 m-0">Marco Kelly</h6>
                                                 <span class="fs-6 xl:fs-5 text-primary dark:text-white dark:text-opacity-70">Customer Success</span>

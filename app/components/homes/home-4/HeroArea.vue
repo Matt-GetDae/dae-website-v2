@@ -44,8 +44,8 @@
               <div class="expand-container mt-0 lg:mt-4 ltr:ms-n2 rtl:me-n2" 
               style="margin-left: -1rem !important;"
               data-anime="translateX: [48, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 200});">
-                <img class="ltr:d-block rtl:d-none" src="/assets/images/template/hero-mockup.png" alt="hero-mockup">
-                <!-- <img class="ltr:d-none rtl:d-block" src="/assets/images/template/hero-mockup-rtl.png" alt="hero-mockup-rtl"> -->
+                <img class="ltr:d-block rtl:d-none" src="~/assets/images/template/hero-mockup.png" alt="hero-mockup">
+                <!-- <img class="ltr:d-none rtl:d-block" src="~/assets/images/template/hero-mockup-rtl.png" alt="hero-mockup-rtl"> -->
               </div>
             </div>
 

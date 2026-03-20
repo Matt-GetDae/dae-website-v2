@@ -62,7 +62,7 @@ const selectLanguage = (language) => {
                   <div class="panel vstack items-start gap-3 xl:gap-4 ltr:md:pe-8 rtl:md:ps-8">
                     <div>
                       <NuxtLink class="panel text-none" to="/" style="width: 140px;">
-                        <img class="text-primary dark:text-tertiary image-filter" src="/assets/images/common/logo-8-light.svg"
+                        <img class="text-primary dark:text-tertiary image-filter" src="~/assets/images/common/logo-8-light.svg"
                           alt="Lexend" data-uc-svg="">
                       </NuxtLink>
                       <p class="mt-2">Connect Instantly, Communicate Seamlessly, Stay connected with friends, family,

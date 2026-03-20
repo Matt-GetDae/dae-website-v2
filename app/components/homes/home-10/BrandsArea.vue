@@ -10,22 +10,22 @@
               <div class="row child-cols items-center g-2 lg:g-4 text-center text-dark dark:text-tertiary">
                 <div>
                   <div class="panel">
-                    <img class="max-w-100px lg:max-w-128px image-filter" src="/assets/images/brands/brand-01.svg" alt="brand" >
+                    <img class="max-w-100px lg:max-w-128px image-filter" src="~/assets/images/brands/brand-01.svg" alt="brand" >
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-100px lg:max-w-128px image-filter" src="/assets/images/brands/brand-07.svg" alt="brand" >
+                    <img class="max-w-100px lg:max-w-128px image-filter" src="~/assets/images/brands/brand-07.svg" alt="brand" >
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-100px lg:max-w-128px image-filter" src="/assets/images/brands/brand-03.svg" alt="brand" >
+                    <img class="max-w-100px lg:max-w-128px image-filter" src="~/assets/images/brands/brand-03.svg" alt="brand" >
                   </div>
                 </div>
                 <div>
                   <div class="panel">
-                    <img class="max-w-100px lg:max-w-128px image-filter" src="/assets/images/brands/brand-05.svg" alt="brand" >
+                    <img class="max-w-100px lg:max-w-128px image-filter" src="~/assets/images/brands/brand-05.svg" alt="brand" >
                   </div>
                 </div>
               </div>

@@ -32,7 +32,7 @@
                             </div>
                         </div>
                         <div class="panel" data-anime="onview: -100; translateY: [80, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 450;">
-                            <img src="/assets/images/template/dashboard-13-home.png" alt="Dashboard Lexend">
+                            <img src="~/assets/images/template/dashboard-13-home.png" alt="Dashboard Lexend">
                         </div>
                     </div>
                 </div>

@@ -15,7 +15,7 @@
                 data-anime="onview: -200; translateY: [48, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: 100;">
                 <div class="vstack gap-4 h-100">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-01.svg"
+                    <img src="~/assets/images/template/feature-01.svg"
                       alt="Share tools quickly and confidently in minutes">
                   </div>
                   <div class="panel">
@@ -38,7 +38,7 @@
                 data-anime="onview: -200; translateY: [48, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: 100;">
                 <div class="vstack gap-4 h-100">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-02.svg"
+                    <img src="~/assets/images/template/feature-02.svg"
                       alt="Connect every part of your entire business">
                   </div>
                   <div class="panel">
@@ -65,7 +65,7 @@
                 data-anime="onview: -200; translateY: [48, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: 100;">
                 <div class="vstack gap-4 h-100">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-03.svg" alt="Maintain compliance and control your apps">
+                    <img src="~/assets/images/template/feature-03.svg" alt="Maintain compliance and control your apps">
                   </div>
                   <div class="panel">
                     <div class="panel vstack justify-center gap-4 h-100">

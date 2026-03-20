@@ -31,7 +31,7 @@
                           <figure
                             class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                              src="/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
+                              src="~/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
                             <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Laptop Cover"></NuxtLink>
                           </figure>
                         </div>
@@ -60,7 +60,7 @@
                           <figure
                             class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                              src="/assets/images/common/products/img-08.jpg" alt="Disney Toys">
+                              src="~/assets/images/common/products/img-08.jpg" alt="Disney Toys">
                             <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Disney Toys"></NuxtLink>
                           </figure>
                         </div>
@@ -89,7 +89,7 @@
                           <figure
                             class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                              src="/assets/images/common/products/img-09.jpg" alt="Screen Axe">
+                              src="~/assets/images/common/products/img-09.jpg" alt="Screen Axe">
                             <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Screen Axe"></NuxtLink>
                           </figure>
                         </div>
@@ -118,7 +118,7 @@
                           <figure
                             class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                             <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                              src="/assets/images/common/products/img-10.jpg" alt="Airpods Pro">
+                              src="~/assets/images/common/products/img-10.jpg" alt="Airpods Pro">
                             <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Airpods Pro"></NuxtLink>
                           </figure>
                         </div>
@@ -202,7 +202,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
+                                src="~/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
                               <NuxtLink to="/shop-product-detail" class="position-cover"
                                 data-caption="White Classic Watch"></NuxtLink>
                             </figure>
@@ -236,7 +236,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
+                                src="~/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
                               <NuxtLink to="/shop-product-detail" class="position-cover"
                                 data-caption="Stylish Starbucks"></NuxtLink>
                             </figure>

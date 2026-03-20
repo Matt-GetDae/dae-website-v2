@@ -42,7 +42,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                     <figure
                       class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-7.jpg" alt="Why Traditional Agency Models Are Failing">
+                        src="~/assets/images/blog/post-7.jpg" alt="Why Traditional Agency Models Are Failing">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="Why Traditional Agency Models Are Failing"></NuxtLink>
                     </figure>
@@ -70,7 +70,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                     <figure
                       class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-8.jpg" alt="How to Budget for Based Predictable Growth">
+                        src="~/assets/images/blog/post-8.jpg" alt="How to Budget for Based Predictable Growth">
                       <NuxtLink to="/blog-details-2" class="position-cover"
                         data-caption="How to Budget for Based Predictable Growth"></NuxtLink>
                     </figure>
@@ -98,7 +98,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                     <figure
                       class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-9.jpg" alt="Maximize Value from your Marketing Subscription">
+                        src="~/assets/images/blog/post-9.jpg" alt="Maximize Value from your Marketing Subscription">
                       <NuxtLink to="/blog-details-3" class="position-cover"
                         data-caption="Maximize Value from your Marketing Subscription"></NuxtLink>
                     </figure>
@@ -126,7 +126,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                     <figure
                       class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-5.jpg" alt="Leading work from tasks management">
+                        src="~/assets/images/blog/post-5.jpg" alt="Leading work from tasks management">
                       <NuxtLink to="/blog-details-2" class="position-cover"
                         data-caption="Leading work from tasks management"></NuxtLink>
                     </figure>
@@ -154,7 +154,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                     <figure
                       class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/post-4.jpg" alt="Team solve today’s biggest challenges">
+                        src="~/assets/images/blog/post-4.jpg" alt="Team solve today’s biggest challenges">
                       <NuxtLink to="/blog-details" class="position-cover"
                         data-caption="Team solve today’s biggest challenges"></NuxtLink>
                     </figure>

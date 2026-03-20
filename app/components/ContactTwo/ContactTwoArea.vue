@@ -42,10 +42,10 @@ const handleSubmit = () => {
       data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});"
     >
       <div class="position-absolute top-0 start-0 rotate-45" style="top: 30% !important; left: 18% !important;">
-        <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1" data-uc-svg />
+        <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1" data-uc-svg />
       </div>
       <div class="position-absolute top-0 end-0 rotate-45" style="top: 15% !important; right: 18% !important;">
-        <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2" data-uc-svg />
+        <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2" data-uc-svg />
       </div>
     </div>
     <div class="section-outer panel pt-9 lg:pt-10 pb-6 sm:pb-8 lg:pb-9">

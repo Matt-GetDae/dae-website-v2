@@ -25,9 +25,9 @@
             </div>
             <div class="md:col-auto d-none md:d-block">
               <img class="w-250px lg:w-300px xl:w-400px d-block dark:d-none"
-                src="/assets/images/template/newsletter.svg" alt="newsletter">
+                src="~/assets/images/template/newsletter.svg" alt="newsletter">
               <img class="w-250px lg:w-300px xl:w-400px d-none dark:d-block"
-                src="/assets/images/template/newsletter-dark.svg" alt="newsletter-dark">
+                src="~/assets/images/template/newsletter-dark.svg" alt="newsletter-dark">
             </div>
           </div>
         </div>

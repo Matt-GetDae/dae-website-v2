@@ -8,7 +8,7 @@
     </div>
     <div class="section-outer panel py-8 lg:py-9 xl:py-10">
       <div class="position-absolute top-0 start-0 end-0 h-screen blend-difference opacity-20"> 
-        <video src="/assets/images/media/lexend-home-8.webm" autoplay muted loop playsinline class="w-full h-full object-cover"></video>
+        <video src="~/assets/images/media/lexend-home-8.webm" autoplay muted loop playsinline class="w-full h-full object-cover"></video>
       </div>
       <div class="container">
         <div class="section-inner panel">
@@ -51,8 +51,8 @@
                     <div class="hstack justify-center gap-narrow">
                       <span class="desc rtl:order-first">4,000+ reviews on</span>
                       <div>
-                        <img src="/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
-                        <img src="/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
+                        <img src="~/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
+                        <img src="~/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
                           class="w-96px d-none dark:d-inline-flex">
                       </div>
                     </div>
@@ -60,7 +60,7 @@
                 </div>
                 <div class="panel border shadow-lg rounded-2 p-1"
                   data-anime="translateY: [80, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 450; delay: 950;">
-                  <img src="/assets/images/template/dashboard-8-home.png" alt="Dashboard Lexend">
+                  <img src="~/assets/images/template/dashboard-8-home.png" alt="Dashboard Lexend">
                 </div>
               </div>
             </div>

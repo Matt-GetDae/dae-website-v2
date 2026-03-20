@@ -2,6 +2,12 @@
 export default defineNuxtConfig({
   srcDir: 'app',
   devtools: { enabled: false },
+  nitro: {
+    prerender: {
+      failOnError: false,
+      crawlLinks: true,
+    }
+  },
   css: [
 
     "swiper/css/bundle",
@@ -20,6 +26,15 @@ export default defineNuxtConfig({
 
   ],
 
-
+  vite: {
+    build: {
+      rollupOptions: {
+        onwarn(warning, warn) {
+          if (warning.code === 'UNRESOLVED_IMPORT') return
+          warn(warning)
+        }
+      }
+    }
+  },
 
 })

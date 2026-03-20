@@ -63,8 +63,8 @@ const toggleMenu = () => {
           <div class="uc-navbar-left">
             <div class="uc-logo text-dark dark:text-white">
               <NuxtLink class="panel text-none" to="/" style="width: 140px">
-                <img class="dark:d-none" src="/assets/images/common/logo-light.svg" alt="Lexend">
-                <img class="d-none dark:d-block" src="/assets/images/common/logo-dark.svg" alt="Lexend">
+                <img class="dark:d-none" src="~/assets/images/common/logo-light.svg" alt="Lexend">
+                <img class="d-none dark:d-block" src="~/assets/images/common/logo-dark.svg" alt="Lexend">
               </NuxtLink>
             </div>
             <ul class="uc-navbar-nav gap-3 xl:gap-4 d-none lg:d-flex fw-medium ms-2">
@@ -183,7 +183,7 @@ const toggleMenu = () => {
                       <div class="panel w-100 overflow-hidden">
                         <div class="ratio ratio-3x4 overflow-hidden rounded">
                           <img alt="Let's build anything with Lexend!" style="color:transparent"
-                            src="/assets/images/template/menu-banner.jpg">
+                            src="~/assets/images/template/menu-banner.jpg">
                           <a class="position-cover" href="https://themeforest.net/user/rk_theme/portfolio"
                             target="_blank"></a>
                         </div>

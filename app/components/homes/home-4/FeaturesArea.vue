@@ -18,7 +18,7 @@
                   <div class="col-12 md:col-6 lg:col-5 ">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image " src="/assets/images/template/home-four-feature-01.png"
+                        <img class="media-cover image " src="~/assets/images/template/home-four-feature-01.png"
                           alt="Ensuring timely delivery and maximum efficiency">
                       </figure>
                     </div>
@@ -54,7 +54,7 @@
                   <div class="col-12 md:col-6 lg:col-5 md:order-2">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image " src="/assets/images/template/home-four-feature-02.png"
+                        <img class="media-cover image " src="~/assets/images/template/home-four-feature-02.png"
                           alt="No more digging endless reports and spreadsheets">
                       </figure>
                     </div>
@@ -90,7 +90,7 @@
                   <div class="col-12 md:col-6 lg:col-5 ">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image " src="/assets/images/template/home-four-feature-03.png"
+                        <img class="media-cover image " src="~/assets/images/template/home-four-feature-03.png"
                           alt="Share files, and communicate with your team in real-time">
                       </figure>
                     </div>
@@ -126,7 +126,7 @@
                   <div class="col-12 md:col-6 lg:col-5 md:order-2">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image " src="/assets/images/template/home-four-feature-04.png"
+                        <img class="media-cover image " src="~/assets/images/template/home-four-feature-04.png"
                           alt="Collaboration is made seamless with Lexend">
                       </figure>
                     </div>

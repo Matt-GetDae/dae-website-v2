@@ -31,7 +31,7 @@
                 </div>
                 <div class="panel ltr:ps-3 ltr:lg:ps-4 ltr:xl:ps-6 rtl:pe-3 rtl:lg:pe-4 rtl:xl:pe-6">
                   <img class="ltr:rounded-top-start-1-5 rtl:rounded-top-end-1-5"
-                    src="/assets/images/template/home-06-main-app.png" alt="">
+                    src="~/assets/images/template/home-06-main-app.png" alt="">
                 </div>
               </div>
             </div>
@@ -39,14 +39,14 @@
               <div class="panel vstack items-start overflow-hidden bg-primary-700 rounded-2 lg:rounded-3 uc-dark"
                 data-anime="onview: -100; translateY: [80, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 100;">
                 <div class="position-cover opacity-70 bg-cover" style="background-position: 50% 85%;"
-                  data-src="/assets/images/template/feature-06-bg-masked.png" data-uc-img></div>
+                  data-src="~/assets/images/template/feature-06-bg-masked.png" data-uc-img></div>
                 <div class="position-cover bg-gradient-to-t from-gray-800 via-transparent to-gray-900"></div>
                 <div
                   class="position-absolute d-inline-block w-500px h-500px rounded-circle bg-gradient-45 from-primary to-white start-50 blur-10 translate-middle blend-soft-light">
                 </div>
                 <div class="panel p-3">
                   <img class="rounded-bottom-1-5 lg:rounded-bottom-3"
-                    src="/assets/images/template/home-06-dashboard-components.png" alt="dashboard-components">
+                    src="~/assets/images/template/home-06-dashboard-components.png" alt="dashboard-components">
                 </div>
                 <div class="panel vstack items-start justify-between gap-2 p-3 lg:p-4 xl:p-6 pt-0 lg:pt-0 xl:pt-0"
                   data-anime="onview: -100; targets: >*; translateY: [16, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 500});">
@@ -66,14 +66,14 @@
               <div class="panel vstack items-start overflow-hidden bg-gray-800 rounded-2 lg:rounded-3 uc-dark"
                 data-anime="onview: -100; translateY: [80, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 200;">
                 <div class="position-cover opacity-70 bg-cover" style="background-position: 50% 85%;"
-                  data-src="/assets/images/template/feature-06-bg-masked-2.png" data-uc-img></div>
+                  data-src="~/assets/images/template/feature-06-bg-masked-2.png" data-uc-img></div>
                 <div class="position-cover bg-gradient-to-t from-gray-800 via-transparent to-gray-900"></div>
                 <div
                   class="position-absolute d-inline-block w-500px h-500px rounded-circle bg-gradient-45 from-primary to-white start-50 blur-10 translate-middle blend-soft-light">
                 </div>
                 <div class="panel px-3 lg:px-4 xl:px-6">
                   <img class="rounded-bottom-1-5 border border-top-0"
-                    src="/assets/images/template/home-06-components.png" alt="ui components">
+                    src="~/assets/images/template/home-06-components.png" alt="ui components">
                 </div>
                 <div class="panel vstack items-start justify-between gap-2 p-3 lg:p-4 xl:p-6"
                   data-anime="onview: -100; targets: >*; translateY: [16, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 500});">
@@ -100,7 +100,7 @@
                     intuitive UI Components, experience the difference.</p>
                 </div>
                 <div class="panel px-3 lg:px-4 xl:px-6 mb-2 lg:mb-5">
-                  <img src="/assets/images/template/home-06-builder-tools.png" alt="builder-tools">
+                  <img src="~/assets/images/template/home-06-builder-tools.png" alt="builder-tools">
                 </div>
               </div>
             </div>

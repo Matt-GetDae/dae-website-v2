@@ -91,7 +91,7 @@ function handleImagePopup(index) {
           <figure class="featured-image m-0">
             <figure class="featured-image m-0 rounded ratio ratio-2x1 rounded uc-transition-toggle overflow-hidden">
               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                src="/assets/images/blog/post-full.jpg" alt="Maximizing your reach with marketing strategies">
+                src="~/assets/images/blog/post-full.jpg" alt="Maximizing your reach with marketing strategies">
             </figure>
           </figure>
         </div>
@@ -133,7 +133,7 @@ function handleImagePopup(index) {
           <figure class="featured-image m-0">
             <figure class="featured-image m-0 rounded ratio ratio-2x1 rounded uc-transition-toggle overflow-hidden">
               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                src="/assets/images/blog/post-full.jpg" alt="Maximizing your reach with marketing strategies">
+                src="~/assets/images/blog/post-full.jpg" alt="Maximizing your reach with marketing strategies">
             </figure>
           </figure>
         </div>
@@ -290,7 +290,7 @@ function handleImagePopup(index) {
             <div class="col-12 sm:col-5 xl:col-3">
               <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                  src="/assets/images/blog/post-author.jpg" alt="Amir Nisi">
+                  src="~/assets/images/blog/post-author.jpg" alt="Amir Nisi">
               </figure>
             </div>
             <div class="col">
@@ -313,7 +313,7 @@ function handleImagePopup(index) {
             <div class="panel hstack justify-center w-100px h-100px">
               <figure class="featured-image m-0 rounded ratio ratio-1x1   uc-transition-toggle overflow-hidden">
                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                  src="/assets/images/blog/img-02.jpg" alt="How can marketing help your business?">
+                  src="~/assets/images/blog/img-02.jpg" alt="How can marketing help your business?">
                 <NuxtLink to="/blog-details" class="position-cover"
                   data-caption="How can marketing help your business?"></NuxtLink>
               </figure>
@@ -332,7 +332,7 @@ function handleImagePopup(index) {
             <div class="panel hstack justify-center w-100px h-100px">
               <figure class="featured-image m-0 rounded ratio ratio-1x1   uc-transition-toggle overflow-hidden">
                 <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                  src="/assets/images/blog/img-01.jpg" alt="Top 5 reasons to invest in marketing">
+                  src="~/assets/images/blog/img-01.jpg" alt="Top 5 reasons to invest in marketing">
                 <NuxtLink to="/blog-details" class="position-cover" data-caption="Top 5 reasons to invest in marketing">
                 </NuxtLink>
               </figure>
@@ -347,7 +347,7 @@ function handleImagePopup(index) {
               <article class="post type-post panel vstack gap-2">
                 <figure class="featured-image m-0 rounded ratio ratio-4x3  uc-transition-toggle overflow-hidden">
                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                    src="/assets/images/blog/img-07.jpg" alt="How can marketing help your business?">
+                    src="~/assets/images/blog/img-07.jpg" alt="How can marketing help your business?">
                   <NuxtLink to="/blog-details" class="position-cover"
                     data-caption="How can marketing help your business?"></NuxtLink>
                 </figure>
@@ -366,7 +366,7 @@ function handleImagePopup(index) {
               <article class="post type-post panel vstack gap-2">
                 <figure class="featured-image m-0 rounded ratio ratio-4x3  uc-transition-toggle overflow-hidden">
                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                    src="/assets/images/blog/img-08.jpg" alt="The ultimate guide to marketing success">
+                    src="~/assets/images/blog/img-08.jpg" alt="The ultimate guide to marketing success">
                   <NuxtLink to="/blog-details" class="position-cover"
                     data-caption="The ultimate guide to marketing success"></NuxtLink>
                 </figure>
@@ -385,7 +385,7 @@ function handleImagePopup(index) {
               <article class="post type-post panel vstack gap-2">
                 <figure class="featured-image m-0 rounded ratio ratio-4x3  uc-transition-toggle overflow-hidden">
                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                    src="/assets/images/blog/img-09.jpg" alt="A comprehensive guide to marketing">
+                    src="~/assets/images/blog/img-09.jpg" alt="A comprehensive guide to marketing">
                   <NuxtLink to="/blog-details" class="position-cover" data-caption="A comprehensive guide to marketing">
                   </NuxtLink>
                 </figure>

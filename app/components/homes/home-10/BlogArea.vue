@@ -30,7 +30,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                     <SwiperSlide class="swiper-slide">
                                         <article class="post type-post panel overflow-hidden vstack duration-150 hover:-translate-y-1">
                                             <figure class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
-                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-4.jpg" alt="Unlock productivity potential with AI">
+                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-4.jpg" alt="Unlock productivity potential with AI">
                                                 <NuxtLink to="/blog-details" class="position-cover" data-caption="Unlock productivity potential with AI"></NuxtLink>
                                             </figure>
                                             <div class="panel vstack items-center text-center gap-2 p-2">
@@ -46,7 +46,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                     <SwiperSlide class="swiper-slide">
                                         <article class="post type-post panel overflow-hidden vstack duration-150 hover:-translate-y-1">
                                             <figure class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
-                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-5.jpg" alt="Automate as fast as you can type with AI">
+                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-5.jpg" alt="Automate as fast as you can type with AI">
                                                 <NuxtLink to="/blog-details-2" class="position-cover" data-caption="Automate as fast as you can type with AI"></NuxtLink>
                                             </figure>
                                             <div class="panel vstack items-center text-center gap-2 p-2">
@@ -62,7 +62,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                     <SwiperSlide class="swiper-slide">
                                         <article class="post type-post panel overflow-hidden vstack duration-150 hover:-translate-y-1">
                                             <figure class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
-                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-6.jpg" alt="Intuitive & powerful AI automation app">
+                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-6.jpg" alt="Intuitive & powerful AI automation app">
                                                 <NuxtLink to="/blog-details-3" class="position-cover" data-caption="Intuitive & powerful AI automation app"></NuxtLink>
                                             </figure>
                                             <div class="panel vstack items-center text-center gap-2 p-2">
@@ -78,7 +78,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                     <SwiperSlide class="swiper-slide">
                                         <article class="post type-post panel overflow-hidden vstack duration-150 hover:-translate-y-1">
                                             <figure class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
-                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/img-01.jpg" alt="Team solve today’s biggest challenges">
+                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/img-01.jpg" alt="Team solve today’s biggest challenges">
                                                 <NuxtLink to="/blog-details" class="position-cover" data-caption="Team solve today’s biggest challenges"></NuxtLink>
                                             </figure>
                                             <div class="panel vstack items-center text-center gap-2 p-2">
@@ -94,7 +94,7 @@ import { Swiper, SwiperSlide } from 'swiper/vue';
                                     <SwiperSlide class="swiper-slide">
                                         <article class="post type-post panel overflow-hidden vstack duration-150 hover:-translate-y-1">
                                             <figure class="featured-image m-0 rounded ratio ratio-16x9 rounded-default uc-transition-toggle overflow-hidden">
-                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/img-02.jpg" alt="Leading work from tasks management">
+                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/img-02.jpg" alt="Leading work from tasks management">
                                                 <NuxtLink to="/blog-details-2" class="position-cover" data-caption="Leading work from tasks management"></NuxtLink>
                                             </figure>
                                             <div class="panel vstack items-center text-center gap-2 p-2">

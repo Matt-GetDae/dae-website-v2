@@ -17,7 +17,7 @@
               <div
                 class="panel overflow-hidden bg-secondary text-gray-900 dark:bg-tertiary-700 dark:text-white rounded-2 lg:rounded-3">
                 <div class="panel p-2 pb-0">
-                  <img class="rounded-1-5" src="/assets/images/features/home-8-feature-01.png" alt="">
+                  <img class="rounded-1-5" src="~/assets/images/features/home-8-feature-01.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-3 lg:p-4">
                   <h4 class="h4 m-0 text-inherit">Seamless integrations with your existing tools</h4>
@@ -32,7 +32,7 @@
               <div
                 class="panel overflow-hidden bg-secondary text-gray-900 dark:bg-tertiary-700 dark:text-white rounded-2 lg:rounded-3">
                 <div class="panel p-2 pb-0">
-                  <img class="rounded-1-5" src="/assets/images/features/home-8-feature-05.png" alt="">
+                  <img class="rounded-1-5" src="~/assets/images/features/home-8-feature-05.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-3 lg:p-4">
                   <h4 class="h4 m-0 text-inherit">Intuitive dashboard for at-a-glance insights</h4>
@@ -47,7 +47,7 @@
               <div
                 class="panel overflow-hidden bg-secondary text-gray-900 dark:bg-tertiary-700 dark:text-white rounded-2 lg:rounded-3">
                 <div class="panel p-2 pb-0">
-                  <img class="rounded-1-5" src="/assets/images/features/home-8-feature-06.png" alt="">
+                  <img class="rounded-1-5" src="~/assets/images/features/home-8-feature-06.png" alt="">
                 </div>
                 <div class="panel vstack items-start gap-2 p-3 lg:p-4">
                   <h4 class="h4 m-0 text-inherit">Automated data analysis and reporting</h4>
@@ -66,7 +66,7 @@
                     other business apps you rely on, creating a frictionless workflow.</p>
                 </div>
                 <div class="panel px-3 lg:px-4 xl:px-6 mb-2 lg:mb-5">
-                  <img src="/assets/images/template/home-06-builder-tools.png" alt="builder-tools">
+                  <img src="~/assets/images/template/home-06-builder-tools.png" alt="builder-tools">
                 </div>
               </div>
             </div>
@@ -82,26 +82,26 @@
                   </a>
                 </div>
                 <div class="panel min-h-200px md:min-h-250px xl:min-h-300px position-absolute bottom-0 start-0 end-0">
-                  <video src="/assets/images/media/animated-globe.mp4" autoplay muted loop playsinline
+                  <video src="~/assets/images/media/animated-globe.mp4" autoplay muted loop playsinline
                     class="position-cover blend-plus-lighter"></video>
 
                   <div class="position-cover"
                     data-anime="targets: >*; scale: [0.5, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 200});">
                     <div class="position-absolute" style="bottom: 25%; left: 8%;">
                       <img class="w-48px md:w-56px xl:w-64px p-narrow bg-white bg-opacity-50 backdrop-1 rounded-circle"
-                        src="/assets/images/avatars/01.png" alt="user">
+                        src="~/assets/images/avatars/01.png" alt="user">
                     </div>
                     <div class="position-absolute" style="bottom: 60%; left: 28%;">
                       <img class="w-48px md:w-56px xl:w-64px p-narrow bg-white bg-opacity-50 backdrop-1 rounded-circle"
-                        src="/assets/images/avatars/02.png" alt="user">
+                        src="~/assets/images/avatars/02.png" alt="user">
                     </div>
                     <div class="position-absolute" style="bottom: 25%; right: 8%;">
                       <img class="w-48px md:w-56px xl:w-64px p-narrow bg-white bg-opacity-50 backdrop-1 rounded-circle"
-                        src="/assets/images/avatars/03.png" alt="user">
+                        src="~/assets/images/avatars/03.png" alt="user">
                     </div>
                     <div class="position-absolute" style="bottom: 60%; right: 28%;">
                       <img class="w-48px md:w-56px xl:w-64px p-narrow bg-white bg-opacity-50 backdrop-1 rounded-circle"
-                        src="/assets/images/avatars/08.png" alt="user">
+                        src="~/assets/images/avatars/08.png" alt="user">
                     </div>
                   </div>
                 </div>

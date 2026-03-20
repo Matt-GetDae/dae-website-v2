@@ -25,17 +25,17 @@
                   <div class="vstack sm:hstack gap-2 justify-between">
                     <div class="author panel hstack gap-2">
                       <img class="w-40px sm:w-48px md:w-56px lg:w-64px rounded-circle"
-                        src="/assets/images/avatars/15.png" alt="Harry Peterson">
+                        src="~/assets/images/avatars/15.png" alt="Harry Peterson">
                       <div class="panel vstack justify-center gap-0">
                         <h6 class="h6 m-0">Michael T.</h6>
                       </div>
                     </div>
                     <div class="rating d-flex gap-0">
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                     </div>
                   </div>
                 </div>
@@ -51,17 +51,17 @@
                   <div class="vstack sm:hstack gap-2 justify-between">
                     <div class="author panel hstack gap-2">
                       <img class="w-40px sm:w-48px md:w-56px lg:w-64px rounded-circle"
-                        src="/assets/images/avatars/16.png" alt="Harry Peterson">
+                        src="~/assets/images/avatars/16.png" alt="Harry Peterson">
                       <div class="panel vstack justify-center gap-0">
                         <h6 class="h6 m-0">Idrissi A.</h6>
                       </div>
                     </div>
                     <div class="rating d-flex gap-0">
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                     </div>
                   </div>
                 </div>
@@ -77,17 +77,17 @@
                   <div class="vstack sm:hstack gap-2 justify-between">
                     <div class="author panel hstack gap-2">
                       <img class="w-40px sm:w-48px md:w-56px lg:w-64px rounded-circle"
-                        src="/assets/images/avatars/17.png" alt="Harry Peterson">
+                        src="~/assets/images/avatars/17.png" alt="Harry Peterson">
                       <div class="panel vstack justify-center gap-0">
                         <h6 class="h6 m-0">Robert J.</h6>
                       </div>
                     </div>
                     <div class="rating d-flex gap-0">
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                     </div>
                   </div>
                 </div>
@@ -103,17 +103,17 @@
                   <div class="vstack sm:hstack gap-2 justify-between">
                     <div class="author panel hstack gap-2">
                       <img class="w-40px sm:w-48px md:w-56px lg:w-64px rounded-circle"
-                        src="/assets/images/avatars/01.png" alt="Harry Peterson">
+                        src="~/assets/images/avatars/01.png" alt="Harry Peterson">
                       <div class="panel vstack justify-center gap-0">
                         <h6 class="h6 m-0">Zvedv G.</h6>
                       </div>
                     </div>
                     <div class="rating d-flex gap-0">
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
-                      <img class="icon icon-1 w-20px text-yellow" src="/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
+                      <img class="icon icon-1 w-20px text-yellow" src="~/assets/images/star.svg" alt="star" data-uc-svg>
                     </div>
                   </div>
                 </div>

@@ -235,7 +235,7 @@ defineProps({
                                 <figure
                                   class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/users/img-01.png" alt="Reviewer name">
+                                    src="~/assets/images/common/users/img-01.png" alt="Reviewer name">
                                 </figure>
                               </div>
                               <div class="hstack justify-between items-center gap-2 flex-1 fs-7 fw-normal">
@@ -267,7 +267,7 @@ defineProps({
                                 <figure
                                   class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/users/img-02.png" alt="Reviewer name">
+                                    src="~/assets/images/common/users/img-02.png" alt="Reviewer name">
                                 </figure>
                               </div>
                               <div class="hstack justify-between items-center gap-2 flex-1 fs-7 fw-normal">
@@ -299,7 +299,7 @@ defineProps({
                                 <figure
                                   class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/users/img-03.png" alt="Reviewer name">
+                                    src="~/assets/images/common/users/img-03.png" alt="Reviewer name">
                                 </figure>
                               </div>
                               <div class="hstack justify-between items-center gap-2 flex-1 fs-7 fw-normal">
@@ -331,7 +331,7 @@ defineProps({
                                 <figure
                                   class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/users/img-04.png" alt="Reviewer name">
+                                    src="~/assets/images/common/users/img-04.png" alt="Reviewer name">
                                 </figure>
                               </div>
                               <div class="hstack justify-between items-center gap-2 flex-1 fs-7 fw-normal">
@@ -364,7 +364,7 @@ defineProps({
                                 <figure
                                   class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                                   <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                    src="/assets/images/common/users/img-05.png" alt="Reviewer name">
+                                    src="~/assets/images/common/users/img-05.png" alt="Reviewer name">
                                 </figure>
                               </div>
                               <div class="hstack justify-between items-center gap-2 flex-1 fs-7 fw-normal">
@@ -472,7 +472,7 @@ defineProps({
                     <div class="panel">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                          src="/assets/images/common/products/img-01.jpg" alt="Elegant Watch">
+                          src="~/assets/images/common/products/img-01.jpg" alt="Elegant Watch">
                         <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Elegant Watch"></NuxtLink>
                       </figure>
                       <span
@@ -502,7 +502,7 @@ defineProps({
                     <div class="panel">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                          src="/assets/images/common/products/img-02.jpg" alt="Hemp Seed">
+                          src="~/assets/images/common/products/img-02.jpg" alt="Hemp Seed">
                         <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Hemp Seed"></NuxtLink>
                       </figure>
                     </div>
@@ -528,7 +528,7 @@ defineProps({
                     <div class="panel">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                          src="/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
+                          src="~/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
                         <NuxtLink to="/shop-product-detail" class="position-cover"
                           data-caption="White Classic Watch"></NuxtLink>
                       </figure>
@@ -559,7 +559,7 @@ defineProps({
                     <div class="panel">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                          src="/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
+                          src="~/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
                         <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Stylish Starbucks"></NuxtLink>
                       </figure>
                     </div>
@@ -586,7 +586,7 @@ defineProps({
                     <div class="panel">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                         <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                          src="/assets/images/common/products/img-05.jpg" alt="Black AirTag">
+                          src="~/assets/images/common/products/img-05.jpg" alt="Black AirTag">
                         <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Black AirTag"></NuxtLink>
                       </figure>
                     </div>

@@ -13,7 +13,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/figma.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/figma.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -26,7 +26,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/asana.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/asana.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -39,7 +39,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/jira.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/jira.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -52,7 +52,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/mailchimp.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/mailchimp.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -65,7 +65,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/jira_ops.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/jira_ops.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -78,7 +78,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/zapier.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/zapier.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -91,7 +91,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 p-3 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/dropbox.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/dropbox.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -104,7 +104,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 px-3 py-4 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/gmail.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/gmail.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">
@@ -117,7 +117,7 @@
                                 <div>
                                     <div class="integrations-item hstack items-start gap-2 xl:gap-3 px-3 py-4 xl:p-4 rounded-2 bg-white bg-opacity-5">
                                         <div class="icon-box min-w-56px min-h-56px xl:min-w-80px xl:min-h-80px">
-                                            <img src="/assets/images/tools/evernote.svg" alt="feature-icon">
+                                            <img src="~/assets/images/tools/evernote.svg" alt="feature-icon">
                                         </div>
                                         <div class="panel">
                                             <div class="vstack gap-1">

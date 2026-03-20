@@ -28,7 +28,7 @@
                                             <div>
                                                 <div class="feature-item-image panel">
                                                     <figure class="panel ratio ratio-1x1 overflow-hidden h-100">
-                                                        <img class="image media-cover" src="/assets/images/features/home-11-feature-01.png" alt="image">
+                                                        <img class="image media-cover" src="~/assets/images/features/home-11-feature-01.png" alt="image">
                                                     </figure>
                                                 </div>
                                             </div>
@@ -43,7 +43,7 @@
                                             <div class="order-2 sm:order-1">
                                                 <div class="feature-item-image panel h-450px">
                                                     <figure class="panel ratio ratio-1x1 overflow-hidden h-100">
-                                                        <img class="image media-cover" src="/assets/images/features/home-11-feature-02.png" alt="image">
+                                                        <img class="image media-cover" src="~/assets/images/features/home-11-feature-02.png" alt="image">
                                                     </figure>
                                                 </div>
                                             </div>
@@ -74,7 +74,7 @@
                                             <div>
                                                 <div class="feature-item-image panel h-450px">
                                                     <figure class="panel ratio ratio-1x1 overflow-hidden h-100">
-                                                        <img class="image media-cover" src="/assets/images/features/home-11-feature-03.png" alt="image">
+                                                        <img class="image media-cover" src="~/assets/images/features/home-11-feature-03.png" alt="image">
                                                     </figure>
                                                 </div>
                                             </div>
@@ -88,7 +88,7 @@
                                             <div class="order-2 sm:order-1">
                                                 <div class="feature-item-image panel">
                                                     <figure class="panel ratio ratio-1x1 overflow-hidden h-100">
-                                                        <img class="image media-cover" src="/assets/images/features/home-11-feature-04.png" alt="image">
+                                                        <img class="image media-cover" src="~/assets/images/features/home-11-feature-04.png" alt="image">
                                                     </figure>
                                                 </div>
                                             </div>

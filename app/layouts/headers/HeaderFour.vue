@@ -122,8 +122,8 @@ const toggleMenu = () => {
             <div class="uc-navbar-left">
               <div class="uc-logo text-dark dark:text-white">
                 <NuxtLink class="panel text-none" to="/" style="width: 140px">
-                  <img class="dark:d-none" src="/assets/images/common/logo-light.svg" alt="Lexend">
-                  <img class="d-none dark:d-block" src="/assets/images/common/logo-dark.svg" alt="Lexend">
+                  <img class="dark:d-none" src="~/assets/images/common/logo-light.svg" alt="Lexend">
+                  <img class="d-none dark:d-block" src="~/assets/images/common/logo-dark.svg" alt="Lexend">
                 </NuxtLink>
               </div>
               <ul
@@ -241,7 +241,7 @@ const toggleMenu = () => {
                                     <NuxtLink class="vstack p-1 text-none text-center rounded-1-5 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"
                                       to="/">
                                       <div class="featured-image panel border shadow-xs rounded-1 overflow-hidden">
-                                        <img src="/assets/images/demos/screenshots/index.jpg" alt="Home - 01">
+                                        <img src="~/assets/images/demos/screenshots/index.jpg" alt="Home - 01">
                                       </div>
                                       <div class="panel p-1">
                                         <span class="fs-8 fw-medium m-0 text-gray-900 dark:text-white">SaaS</span>
@@ -252,7 +252,7 @@ const toggleMenu = () => {
                                     <NuxtLink class="vstack p-1 text-none text-center rounded-1-5 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"
                                       to="/home-2">
                                       <div class="featured-image panel border shadow-xs rounded-1 overflow-hidden">
-                                        <img src="/assets/images/demos/screenshots/index-2.jpg" alt="Home - 02">
+                                        <img src="~/assets/images/demos/screenshots/index-2.jpg" alt="Home - 02">
                                       </div>
                                       <div class="panel p-1">
                                         <span class="fs-8 fw-medium m-0 text-gray-900 dark:text-white">Startup</span>
@@ -263,7 +263,7 @@ const toggleMenu = () => {
                                     <NuxtLink class="vstack p-1 text-none text-center rounded-1-5 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"
                                       to="/home-3">
                                       <div class="featured-image panel border shadow-xs rounded-1 overflow-hidden">
-                                        <img src="/assets/images/demos/screenshots/index-3.jpg" alt="Home - 03">
+                                        <img src="~/assets/images/demos/screenshots/index-3.jpg" alt="Home - 03">
                                       </div>
                                       <div class="panel p-1">
                                         <span class="fs-8 fw-medium m-0 text-gray-900 dark:text-white">Software</span>
@@ -274,7 +274,7 @@ const toggleMenu = () => {
                                     <NuxtLink class="vstack p-1 text-none text-center rounded-1-5 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"
                                       to="/home-4">
                                       <div class="featured-image panel border shadow-xs rounded-1 overflow-hidden">
-                                        <img src="/assets/images/demos/screenshots/index-4.jpg" alt="Home - 04">
+                                        <img src="~/assets/images/demos/screenshots/index-4.jpg" alt="Home - 04">
                                       </div>
                                       <div class="panel p-1">
                                         <span class="fs-8 fw-medium m-0 text-gray-900 dark:text-white">Mobile
@@ -286,7 +286,7 @@ const toggleMenu = () => {
                                     <NuxtLink class="vstack p-1 text-none text-center rounded-1-5 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"
                                       to="/home-5">
                                       <div class="featured-image panel border shadow-xs rounded-1 overflow-hidden">
-                                        <img src="/assets/images/demos/screenshots/index-5.jpg" alt="Home - 05">
+                                        <img src="~/assets/images/demos/screenshots/index-5.jpg" alt="Home - 05">
                                       </div>
                                       <div class="panel p-1">
                                         <span class="fs-8 fw-medium m-0 text-gray-900 dark:text-white">Digital
@@ -417,7 +417,7 @@ const toggleMenu = () => {
                             <figure
                               class="featured-image m-0 rounded ratio ratio-3x2 rounded-1-5 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/template/login.webp" alt="Image">
+                                src="~/assets/images/template/login.webp" alt="Image">
                             </figure>
                             <button
                               class="btn btn-md btn-alt-primary p-0 w-32px h-32px position-absolute bottom-0 ltr:start-0 rtl:end-0 m-2"><i

@@ -28,23 +28,23 @@ import { Autoplay, Pagination } from "swiper/modules";
                 :pagination="{ el: '.swiper-pagination', clickable: true }"
                 > 
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px image-filter" src="/assets/images/brands/brand-01.svg" alt="Proline"
+                    <img class="brand-item-image h-40px image-filter" src="~/assets/images/brands/brand-01.svg" alt="Proline"
                       data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px image-filter" src="/assets/images/brands/brand-02.svg" alt="Iceberg"
+                    <img class="brand-item-image h-40px image-filter" src="~/assets/images/brands/brand-02.svg" alt="Iceberg"
                       data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px image-filter" src="/assets/images/brands/brand-03.svg" alt="PinPoint"
+                    <img class="brand-item-image h-40px image-filter" src="~/assets/images/brands/brand-03.svg" alt="PinPoint"
                       data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px image-filter" src="/assets/images/brands/brand-04.svg" alt="Clues"
+                    <img class="brand-item-image h-40px image-filter" src="~/assets/images/brands/brand-04.svg" alt="Clues"
                       data-uc-svg>
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px image-filter" src="/assets/images/brands/brand-05.svg" alt="Snowflake"
+                    <img class="brand-item-image h-40px image-filter" src="~/assets/images/brands/brand-05.svg" alt="Snowflake"
                       data-uc-svg>
                   </SwiperSlide>
                 <!-- </div> -->

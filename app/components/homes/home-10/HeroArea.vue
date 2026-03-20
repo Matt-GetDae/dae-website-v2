@@ -6,12 +6,12 @@
                 <div class="container">
                     <div class="section-inner panel">
                         <div class="d-none xl:d-block" data-anime="targets: >*; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 500});">
-                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 5%; left: 5%" data-anime="translateY: [0, 10]; easing: linear; loop: true; direction: alternate; delay: 0;"><img class="p-narrow rounded-circle" src="/assets/images/avatars/03.png" alt="brand"></div>
-                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 20%; left: 10%" data-anime="translateY: [0, 15]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="/assets/images/avatars/08.png" alt="brand"></div>
-                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 35%; left: 0%" data-anime="translateY: [0, 5]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="/assets/images/avatars/02.png" alt="brand"></div>
-                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 5%; right: 5%" data-anime="translateY: [0, 10]; easing: linear; loop: true; direction: alternate; delay: 0;"><img class="p-narrow rounded-circle" src="/assets/images/avatars/01.png" alt="brand"></div>
-                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 20%; right: 10%" data-anime="translateY: [0, 15]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="/assets/images/avatars/06.png" alt="brand"></div>
-                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 35%; right: 0%" data-anime="translateY: [0, 5]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="/assets/images/avatars/09.png" alt="brand"></div>
+                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 5%; left: 5%" data-anime="translateY: [0, 10]; easing: linear; loop: true; direction: alternate; delay: 0;"><img class="p-narrow rounded-circle" src="~/assets/images/avatars/03.png" alt="brand"></div>
+                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 20%; left: 10%" data-anime="translateY: [0, 15]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="~/assets/images/avatars/08.png" alt="brand"></div>
+                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 35%; left: 0%" data-anime="translateY: [0, 5]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="~/assets/images/avatars/02.png" alt="brand"></div>
+                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 5%; right: 5%" data-anime="translateY: [0, 10]; easing: linear; loop: true; direction: alternate; delay: 0;"><img class="p-narrow rounded-circle" src="~/assets/images/avatars/01.png" alt="brand"></div>
+                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 20%; right: 10%" data-anime="translateY: [0, 15]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="~/assets/images/avatars/06.png" alt="brand"></div>
+                            <div class="position-absolute rounded-circle border border-dashed border-primary-300 dark:border-white dark:border-opacity-15 cstack w-56px h-56px d-none lg:d-block" style="top: 35%; right: 0%" data-anime="translateY: [0, 5]; easing: linear; loop: true; direction: alternate; delay: 25;"><img class="p-narrow rounded-circle" src="~/assets/images/avatars/09.png" alt="brand"></div>
                         </div>
                         <div class="row child-cols-12 justify-center items-center g-8">
                             <div class="lg:col-10">
@@ -46,16 +46,16 @@
                                     </div>
                                     <div class="hero-scroll-scene panel max-w-850px mx-auto">
                                         <div class="panel border shadow-lg rounded-1-5 p-1 bg-white dark:bg-gray-800 overflow-hidden" data-anime="translateY: [80, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 450; delay: 950;">
-                                            <img class="rounded-default" src="/assets/images/template/home-10-hero.jpg" alt="Hero image">
+                                            <img class="rounded-default" src="~/assets/images/template/home-10-hero.jpg" alt="Hero image">
                                         </div>
                                         <div class="hero-ten-01 position-absolute w-150px xl:w-250px d-none lg:d-block" data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: 750;" style="top: 20%;">
-                                            <img class="rounded-2 shadow-lg border" src="/assets/images/template/home-10-hero-02.png" alt="hero-image" data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -300; onscroll-trigger: 0; onscroll-duration: 700%; translateY: [-24, 180];">
+                                            <img class="rounded-2 shadow-lg border" src="~/assets/images/template/home-10-hero-02.png" alt="hero-image" data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -300; onscroll-trigger: 0; onscroll-duration: 700%; translateY: [-24, 180];">
                                         </div>
                                         <div class="hero-ten-02 position-absolute w-200px xl:w-300px d-none lg:d-block" data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: 750;" style="bottom: 20%;">
-                                            <img class="rounded-2 shadow-lg border" src="/assets/images/template/home-10-hero-01.png" alt="hero-image" data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -300; onscroll-trigger: 0; onscroll-duration: 700%; translateY: [100, 0];">
+                                            <img class="rounded-2 shadow-lg border" src="~/assets/images/template/home-10-hero-01.png" alt="hero-image" data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -300; onscroll-trigger: 0; onscroll-duration: 700%; translateY: [100, 0];">
                                         </div>
                                         <div class="hero-ten-03 position-absolute w-150px d-none lg:d-block" data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: 750;" style="top: 10%;">
-                                            <img class="rounded-2 shadow-lg border" src="/assets/images/template/home-10-hero-03.png" alt="hero-image" data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -300; onscroll-trigger: 0; onscroll-duration: 700%; translateY: [-24, 48];">
+                                            <img class="rounded-2 shadow-lg border" src="~/assets/images/template/home-10-hero-03.png" alt="hero-image" data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -300; onscroll-trigger: 0; onscroll-duration: 700%; translateY: [-24, 48];">
                                         </div>
                                     </div>
 
@@ -64,7 +64,7 @@
                                             <div>
                                                 <div class="hstack justify-center gap-1">
                                                     <span class="icon mb-narrow text-primary dark:text-tertiary">
-                                                        <img class="w-24px lg:w-40px" src="/assets/images/custom-icons/icon-02.svg" alt="icon" data-uc-svg>
+                                                        <img class="w-24px lg:w-40px" src="~/assets/images/custom-icons/icon-02.svg" alt="icon" data-uc-svg>
                                                     </span>
                                                     <span class="h6 mb-1 text-inherit">No Credit Card Required</span>
                                                 </div>
@@ -72,7 +72,7 @@
                                             <div>
                                                 <div class="hstack justify-center gap-1">
                                                     <span class="icon mb-narrow text-primary dark:text-tertiary">
-                                                        <img class="w-24px lg:w-40px" src="/assets/images/custom-icons/icon-07.svg" alt="icon" data-uc-svg>
+                                                        <img class="w-24px lg:w-40px" src="~/assets/images/custom-icons/icon-07.svg" alt="icon" data-uc-svg>
                                                     </span>
                                                     <span class="h6 mb-1 text-inherit">End-to-End Encryption</span>
                                                 </div>
@@ -80,7 +80,7 @@
                                             <div class="d-none lg:d-block">
                                                 <div class="hstack justify-center gap-1">
                                                     <span class="icon mb-narrow text-primary dark:text-tertiary">
-                                                        <img class="w-24px lg:w-40px" src="/assets/images/custom-icons/icon-02.svg" alt="icon" data-uc-svg>
+                                                        <img class="w-24px lg:w-40px" src="~/assets/images/custom-icons/icon-02.svg" alt="icon" data-uc-svg>
                                                     </span>
                                                     <span class="h6 mb-1 text-inherit">Cutting-edge AI features</span>
                                                 </div>

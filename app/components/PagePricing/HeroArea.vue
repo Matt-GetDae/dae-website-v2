@@ -50,8 +50,8 @@ const pricing_data = [
       "Salesforce integration*",
     ],
     image: {
-      light: "/assets/images/template/money.svg",
-      dark: "/assets/images/template/money-dark.svg",
+      light: "~/assets/images/template/money.svg",
+      dark: "~/assets/images/template/money-dark.svg",
     },
   },
   {
@@ -101,7 +101,7 @@ const togglePricing = (yearly) => {
       data-anime="targets: &gt;*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
       <div class="position-absolute top-0 start-0 rotate-45"
         style="top: 30% !important; left: 18% !important; transform: scale(1); opacity: 1;">
-        <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1"
+        <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1"
           data-uc-svg="" hidden=""><svg width="193" height="216" viewBox="0 0 193 216" fill="none"
           xmlns="http://www.w3.org/2000/svg" class="w-32px text-gray-900 dark:text-white uc-svg">
           <g clip-path="url(#clip0_26_34468)">
@@ -118,7 +118,7 @@ const togglePricing = (yearly) => {
       </div>
       <div class="position-absolute top-0 end-0 rotate-45"
         style="top: 15% !important; right: 18% !important; transform: scale(0.999797); opacity: 0.999797;">
-        <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2"
+        <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2"
           data-uc-svg="" hidden=""><svg width="69" height="95" viewBox="0 0 69 95" fill="none"
           xmlns="http://www.w3.org/2000/svg" class="w-24px text-gray-900 dark:text-white uc-svg">
           <g clip-path="url(#clip0_26_34474)">
@@ -198,9 +198,9 @@ const togglePricing = (yearly) => {
                     </div>
 
                     <div v-if="i == 1" class="end-0 position-absolute bottom-0 ltr:end-0 rtl:start-0 m-2 d-none md:d-block">
-                      <img class="w-100px lg:w-128px d-block dark:d-none" src="/assets/images/template/money.svg"
+                      <img class="w-100px lg:w-128px d-block dark:d-none" src="~/assets/images/template/money.svg"
                         alt="money">
-                      <img class="w-100px lg:w-128px d-none dark:d-block" src="/assets/images/template/money-dark.svg"
+                      <img class="w-100px lg:w-128px d-none dark:d-block" src="~/assets/images/template/money-dark.svg"
                         alt="money-dark">
                     </div>
 

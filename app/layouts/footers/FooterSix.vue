@@ -37,8 +37,8 @@ const selectLanguage = (language) => {
                   <div class="panel vstack items-start gap-3 xl:gap-4 md:max-w-1/2">
                     <div>
                       <NuxtLink to="/" style="width: 140px">
-                        <img class="dark:d-none" src="/assets/images/common/logo-new-light.svg" alt="Lexend">
-                        <img class="d-none dark:d-block" src="/assets/images/common/logo-new-dark.svg" alt="Lexend">
+                        <img class="dark:d-none" src="~/assets/images/common/logo-new-light.svg" alt="Lexend">
+                        <img class="d-none dark:d-block" src="~/assets/images/common/logo-new-dark.svg" alt="Lexend">
                       </NuxtLink>
                       <p class="lg:fs-5 mt-2 fw-medium">Design amazing digital experiences that create more happy in the
                         world.</p>

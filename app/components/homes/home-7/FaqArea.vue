@@ -83,9 +83,9 @@ defineProps({
                     <p class="lg:fs-5 text-dark dark:text-white text-opacity-70">Can’t find the answer you’re looking
                       for? <br> Please chat to our friendly team.</p>
                     <div class="hstack justify-center gap-0">
-                      <img src="/assets/images/avatars/02.jpg" alt="Avatar-image"
+                      <img src="~/assets/images/avatars/02.jpg" alt="Avatar-image"
                         class="w-48px h-48px rounded-circle border border-2 border-white dark:border-primary">
-                      <img src="/assets/images/avatars/01.jpg" alt="Avatar-image"
+                      <img src="~/assets/images/avatars/01.jpg" alt="Avatar-image"
                         class="w-48px h-48px rounded-circle border border-2 border-white dark:border-primary ms-n2">
                     </div>
                   </div>

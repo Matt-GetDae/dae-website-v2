@@ -39,13 +39,13 @@
                       </div>
                       <div class="col-auto">
                         <div class="panel hstack justify-center gap-0">
-                          <img src="/assets/images/avatars/02.jpg" alt="Avatar-image"
+                          <img src="~/assets/images/avatars/02.jpg" alt="Avatar-image"
                             class="w-32px h-32px rounded-circle border border-3 border-white dark:border-gray-700">
-                          <img src="/assets/images/avatars/05.png" alt="Avatar-image"
+                          <img src="~/assets/images/avatars/05.png" alt="Avatar-image"
                             class="w-32px h-32px rounded-circle border border-3 border-white dark:border-gray-700 ms-n2">
-                          <img src="/assets/images/avatars/06.png" alt="Avatar-image"
+                          <img src="~/assets/images/avatars/06.png" alt="Avatar-image"
                             class="w-32px h-32px rounded-circle border border-3 border-white dark:border-gray-700 ms-n2">
-                          <img src="/assets/images/avatars/07.png" alt="Avatar-image"
+                          <img src="~/assets/images/avatars/07.png" alt="Avatar-image"
                             class="w-32px h-32px rounded-circle border border-3 border-white dark:border-gray-700 ms-n2">
                         </div>
                       </div>
@@ -61,7 +61,7 @@
             </div>
             <div class="lg:col-5">
               <figure class="panel ratio ratio-1x1 rounded-2 overflow-hidden m-0">
-                <img class="image media-cover" src="/assets/images/features/home-15-solution-01.png" alt="client image">
+                <img class="image media-cover" src="~/assets/images/features/home-15-solution-01.png" alt="client image">
               </figure>
             </div>
           </div>

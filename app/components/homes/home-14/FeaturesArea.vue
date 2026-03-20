@@ -33,20 +33,20 @@
                     </div>
                     <div class="col-11 lg:d-none">
                       <div class="panel">
-                        <img src="/assets/images/features/home-14-solution-01.png" alt="">
+                        <img src="~/assets/images/features/home-14-solution-01.png" alt="">
                       </div>
                     </div>
                   </div>
                   <div class="position-absolute w-500px xl:w-700px d-none lg:d-block" style="top: -8%; right: -4%;">
-                    <img src="/assets/images/features/home-14-solution-01.png" alt="">
+                    <img src="~/assets/images/features/home-14-solution-01.png" alt="">
                   </div>
                   <div class="d-none lg:d-flex">
-                    <img src="/assets/images/vectors/tapes.svg" alt="victor"
+                    <img src="~/assets/images/vectors/tapes.svg" alt="victor"
                       class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10"
                       style="top: -37%; left: 38%;" data-uc-svg>
                   </div>
                   <div class="lg:d-none">
-                    <img src="/assets/images/vectors/tapes.svg" alt="victor"
+                    <img src="~/assets/images/vectors/tapes.svg" alt="victor"
                       class="position-absolute h-200px sm:h-300px text-tertiary-100 dark:text-white dark:text-opacity-10"
                       style="top: -22%; right: 3%;" data-uc-svg>
                   </div>
@@ -73,20 +73,20 @@
                     </div>
                     <div class="lg:d-none">
                       <div class="panel">
-                        <img src="/assets/images/features/home-14-solution-02.png" alt="">
+                        <img src="~/assets/images/features/home-14-solution-02.png" alt="">
                       </div>
                     </div>
                   </div>
                   <div class="position-absolute w-500px xl:w-700px d-none lg:d-block" style="top: 12%; right: -4%;">
-                    <img src="/assets/images/features/home-14-solution-02.png" alt="">
+                    <img src="~/assets/images/features/home-14-solution-02.png" alt="">
                   </div>
                   <div class="d-none lg:d-flex">
-                    <img src="/assets/images/vectors/tapes.svg" alt="victor"
+                    <img src="~/assets/images/vectors/tapes.svg" alt="victor"
                       class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10"
                       style="top: -37%; left: 38%;" data-uc-svg>
                   </div>
                   <div class="lg:d-none">
-                    <img src="/assets/images/vectors/tapes.svg" alt="victor"
+                    <img src="~/assets/images/vectors/tapes.svg" alt="victor"
                       class="position-absolute h-200px sm:h-300px text-tertiary-100 dark:text-white dark:text-opacity-10"
                       style="top: -24%; right: 3%;" data-uc-svg>
                   </div>
@@ -113,20 +113,20 @@
                     </div>
                     <div class="lg:d-none">
                       <div class="panel">
-                        <img src="/assets/images/features/home-14-solution-03.png" alt="">
+                        <img src="~/assets/images/features/home-14-solution-03.png" alt="">
                       </div>
                     </div>
                   </div>
                   <div class="position-absolute w-550px xl:w-750px d-none lg:d-block" style="top: 7%; right: -8%;">
-                    <img src="/assets/images/features/home-14-solution-03.png" alt="">
+                    <img src="~/assets/images/features/home-14-solution-03.png" alt="">
                   </div>
                   <div class="d-none lg:d-flex">
-                    <img src="/assets/images/vectors/tapes.svg" alt="victor"
+                    <img src="~/assets/images/vectors/tapes.svg" alt="victor"
                       class="position-absolute h-300px xl:h-400px text-tertiary-100 dark:text-white dark:text-opacity-10"
                       style="top: -37%; left: 38%;" data-uc-svg>
                   </div>
                   <div class="lg:d-none">
-                    <img src="/assets/images/vectors/tapes.svg" alt="victor"
+                    <img src="~/assets/images/vectors/tapes.svg" alt="victor"
                       class="position-absolute h-200px sm:h-300px text-tertiary-100 dark:text-white dark:text-opacity-10"
                       style="top: -24%; right: 3%;" data-uc-svg>
                   </div>

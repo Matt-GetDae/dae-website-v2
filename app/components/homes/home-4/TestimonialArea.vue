@@ -29,9 +29,9 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                         <div class="panel vstack items-start gap-2">
                           <div class="panel">
                             <div class="hstack h-48px">
-                              <img class="w-128px dark:d-none" src="/assets/images/brands/brand-08.svg" alt="Brand">
+                              <img class="w-128px dark:d-none" src="~/assets/images/brands/brand-08.svg" alt="Brand">
                               <img class="w-128px d-none dark:d-inline-flex"
-                                src="/assets/images/brands/brand-08-dark.svg" alt="Brand">
+                                src="~/assets/images/brands/brand-08-dark.svg" alt="Brand">
                             </div>
                           </div>
                           <p class="fs-5 lg:fs-4 xl:fs-3 fw-medium text-dark dark:text-white">“We are based in Europe
@@ -52,7 +52,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                         <figure
                           class="featured-image m-0 rounded ratio ratio-1x1 h-100 uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/template/login.webp" alt="image">
+                            src="~/assets/images/template/login.webp" alt="image">
                         </figure>
                         <a @click="playVideo(videoUrl)" :style="{ cursor: 'pointer' }"
                           class="position-absolute top-50 start-50 translate-middle cstack w-48px lg:w-64px h-48px lg:h-64px rounded-circle shadow-xs text-none bg-white bg-opacity-80 text-primary"

@@ -39,52 +39,52 @@ import { Autoplay } from "swiper/modules";
                   }
                 }"> 
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-01.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-01.svg"
                       alt="Proline">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-01-dark.svg" alt="Proline">
+                      src="~/assets/images/brands/brand-01-dark.svg" alt="Proline">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-02.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-02.svg"
                       alt="Iceberg">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-02-dark.svg" alt="Iceberg">
+                      src="~/assets/images/brands/brand-02-dark.svg" alt="Iceberg">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-03.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-03.svg"
                       alt="PinPoint">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-03-dark.svg" alt="PinPoint">
+                      src="~/assets/images/brands/brand-03-dark.svg" alt="PinPoint">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-04.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-04.svg"
                       alt="Clues">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-04-dark.svg" alt="Clues">
+                      src="~/assets/images/brands/brand-04-dark.svg" alt="Clues">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-05.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-05.svg"
                       alt="Snowflake">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-05-dark.svg" alt="Snowflake">
+                      src="~/assets/images/brands/brand-05-dark.svg" alt="Snowflake">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-06.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-06.svg"
                       alt="Proline">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-06-dark.svg" alt="Proline">
+                      src="~/assets/images/brands/brand-06-dark.svg" alt="Proline">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-07.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-07.svg"
                       alt="Iceberg">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-07-dark.svg" alt="Iceberg">
+                      src="~/assets/images/brands/brand-07-dark.svg" alt="Iceberg">
                   </SwiperSlide>
                   <SwiperSlide class="brand-item swiper-slide text-center">
-                    <img class="brand-item-image h-40px dark:d-none" src="/assets/images/brands/brand-08.svg"
+                    <img class="brand-item-image h-40px dark:d-none" src="~/assets/images/brands/brand-08.svg"
                       alt="PinPoint">
                     <img class="brand-item-image h-40px d-none dark:d-inline-flex"
-                      src="/assets/images/brands/brand-08-dark.svg" alt="PinPoint">
+                      src="~/assets/images/brands/brand-08-dark.svg" alt="PinPoint">
                   </SwiperSlide> 
                 </Swiper>
               </div>

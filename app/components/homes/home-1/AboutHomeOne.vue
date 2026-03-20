@@ -14,10 +14,10 @@
                   class="row child-cols-12 sm:child-cols-6 lg:child-cols-4 col-match g-2 lg:g-4 justify-between text-center">
                   <div>
                     <div class="panel vstack items-center gap-2 p-4 lg:py-6 rounded-2 bg-white dark:bg-gray-800">
-                      <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-diamond.svg"
+                      <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-diamond.svg"
                         alt="impact-icon">
                       <img class="w-64px lg:w-80px d-none dark:d-block"
-                        src="/assets/images/template/icon-diamond-dark.svg" alt="impact-icon">
+                        src="~/assets/images/template/icon-diamond-dark.svg" alt="impact-icon">
                       <h5 class="h5 lg:h4">Make an impact</h5>
                       <p class="fs-6 opacity-70 dark:opacity-80">We’re building something big. Something that has the
                         power to change the trajectory of any sized business for the better.</p>
@@ -25,10 +25,10 @@
                   </div>
                   <div>
                     <div class="panel vstack items-center gap-2 p-4 lg:py-6 rounded-2 bg-white dark:bg-gray-800">
-                      <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-trophy.svg"
+                      <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-trophy.svg"
                         alt="crown-icon">
                       <img class="w-64px lg:w-80px d-none dark:d-block"
-                        src="/assets/images/template/icon-trophy-dark.svg" alt="crown-icon">
+                        src="~/assets/images/template/icon-trophy-dark.svg" alt="crown-icon">
                       <h5 class="h5 lg:h4">Learn</h5>
                       <p class="fs-6 opacity-70 dark:opacity-80">Teams are masters of their craft though we’re all
                         experts in our respective fields, we always make time to expand our minds.</p>
@@ -36,10 +36,10 @@
                   </div>
                   <div>
                     <div class="panel vstack items-center gap-2 p-4 lg:py-6 rounded-2 bg-white dark:bg-gray-800">
-                      <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-crown.svg"
+                      <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-crown.svg"
                         alt="empathy-icon">
                       <img class="w-64px lg:w-80px d-none dark:d-block"
-                        src="/assets/images/template/icon-crown-dark.svg" alt="empathy-icon">
+                        src="~/assets/images/template/icon-crown-dark.svg" alt="empathy-icon">
                       <h5 class="h5 lg:h4">Empathy</h5>
                       <p class="fs-6 opacity-70 dark:opacity-80">We strive to be empathetic to every customer and
                         colleague and by doing so we provide better experience for all.</p>

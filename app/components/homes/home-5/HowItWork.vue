@@ -56,7 +56,7 @@ const toggleFAQ = (index) => {
                     style="transform: translateX(0px); opacity: 1;">
                     <figure
                       class="featured-image m-0 rounded ratio ratio-1x1 overflow-hidden rounded-1-5 lg:rounded-2 lg:rounded-bottom-end-0 ">
-                      <img class="media-cover image " src="/assets/images/template/feature-image-03.jpg"
+                      <img class="media-cover image " src="~/assets/images/template/feature-image-03.jpg"
                         alt="image title">
                     </figure>
                   </div>
@@ -108,7 +108,7 @@ const toggleFAQ = (index) => {
                     style="transform: translateX(0px); opacity: 1;">
                     <figure
                       class="featured-image m-0 rounded ratio ratio-1x1 overflow-hidden rounded-1-5 lg:rounded-2 lg:rounded-top-start-0 ">
-                      <img class="media-cover image " src="/assets/images/template/feature-image-01.jpg"
+                      <img class="media-cover image " src="~/assets/images/template/feature-image-01.jpg"
                         alt="image title">
                     </figure>
                   </div>
@@ -128,7 +128,7 @@ const toggleFAQ = (index) => {
                           <div>
                             <div class="panel vstack items-start gap-2">
                               <div class="cstack min-w-48px min-h-48px bg-primary rounded-circle">
-                                <img class="icon icon-1 text-white" src="/assets/images/common/icons/database.svg"
+                                <img class="icon icon-1 text-white" src="~/assets/images/common/icons/database.svg"
                                   alt="feature-icon" data-uc-svg="" hidden=""><svg width="24" height="24"
                                   viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
                                   class="icon icon-1 text-white uc-svg">
@@ -146,7 +146,7 @@ const toggleFAQ = (index) => {
                           <div>
                             <div class="panel vstack items-start gap-2">
                               <div class="cstack min-w-48px min-h-48px bg-primary rounded-circle">
-                                <img class="icon icon-1 text-white" src="/assets/images/common/icons/line-chart.svg"
+                                <img class="icon icon-1 text-white" src="~/assets/images/common/icons/line-chart.svg"
                                   alt="feature-icon" data-uc-svg="" hidden=""><svg width="24" height="24"
                                   viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"
                                   class="icon icon-1 text-white uc-svg">

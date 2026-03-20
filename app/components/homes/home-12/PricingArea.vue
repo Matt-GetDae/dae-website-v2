@@ -55,7 +55,7 @@
                     <ul class="nav-y gap-1 fs-7 xl:fs-6 dark:text-white text-start">
                       <li class="row child-cols items-start g-1" v-for="(feature, i) in plan.features" :key="i">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check-02.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check-02.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>{{ feature }}</span>
@@ -92,7 +92,7 @@
                     <ul class="nav-y gap-1 fs-7 xl:fs-6 dark:text-white text-start">
                       <li class="row child-cols items-start g-1" v-for="(feature, i) in plan.features" :key="i">
                         <div class="col-auto">
-                          <img src="/assets/images/vectors/check-02.svg" alt="icon" style="padding-top: 2px;">
+                          <img src="~/assets/images/vectors/check-02.svg" alt="icon" style="padding-top: 2px;">
                         </div>
                         <div>
                           <span>{{ feature }}</span>
@@ -151,7 +151,7 @@
                               <div class="position-cover" data-uc-lightbox="video-autoplay: true; animation: scale;">
                                 <a @click="playVideo(videoUrl)" :style="{ cursor: 'pointer' }"
                                   class="position-absolute top-50 start-50 translate-middle uc-link w-80px h-80px rounded-circle cstack bg-white">
-                                  <img class="w-32px h-32px text-primary" src="/assets/images/common/icons/play.svg"
+                                  <img class="w-32px h-32px text-primary" src="~/assets/images/common/icons/play.svg"
                                     alt="icon" data-uc-svg>
                                 </a>
                               </div>

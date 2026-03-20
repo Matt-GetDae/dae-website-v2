@@ -26,33 +26,33 @@
               class="position-absolute rounded-circle border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent cstack w-56px h-56px d-none lg:d-block"
               style="top: 10%; right: 10.5%"
               data-anime="translateY: [0, 15]; easing: linear; loop: true; direction: alternate; delay: 50;"><img
-                class="p-2" src="/assets/images/apps/zapier.svg" alt="brand"></div>
+                class="p-2" src="~/assets/images/apps/zapier.svg" alt="brand"></div>
             <div
               class="position-absolute rounded-circle border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent cstack w-56px h-56px d-none lg:d-block"
               style="top: -5%; left: 24%"
               data-anime="translateY: [0, 5]; easing: linear; loop: true; direction: alternate; delay: 25;"><img
-                class="p-2" src="/assets/images/apps/stipe.svg" alt="brand"></div>
+                class="p-2" src="~/assets/images/apps/stipe.svg" alt="brand"></div>
             <div
               class="position-absolute rounded-circle border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent cstack w-56px h-56px d-none lg:d-block"
               style="top: 30%; left: -1.5%"
               data-anime="translateY: [0, 10]; easing: linear; loop: true; direction: alternate; delay: 0;"><img
-                class="p-2" src="/assets/images/apps/asana.svg" alt="brand"></div>
+                class="p-2" src="~/assets/images/apps/asana.svg" alt="brand"></div>
             <div
               class="position-absolute rounded-circle border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent cstack w-56px h-56px d-none lg:d-block"
               style="top: 45%; right: -1.5%"
               data-anime="translateY: [0, 5]; easing: linear; loop: true; direction: alternate; delay: 50;"><img
-                class="p-2 text-dark dark:text-yellow-400" src="/assets/images/apps/mailchimp.svg" alt="brand"
+                class="p-2 text-dark dark:text-yellow-400" src="~/assets/images/apps/mailchimp.svg" alt="brand"
                 data-uc-svg></div>
             <div
               class="position-absolute rounded-circle border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent cstack w-56px h-56px d-none lg:d-block"
               style="top: 75%; right: 21%"
               data-anime="translateY: [0, 15]; easing: linear; loop: true; direction: alternate; delay: 25;"><img
-                class="p-2" src="/assets/images/apps/drive.svg" alt="brand"></div>
+                class="p-2" src="~/assets/images/apps/drive.svg" alt="brand"></div>
             <div
               class="position-absolute rounded-circle border border-dark dark:border-white dark:border-opacity-15 dark:bg-gradient-45 to-transparent cstack w-56px h-56px d-none lg:d-block"
               style="top: 85%; left: 11.5%"
               data-anime="translateY: [0, 10]; easing: linear; loop: true; direction: alternate; delay: 50;"><img
-                class="p-2" src="/assets/images/apps/bitbucket.svg" alt="brand"></div>
+                class="p-2" src="~/assets/images/apps/bitbucket.svg" alt="brand"></div>
           </div>
           <div class="panel vstack items-center gap-2 max-w-md mx-auto text-center px-4 lg:px-0 mt-6"
             data-anime="onview:-100; targets: >*; translateY: [48, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 200});">
@@ -91,8 +91,8 @@
                 <div class="hstack justify-center gap-narrow">
                   <span class="desc rtl:order-first">5,200+ reviews on</span>
                   <div>
-                    <img src="/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
-                    <img src="/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
+                    <img src="~/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
+                    <img src="~/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
                       class="w-96px d-none dark:d-inline-flex">
                   </div>
                 </div>

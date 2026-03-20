@@ -113,9 +113,9 @@
                       </div>
                     </div>
                     <div class="position-absolute bottom-0 ltr:end-0 rtl:start-0 m-2 d-none md:d-block" style="right: 0 !important">
-                      <img class="w-100px lg:w-128px d-block dark:d-none" src="/assets/images/template/money.svg"
+                      <img class="w-100px lg:w-128px d-block dark:d-none" src="~/assets/images/template/money.svg"
                         alt="money">
-                      <img class="w-100px lg:w-128px d-none dark:d-block" src="/assets/images/template/money-dark.svg"
+                      <img class="w-100px lg:w-128px d-none dark:d-block" src="~/assets/images/template/money-dark.svg"
                         alt="money-dark">
                     </div>
                   </div>

@@ -89,9 +89,9 @@ function toggleFaq(index: number) {
                 </div>
                 <div class="col-auto">
                   <div class="panel hstack justify-center gap-0">
-                    <img src="/assets/images/avatars/02.jpg" alt="Avatar-image"
+                    <img src="~/assets/images/avatars/02.jpg" alt="Avatar-image"
                       class="w-32px h-32px rounded-circle border border-3 border-white dark:border-gray-800">
-                    <img src="/assets/images/avatars/05.png" alt="Avatar-image"
+                    <img src="~/assets/images/avatars/05.png" alt="Avatar-image"
                       class="w-32px h-32px rounded-circle border border-3 border-white dark:border-gray-800 ms-n2">
                     <div class="position-absolute rounded-circle border border-white dark:border-gray-800 bg-primary"
                       style="bottom: 6%; right: 2%; width: 12px; height: 12px;"></div>

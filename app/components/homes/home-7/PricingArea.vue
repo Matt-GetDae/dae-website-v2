@@ -18,11 +18,11 @@
                 <div class="row child-cols-12 g-0">
                   <div class="panel d-none lg:d-block lg:col-3">
                     <img class="w-128px position-absolute d-inline-block dark:d-none"
-                      src="/assets/images/vectors/man-upside-down.svg" alt="man-upside-down"
+                      src="~/assets/images/vectors/man-upside-down.svg" alt="man-upside-down"
                       style="top: -2%; left: 30%;"
                       data-anime="onview: -200; scale: [0.8, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 500;">
                     <img class="w-128px position-absolute d-none dark:d-inline-block"
-                      src="/assets/images/vectors/man-upside-down-dark.svg" alt="man-upside-down"
+                      src="~/assets/images/vectors/man-upside-down-dark.svg" alt="man-upside-down"
                       style="top: -2%; left: 30%;"
                       data-anime="onview: -200; scale: [0.8, 1]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: 500;">
                     <div class="vstack border border-end-0 rounded-start-2 overflow-hidden" style="margin-top: 211px">

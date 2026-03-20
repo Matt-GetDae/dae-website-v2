@@ -26,7 +26,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                         <figure
                           class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/portrait/home-16-01.jpg" alt="image">
+                            src="~/assets/images/portrait/home-16-01.jpg" alt="image">
                         </figure>
                         <a @click="playVideo(videoUrl)" :style="{ cursor: 'pointer' }"
                           class="position-absolute top-50 start-50 translate-middle cstack w-48px lg:w-64px h-48px lg:h-64px rounded-circle shadow-xs text-none bg-white bg-opacity-80 text-primary"
@@ -44,10 +44,10 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                             <span class="fs-7 lg:h6 text-muted">Director of Sales</span>
                           </div>
                           <div>
-                            <img class="w-100px lg:w-128px dark:d-none" src="/assets/images/brands/brand-03.svg"
+                            <img class="w-100px lg:w-128px dark:d-none" src="~/assets/images/brands/brand-03.svg"
                               alt="Brand">
                             <img class="w-100px lg:w-128px d-none dark:d-inline-flex"
-                              src="/assets/images/brands/brand-03-dark.svg" alt="Brand">
+                              src="~/assets/images/brands/brand-03-dark.svg" alt="Brand">
                           </div>
                         </div>
                         <div class="panel mt-2 lg:mt-4">

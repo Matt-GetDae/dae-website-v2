@@ -25,7 +25,7 @@ const selectLanguage = (lang) => {
             <div class="uc-navbar-left">
               <div class="uc-logo">
                 <NuxtLink class="panel text-none" to="/"  >
-                  <img class="text-primary dark:text-tertiary image-filter" src="/assets/images/common/logo-8-light.svg" alt="Lexend"
+                  <img class="text-primary dark:text-tertiary image-filter" src="~/assets/images/common/logo-8-light.svg" alt="Lexend"
                     data-uc-svg /> 
 
                 </NuxtLink>

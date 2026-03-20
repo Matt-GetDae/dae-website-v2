@@ -30,7 +30,7 @@
                     <figure
                       class="featured-image m-0 rounded ratio ratio-16x9 rounded-1 uc-transition-toggle overflow-hidden">
                       <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                        src="/assets/images/blog/img-01.jpg" alt="UX review presentations">
+                        src="~/assets/images/blog/img-01.jpg" alt="UX review presentations">
                       <NuxtLink to="/blog-details" class="position-cover" data-caption="UX review presentations"></NuxtLink>
                     </figure>
                     <div class="panel vstack gap-1">
@@ -40,7 +40,7 @@
                       <p class="post-excrept fs-6 opacity-70">Join the thousands of satisfied users and take your
                         business to the next level today and the power of streamlined business operations.</p>
                       <div class="post-meta hstack gap-1 panel overflow-hidden mt-2">
-                        <NuxtLink to="/page-author"><img src="/assets/images/avatars/02.png" alt="David"
+                        <NuxtLink to="/page-author"><img src="~/assets/images/avatars/02.png" alt="David"
                             class="w-40px h-40px rounded-circle"></NuxtLink>
                         <div class="vstack gap-0">
                           <NuxtLink to="/page-author" class="text-none fw-bold text-black dark:text-white">David</NuxtLink>
@@ -61,7 +61,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1 rounded-1 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/blog/img-02.jpg" alt="Migrating to Linear 101">
+                                src="~/assets/images/blog/img-02.jpg" alt="Migrating to Linear 101">
                               <NuxtLink to="/blog-details" class="position-cover"
                                 data-caption="Migrating to Linear 101"></NuxtLink>
                             </figure>
@@ -84,7 +84,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1 rounded-1 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/blog/img-03.jpg" alt="Building your API stack">
+                                src="~/assets/images/blog/img-03.jpg" alt="Building your API stack">
                               <NuxtLink to="/blog-details" class="position-cover"
                                 data-caption="Building your API stack"></NuxtLink>
                             </figure>
@@ -107,7 +107,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1 rounded-1 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/blog/img-04.jpg" alt="UX review presentations">
+                                src="~/assets/images/blog/img-04.jpg" alt="UX review presentations">
                               <NuxtLink to="/blog-details" class="position-cover"
                                 data-caption="UX review presentations"></NuxtLink>
                             </figure>
@@ -134,7 +134,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1 rounded-1 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/blog/img-05.jpg" alt="Migrating to Linear 101">
+                                src="~/assets/images/blog/img-05.jpg" alt="Migrating to Linear 101">
                               <NuxtLink to="/blog-details" class="position-cover"
                                 data-caption="Migrating to Linear 101"></NuxtLink>
                             </figure>
@@ -157,7 +157,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1 rounded-1 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/blog/img-06.jpg" alt="Building your API stack">
+                                src="~/assets/images/blog/img-06.jpg" alt="Building your API stack">
                               <NuxtLink to="/blog-details" class="position-cover"
                                 data-caption="Building your API stack"></NuxtLink>
                             </figure>
@@ -180,7 +180,7 @@
                             <figure
                               class="featured-image m-0 rounded ratio ratio-1x1 rounded-1 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/blog/img-07.jpg" alt="UX review presentations">
+                                src="~/assets/images/blog/img-07.jpg" alt="UX review presentations">
                               <NuxtLink to="/blog-details" class="position-cover"
                                 data-caption="UX review presentations"></NuxtLink>
                             </figure>

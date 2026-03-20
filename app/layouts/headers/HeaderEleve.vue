@@ -64,8 +64,8 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
             <div class="uc-navbar-left">
               <div class="uc-logo">
                 <NuxtLink class="panel text-none" to="/">
-                  <img class="dark:d-none" src="/assets/images/common/logo-15-light.svg" alt="Lexend">
-                  <img class="d-none dark:d-block" src="/assets/images/common/logo-15-dark.svg" alt="Lexend">
+                  <img class="dark:d-none" src="~/assets/images/common/logo-15-light.svg" alt="Lexend">
+                  <img class="d-none dark:d-block" src="~/assets/images/common/logo-15-dark.svg" alt="Lexend">
                 </NuxtLink>
               </div>
             </div>
@@ -268,7 +268,7 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                             <figure
                               class="featured-image m-0 rounded ratio ratio-3x2 rounded-1-5 uc-transition-toggle overflow-hidden">
                               <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                                src="/assets/images/template/login.webp" alt="Image">
+                                src="~/assets/images/template/login.webp" alt="Image">
                             </figure>
                             <button
                               class="btn btn-md btn-alt-primary p-0 w-32px h-32px position-absolute bottom-0 ltr:start-0 rtl:end-0 m-2"><i
@@ -321,27 +321,27 @@ const videoUrl = 'https://www.youtube.com/embed/Q5PG0rMXgvw?si=uhzrlIvzSWwOe_F3'
                     <ul class="nav-y gap-0 fs-7">
                       <li><a href="#en"
                           class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img
-                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/en.svg"
+                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/en.svg"
                             alt="English">English</a></li>
                       <li><a href="#fr"
                           class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img
-                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/fr.svg"
+                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/fr.svg"
                             alt="French">French</a></li>
                       <li><a href="#ge"
                           class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img
-                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/ge.svg"
+                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/ge.svg"
                             alt="Germany">Germany</a></li>
                       <li><a href="#sp"
                           class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img
-                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/sp.svg"
+                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/sp.svg"
                             alt="Spain">Spain</a></li>
                       <li><a href="#ar"
                           class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img
-                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/ar.svg"
+                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/ar.svg"
                             alt="العربية">Arabic (العربية)</a></li>
                       <li><a href="#ch"
                           class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img
-                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/ch.svg"
+                            class="w-20px rounded-1 me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/ch.svg"
                             alt="中文">Chinese (中文)</a></li>
                     </ul>
 

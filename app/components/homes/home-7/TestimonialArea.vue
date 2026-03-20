@@ -33,35 +33,35 @@ import { Autoplay } from "swiper/modules";
                       :allowTouchMove="false" :disableOnInteraction="true"
                       > 
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-01.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-01.svg"
                             alt="Proline" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-02.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-02.svg"
                             alt="Iceberg" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-03.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-03.svg"
                             alt="PinPoint" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-04.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-04.svg"
                             alt="Clues" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-05.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-05.svg"
                             alt="Snowflake" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-06.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-06.svg"
                             alt="Proline" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-07.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-07.svg"
                             alt="Iceberg" data-uc-svg>
                         </SwiperSlide>
                         <SwiperSlide class="brand-item swiper-slide text-center image-filter">
-                          <img class="brand-item-image h-40px xl:h-48px" src="/assets/images/brands/brand-08.svg"
+                          <img class="brand-item-image h-40px xl:h-48px" src="~/assets/images/brands/brand-08.svg"
                             alt="PinPoint" data-uc-svg>
                         </SwiperSlide> 
                     </Swiper>
@@ -87,7 +87,7 @@ import { Autoplay } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -110,7 +110,7 @@ import { Autoplay } from "swiper/modules";
                           with dynamic pricing tables, and get approval from my boss all within 36 minutes.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png" alt="Natalia Larsson">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png" alt="Natalia Larsson">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -133,7 +133,7 @@ import { Autoplay } from "swiper/modules";
                           this regulation and as we look to create our website and this builder just outstanding!”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -156,7 +156,7 @@ import { Autoplay } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/08.png" alt="Anna Yon">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/08.png" alt="Anna Yon">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -179,7 +179,7 @@ import { Autoplay } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -202,7 +202,7 @@ import { Autoplay } from "swiper/modules";
                           with dynamic pricing tables, and get approval from my boss all within 36 minutes.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png" alt="Natalia Larsson">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png" alt="Natalia Larsson">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -225,7 +225,7 @@ import { Autoplay } from "swiper/modules";
                           this regulation and as we look to create our website and this builder just outstanding!”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -248,7 +248,7 @@ import { Autoplay } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/08.png" alt="Anna Yon">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/08.png" alt="Anna Yon">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -272,7 +272,7 @@ import { Autoplay } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -295,7 +295,7 @@ import { Autoplay } from "swiper/modules";
                           with dynamic pricing tables, and get approval from my boss all within 36 minutes.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png" alt="Natalia Larsson">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png" alt="Natalia Larsson">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -318,7 +318,7 @@ import { Autoplay } from "swiper/modules";
                           this regulation and as we look to create our website and this builder just outstanding!”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -341,7 +341,7 @@ import { Autoplay } from "swiper/modules";
                           work whereas now we can focus on building out to help our employees.”</p>
                       </div>
                       <div class="panel hstack gap-2 mt-2">
-                        <img class="w-40px rounded-circle" src="/assets/images/avatars/08.png" alt="Anna Yon">
+                        <img class="w-40px rounded-circle" src="~/assets/images/avatars/08.png" alt="Anna Yon">
                         <div class="panel vstack justify-center gap-narrow">
                           <ul class="nav-x gap-0 text-warning">
                             <li><i class="icon icon-narrow unicon-star-filled"></i></li>
@@ -362,7 +362,7 @@ import { Autoplay } from "swiper/modules";
               <span>See all feedbacks</span>
               <i class="icon icon-1 unicon-arrow-right rtl:rotate-180"></i>
             </a>
-            <img class="w-500px text-primary dark:text-gray-200 image-filter" src="/assets/images/vectors/producthunt-badges.svg"
+            <img class="w-500px text-primary dark:text-gray-200 image-filter" src="~/assets/images/vectors/producthunt-badges.svg"
               alt="producthunt-badges" data-uc-svg="">
           </div>
         </div>

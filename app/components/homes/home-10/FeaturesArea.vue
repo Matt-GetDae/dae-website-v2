@@ -11,7 +11,7 @@
                   <div class="col-12 md:col-6 lg:col-5 ">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image" src="/assets/images/template/home-10-feature-01.jpg"
+                        <img class="media-cover image" src="~/assets/images/template/home-10-feature-01.jpg"
                           alt="Instant Messaging" fetchpriority="high">
                       </figure>
                     </div>
@@ -49,7 +49,7 @@
                   <div class="col-12 md:col-6 lg:col-5 md:order-2">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image" src="/assets/images/template/home-10-feature-02.jpg"
+                        <img class="media-cover image" src="~/assets/images/template/home-10-feature-02.jpg"
                           alt="HD Video Calling" fetchpriority="high">
                       </figure>
                     </div>
@@ -87,7 +87,7 @@
                   <div class="col-12 md:col-6 lg:col-5 ">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image" src="/assets/images/template/home-10-feature-03.jpg"
+                        <img class="media-cover image" src="~/assets/images/template/home-10-feature-03.jpg"
                           alt="End-to-End Encryption" fetchpriority="high">
                       </figure>
                     </div>
@@ -125,7 +125,7 @@
                   <div class="col-12 md:col-6 lg:col-5 md:order-2">
                     <div class="panel overflow-hidden rounded-1-5 lg:rounded-2">
                       <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-2 overflow-hidden ">
-                        <img class="media-cover image " src="/assets/images/template/home-10-feature-04.jpg"
+                        <img class="media-cover image " src="~/assets/images/template/home-10-feature-04.jpg"
                           alt="Cross-Platform Sync">
                       </figure>
                     </div>

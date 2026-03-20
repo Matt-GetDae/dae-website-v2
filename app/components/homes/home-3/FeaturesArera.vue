@@ -9,7 +9,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="col-12 sm:col-6 order-0 lg:order-1">
                   <div class="panel w-100">
-                    <img src="/assets/images/template/feature-01.svg"
+                    <img src="~/assets/images/template/feature-01.svg"
                       alt="Share tools quickly and confidently in minutes" class="rounded-2">
                   </div>
                 </div>
@@ -29,7 +29,7 @@
                         <p class="fs-6 dark:text-white">“Most of our time used to be taken up by administrative work
                           whereas now we can focus on building out programs to help our employees.”</p>
                         <div class="panel hstack gap-1">
-                          <img class="w-40px rounded-circle" src="/assets/images/avatars/01.png" alt="Mark Zellers">
+                          <img class="w-40px rounded-circle" src="~/assets/images/avatars/01.png" alt="Mark Zellers">
                           <div class="panel vstack items-start gap-0">
                             <h6 class="h6 m-0">Mark Zellers</h6>
                             <span class="fs-7 opacity-70">Director of Human Resources.</span>
@@ -48,7 +48,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="col-12 sm:col-6 order-0 lg:order-1">
                   <div class="panel w-100">
-                    <img src="/assets/images/template/feature-02.svg" alt="Connect every part of your entire business"
+                    <img src="~/assets/images/template/feature-02.svg" alt="Connect every part of your entire business"
                       class="rounded-2">
                   </div>
                 </div>
@@ -71,7 +71,7 @@
                         <p class="fs-6 dark:text-white">“I can create a custom proposal with dynamic pricing tables, and
                           get approval from my boss all within 36 minutes.”</p>
                         <div class="panel hstack gap-1">
-                          <img class="w-40px rounded-circle" src="/assets/images/avatars/02.png" alt="Matt Henderson">
+                          <img class="w-40px rounded-circle" src="~/assets/images/avatars/02.png" alt="Matt Henderson">
                           <div class="panel vstack items-start gap-0">
                             <h6 class="h6 m-0">Matt Henderson</h6>
                             <span class="fs-7 opacity-70">Client Success Manager</span>
@@ -90,7 +90,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="col-12 sm:col-6 order-0 lg:order-1">
                   <div class="panel w-100">
-                    <img src="/assets/images/template/feature-03.svg" alt="Maintain compliance and control your apps"
+                    <img src="~/assets/images/template/feature-03.svg" alt="Maintain compliance and control your apps"
                       class="rounded-2">
                   </div>
                 </div>
@@ -110,7 +110,7 @@
                         <p class="fs-6 dark:text-white">“This powerfull tool eliminates the need to leave Salesforce to
                           get things done.”</p>
                         <div class="panel hstack gap-1">
-                          <img class="w-40px rounded-circle" src="/assets/images/avatars/04.png"
+                          <img class="w-40px rounded-circle" src="~/assets/images/avatars/04.png"
                             alt="Natalia Larsson">
                           <div class="panel vstack items-start gap-0">
                             <h6 class="h6 m-0">Natalia Larsson</h6>
@@ -130,7 +130,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="col-12 sm:col-6 order-0 lg:order-1">
                   <div class="panel w-100">
-                    <img src="/assets/images/template/feature-04.svg" alt="Review quickly and confidently"
+                    <img src="~/assets/images/template/feature-04.svg" alt="Review quickly and confidently"
                       class="rounded-2">
                   </div>
                 </div>
@@ -150,7 +150,7 @@
                         <p class="fs-6 dark:text-white">“We are based in Europe and the latest Data Protection
                           Regulation forces us to look for service suppliers than comply with this regulation.”</p>
                         <div class="panel hstack gap-1">
-                          <img class="w-40px rounded-circle" src="/assets/images/avatars/03.png" alt="Sarah Edrissi">
+                          <img class="w-40px rounded-circle" src="~/assets/images/avatars/03.png" alt="Sarah Edrissi">
                           <div class="panel vstack items-start gap-0">
                             <h6 class="h6 m-0">Sarah Edrissi</h6>
                             <span class="fs-7 opacity-70">Lead Marketing</span>

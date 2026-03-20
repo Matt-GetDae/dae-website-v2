@@ -12,7 +12,7 @@
                                 <div>
                                     <div class="features-item hstack items-center gap-2 p-2 bg-secondary hover:bg-tertiary dark:bg-gray-300 dark:bg-opacity-15 dark:hover:bg-primary hover:scale-105 transition-all duration-150 rounded-pill">
                                         <div class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
-                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="/assets/images/common/icons/zap.svg" alt="feature-icon" data-uc-svg>
+                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="~/assets/images/common/icons/zap.svg" alt="feature-icon" data-uc-svg>
                                         </div>
                                         <h3 class="title h6 md:h5 m-0">Fast Messaging</h3>
                                         <a href="#" class="position-cover"></a>
@@ -21,7 +21,7 @@
                                 <div>
                                     <div class="features-item hstack items-center gap-2 p-2 bg-secondary hover:bg-tertiary dark:bg-gray-300 dark:bg-opacity-15 dark:hover:bg-primary hover:scale-105 transition-all duration-150 rounded-pill">
                                         <div class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
-                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="/assets/images/common/icons/database.svg" alt="feature-icon" data-uc-svg>
+                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="~/assets/images/common/icons/database.svg" alt="feature-icon" data-uc-svg>
                                         </div>
                                         <h3 class="title h6 md:h5 m-0">AI-Powered Translation</h3>
                                         <a href="#" class="position-cover"></a>
@@ -30,7 +30,7 @@
                                 <div>
                                     <div class="features-item hstack items-center gap-2 p-2 bg-secondary hover:bg-tertiary dark:bg-gray-300 dark:bg-opacity-15 dark:hover:bg-primary hover:scale-105 transition-all duration-150 rounded-pill">
                                         <div class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
-                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="/assets/images/common/icons/line-chart.svg" alt="feature-icon" data-uc-svg>
+                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="~/assets/images/common/icons/line-chart.svg" alt="feature-icon" data-uc-svg>
                                         </div>
                                         <h3 class="title h6 md:h5 m-0">Smart File Sharing</h3>
                                         <a href="#" class="position-cover"></a>
@@ -39,7 +39,7 @@
                                 <div>
                                     <div class="features-item hstack items-center gap-2 p-2 bg-secondary hover:bg-tertiary dark:bg-gray-300 dark:bg-opacity-15 dark:hover:bg-primary hover:scale-105 transition-all duration-150 rounded-pill">
                                         <div class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
-                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="/assets/images/common/icons/target.svg" alt="feature-icon" data-uc-svg>
+                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="~/assets/images/common/icons/target.svg" alt="feature-icon" data-uc-svg>
                                         </div>
                                         <h3 class="title h6 md:h5 m-0">Collaboration Tools</h3>
                                         <a href="#" class="position-cover"></a>
@@ -48,7 +48,7 @@
                                 <div>
                                     <div class="features-item hstack items-center gap-2 p-2 bg-secondary hover:bg-tertiary dark:bg-gray-300 dark:bg-opacity-15 dark:hover:bg-primary hover:scale-105 transition-all duration-150 rounded-pill">
                                         <div class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
-                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="/assets/images/common/icons/settings.svg" alt="feature-icon" data-uc-svg>
+                                            <img class="w-20px xl:w-24px text-tertiary dark:text-primary image-filter-white" src="~/assets/images/common/icons/settings.svg" alt="feature-icon" data-uc-svg>
                                         </div>
                                         <h3 class="title h6 md:h5 m-0">Customizable Privacy</h3>
                                         <a href="#" class="position-cover"></a>
@@ -81,7 +81,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
                     <img alt="feature-icon" class="w-20px xl:w-24px text-tertiary dark:text-primary white-on-light"
-                      src="/assets/images/common/icons/zap.svg" style="color: transparent" />
+                      src="~/assets/images/common/icons/zap.svg" style="color: transparent" />
                   </div>
                   <h3 class="title h6 md:h5 m-0">Fast Messaging</h3>
                   <a href="#" class="position-cover"></a>
@@ -93,7 +93,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
                     <img alt="feature-icon" class="w-20px xl:w-24px text-tertiary dark:text-primary white-on-light"
-                      src="/assets/images/common/icons/database.svg" style="color: transparent" />
+                      src="~/assets/images/common/icons/database.svg" style="color: transparent" />
                   </div>
                   <h3 class="title h6 md:h5 m-0">AI-Powered Translation</h3>
                   <a href="#" class="position-cover"></a>
@@ -105,7 +105,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
                     <img alt="feature-icon" class="w-20px xl:w-24px text-tertiary dark:text-primary white-on-light"
-                      src="/assets/images/common/icons/line-chart.svg" style="color: transparent" />
+                      src="~/assets/images/common/icons/line-chart.svg" style="color: transparent" />
                   </div>
                   <h3 class="title h6 md:h5 m-0">Smart File Sharing</h3>
                   <a href="#" class="position-cover"></a>
@@ -117,7 +117,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
                     <img alt="feature-icon" class="w-20px xl:w-24px text-tertiary dark:text-primary white-on-light"
-                      src="/assets/images/common/icons/target.svg" style="color: transparent" />
+                      src="~/assets/images/common/icons/target.svg" style="color: transparent" />
                   </div>
                   <h3 class="title h6 md:h5 m-0">Collaboration Tools</h3>
                   <a href="#" class="position-cover"></a>
@@ -129,7 +129,7 @@
                   <div
                     class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary">
                     <img alt="feature-icon" class="w-20px xl:w-24px text-tertiary dark:text-primary white-on-light"
-                      src="/assets/images/common/icons/settings.svg" style="color: transparent" />
+                      src="~/assets/images/common/icons/settings.svg" style="color: transparent" />
                   </div>
                   <h3 class="title h6 md:h5 m-0">Customizable Privacy</h3>
                   <a href="#" class="position-cover"></a>

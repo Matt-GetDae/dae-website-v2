@@ -13,8 +13,8 @@
                     <div class="panel vstack items-center gap-2">
                       <div class="panel">
                         <div class="hstack h-48px">
-                          <img class="w-128px dark:d-none" src="/assets/images/brands/brand-01.svg" alt="Brand">
-                          <img class="w-128px d-none dark:d-inline-flex" src="/assets/images/brands/brand-01-dark.svg"
+                          <img class="w-128px dark:d-none" src="~/assets/images/brands/brand-01.svg" alt="Brand">
+                          <img class="w-128px d-none dark:d-inline-flex" src="~/assets/images/brands/brand-01-dark.svg"
                             alt="Brand">
                         </div>
                       </div>

@@ -31,26 +31,26 @@
                 </div>
                 <div class="vstack md:hstack justify-center lg:justify-start gap-2 mt-2 xl:mt-4">
                   <div class="hstack justify-center gap-0">
-                    <img src="/assets/images/avatars/02.jpg" alt="Avatar-image"
+                    <img src="~/assets/images/avatars/02.jpg" alt="Avatar-image"
                       class="w-40px h-40px rounded-circle border border-1 border-secondary dark:border-gray-900">
-                    <img src="/assets/images/avatars/05.png" alt="Avatar-image"
+                    <img src="~/assets/images/avatars/05.png" alt="Avatar-image"
                       class="w-40px h-40px rounded-circle border border-1 border-secondary dark:border-gray-900 ms-n2">
-                    <img src="/assets/images/avatars/02.png" alt="Avatar-image"
+                    <img src="~/assets/images/avatars/02.png" alt="Avatar-image"
                       class="w-40px h-40px rounded-circle border border-1 border-secondary dark:border-gray-900 ms-n2">
-                    <img src="/assets/images/avatars/01.jpg" alt="Avatar-image"
+                    <img src="~/assets/images/avatars/01.jpg" alt="Avatar-image"
                       class="w-40px h-40px rounded-circle border border-1 border-secondary dark:border-gray-900 ms-n2">
                   </div>
                   <div class="panel">
                     <ul class="nav-x justify-center md:justify-start gap-0">
-                      <li><img src="/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
+                      <li><img src="~/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
                           data-uc-svg></li>
-                      <li><img src="/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
+                      <li><img src="~/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
                           data-uc-svg></li>
-                      <li><img src="/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
+                      <li><img src="~/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
                           data-uc-svg></li>
-                      <li><img src="/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
+                      <li><img src="~/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
                           data-uc-svg></li>
-                      <li><img src="/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
+                      <li><img src="~/assets/images/common/star-rating.svg" alt="star-rating" class="w-20px text-yellow"
                           data-uc-svg></li>
                       <li><span class="fs-8 fw-medium ms-narrow">5.0</span></li>
                     </ul>
@@ -63,18 +63,18 @@
               <div class="hero-scroll-scene panel sm:w-550px sm:h-600px lg:w-450px lg:h-500px xl:w-600px xl:h-650px"
                 data-anime="translateX: [48, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 500; delay: anime.stagger(100, {start: 200});">
                 <figure class="featured-image m-0 rounded ratio ratio-1x1 rounded-3 h-100 overflow-hidden ">
-                  <img class="media-cover image " src="/assets/images/template/hero-05.jpg" alt="image">
+                  <img class="media-cover image " src="~/assets/images/template/hero-05.jpg" alt="image">
                 </figure>
                 <div class="hero-five-contries position-absolute sm:w-300px lg:w-250px xl:w-350px d-none sm:d-block"
                   data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: 750;"
                   style="top: 20%;">
-                  <img src="/assets/images/template/hero-05-countries.png" alt="Countries"
+                  <img src="~/assets/images/template/hero-05-countries.png" alt="Countries"
                     data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -200; onscroll-trigger: 0; onscroll-duration: 400%; translateY: [-100, 0];">
                 </div>
                 <div class="hero-five-account position-absolute sm:w-250px lg:w-200px xl:w-300px d-none sm:d-block"
                   data-anime="translateY: [24, 0]; opacity: [0, 1]; easing: easeOutCubic; duration: 750; delay: 750;"
                   style="bottom: 20%;">
-                  <img src="/assets/images/template/hero-05-account.png" alt="Account"
+                  <img src="~/assets/images/template/hero-05-account.png" alt="Account"
                     data-anime="onscroll: .hero-scroll-scene; onscroll-offset: -200; onscroll-trigger: 0; onscroll-duration: 400%; translateY: [100, 0];">
                 </div>
               </div>

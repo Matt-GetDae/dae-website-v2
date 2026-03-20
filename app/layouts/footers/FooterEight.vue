@@ -63,8 +63,8 @@ const selectLanguage = (language) => {
                       <div class="hstack justify-center gap-narrow">
                         <span class="desc rtl:order-first">5,200+ reviews on</span>
                         <div>
-                          <img src="/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
-                          <img src="/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
+                          <img src="~/assets/images/review-logo/05.svg" alt="Trustpilot" class="w-96px dark:d-none">
+                          <img src="~/assets/images/review-logo/dark-05.svg" alt="Trustpilot"
                             class="w-96px d-none dark:d-inline-flex">
                         </div>
                       </div>
@@ -75,7 +75,7 @@ const selectLanguage = (language) => {
                   <div class="panel vstack items-start gap-3 xl:gap-4 lg:max-w-1/2">
                     <div>
                       <NuxtLink class="panel text-none" to="/" style="width: 140px;">
-                        <img class="text-tertiary dark:text-primary" src="/assets/images/common/logo-8-dark.svg"
+                        <img class="text-tertiary dark:text-primary" src="~/assets/images/common/logo-8-dark.svg"
                           alt="Lexend" data-uc-svg>
                       </NuxtLink>
                       <p class="mt-2">Design amazing digital experiences that create more happy in the world.</p>

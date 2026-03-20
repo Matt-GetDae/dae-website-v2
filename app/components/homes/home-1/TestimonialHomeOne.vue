@@ -42,7 +42,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-01.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-01.png"
                         alt="Where the idea come up of Lexend :)">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -54,7 +54,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-02.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-02.png"
                         alt="Launched our first business that can be created in minutes, build meaningful relationships.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -67,7 +67,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-03.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-03.png"
                         alt="Opened our new office in Toronto, CA">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -79,7 +79,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-04.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-04.png"
                         alt="Moved to Silicon Valley whereas now we can focus on building out to help our employees.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -92,7 +92,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-05.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-05.png"
                         alt="Opened a new office in London, UK.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -104,7 +104,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-06.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-06.png"
                         alt="Top-rated software solution for service suppliers.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -118,7 +118,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-04.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-04.png"
                         alt="Moved to Silicon Valley whereas now we can focus on building out to help our employees.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -131,7 +131,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-05.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-05.png"
                         alt="Opened a new office in London, UK.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">
@@ -143,7 +143,7 @@ import { SwiperSlide, Swiper } from "swiper/vue";
                 <SwiperSlide class="swiper-slide panel">
                   <div class="timeline-box panel vstack items-center gap-9 text-center">
                     <div class="image-wrap panel overflow-hidden w-200px">
-                      <img class="image w-100 origin-bottom" src="/assets/images/template/timeline-06.png"
+                      <img class="image w-100 origin-bottom" src="~/assets/images/template/timeline-06.png"
                         alt="Top-rated software solution for service suppliers.">
                     </div>
                     <div class="content panel vstack items-center px-3 xl:px-6">

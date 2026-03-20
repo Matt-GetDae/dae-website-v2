@@ -111,7 +111,7 @@ const activeTab = ref(0);
                               class="row child-cols items-start g-1"
                             >
                               <div class="col-auto">
-                                <img src="/assets/images/vectors/check-02.svg" alt="icon" style="padding-top: 2px;">
+                                <img src="~/assets/images/vectors/check-02.svg" alt="icon" style="padding-top: 2px;">
                               </div>
                               <div>
                                 <span>{{ point }}</span>

@@ -7,24 +7,24 @@
           <div class="brands panel">
             <div class="row child-cols-4 sm:child-cols items-center justify-center text-center g-2 sm:g-6 xl:g-9">
               <div>
-                <img class="dark:d-none" src="/assets/images/brands/brand-09.svg" alt="Hello">
-                <img class="d-none dark:d-block" src="/assets/images/brands/brand-09-dark.svg" alt="Hello">
+                <img class="dark:d-none" src="~/assets/images/brands/brand-09.svg" alt="Hello">
+                <img class="d-none dark:d-block" src="~/assets/images/brands/brand-09-dark.svg" alt="Hello">
               </div>
               <div>
-                <img class="dark:d-none" src="/assets/images/brands/brand-05.svg" alt="Hello">
-                <img class="d-none dark:d-block" src="/assets/images/brands/brand-05-dark.svg" alt="Hello">
+                <img class="dark:d-none" src="~/assets/images/brands/brand-05.svg" alt="Hello">
+                <img class="d-none dark:d-block" src="~/assets/images/brands/brand-05-dark.svg" alt="Hello">
               </div>
               <div>
-                <img class="dark:d-none" src="/assets/images/brands/brand-10.svg" alt="Hello">
-                <img class="d-none dark:d-block" src="/assets/images/brands/brand-10-dark.svg" alt="Hello">
+                <img class="dark:d-none" src="~/assets/images/brands/brand-10.svg" alt="Hello">
+                <img class="d-none dark:d-block" src="~/assets/images/brands/brand-10-dark.svg" alt="Hello">
               </div>
               <div>
-                <img class="dark:d-none" src="/assets/images/brands/brand-11.svg" alt="Hello">
-                <img class="d-none dark:d-block" src="/assets/images/brands/brand-11-dark.svg" alt="Hello">
+                <img class="dark:d-none" src="~/assets/images/brands/brand-11.svg" alt="Hello">
+                <img class="d-none dark:d-block" src="~/assets/images/brands/brand-11-dark.svg" alt="Hello">
               </div>
               <div>
-                <img class="dark:d-none" src="/assets/images/brands/brand-12.svg" alt="Hello">
-                <img class="d-none dark:d-block" src="/assets/images/brands/brand-12-dark.svg" alt="Hello">
+                <img class="dark:d-none" src="~/assets/images/brands/brand-12.svg" alt="Hello">
+                <img class="d-none dark:d-block" src="~/assets/images/brands/brand-12-dark.svg" alt="Hello">
               </div>
             </div>
           </div>

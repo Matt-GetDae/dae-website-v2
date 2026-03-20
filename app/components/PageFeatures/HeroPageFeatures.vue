@@ -3,11 +3,11 @@
     <div class="position-absolute top-0 start-0 end-0 min-h-screen overflow-hidden d-none lg:d-block"
       data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
       <div class="position-absolute top-0 start-0 rotate-45" style="top: 30% !important; left: 18% !important;">
-        <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1"
+        <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1"
           data-uc-svg>
       </div>
       <div class="position-absolute top-0 end-0 rotate-45" style="top: 15% !important; right: 18% !important;">
-        <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2"
+        <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2"
           data-uc-svg>
       </div>
     </div>
@@ -26,7 +26,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="order-0 lg:order-1">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-01.svg"
+                    <img src="~/assets/images/template/feature-01.svg"
                       alt="Share tools quickly and confidently in minutes">
                   </div>
                 </div>
@@ -50,7 +50,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="order-0 lg:order-1">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-02.svg"
+                    <img src="~/assets/images/template/feature-02.svg"
                       alt="Connect every part of your entire business">
                   </div>
                 </div>
@@ -77,7 +77,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="order-0 lg:order-1">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-03.svg" alt="Maintain compliance and control your apps">
+                    <img src="~/assets/images/template/feature-03.svg" alt="Maintain compliance and control your apps">
                   </div>
                 </div>
                 <div class="order-1 lg:order-0 col-12 sm:col-5">
@@ -100,7 +100,7 @@
               <div class="row child-cols col-match justify-between g-4 lg:g-8 xl:g-10">
                 <div class="order-0 lg:order-1">
                   <div class="panel w-100 rounded lg:rounded-2 overflow-hidden">
-                    <img src="/assets/images/template/feature-04.svg" alt="Review quickly and confidently">
+                    <img src="~/assets/images/template/feature-04.svg" alt="Review quickly and confidently">
                   </div>
                 </div>
                 <div class="order-1 lg:order-0 col-12 sm:col-5">

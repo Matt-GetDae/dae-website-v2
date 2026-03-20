@@ -54,7 +54,7 @@
                       </div>
                       <div class="sm:col-auto order-0 sm:order-1">
                         <figure class="panel ratio ratio-1x1 overflow-hidden sm:w-300px xl:w-400px">
-                          <img class="image media-cover" src="/assets/images/features/home-15-feature-01.png"
+                          <img class="image media-cover" src="~/assets/images/features/home-15-feature-01.png"
                             alt="image">
                         </figure>
                       </div>
@@ -64,7 +64,7 @@
                     <div class="row child-cols-12 items-center g-4 xl:g-6">
                       <div class="sm:col-auto">
                         <figure class="panel ratio ratio-1x1 overflow-hidden sm:w-300px xl:w-400px">
-                          <img class="image media-cover" src="/assets/images/features/home-15-feature-02.png"
+                          <img class="image media-cover" src="~/assets/images/features/home-15-feature-02.png"
                             alt="image">
                         </figure>
                       </div>
@@ -102,7 +102,7 @@
                       </div>
                       <div class="sm:col-auto order-0 sm:order-1">
                         <figure class="panel ratio ratio-1x1 overflow-hidden sm:w-300px xl:w-400px">
-                          <img class="image media-cover" src="/assets/images/features/home-15-feature-03.png"
+                          <img class="image media-cover" src="~/assets/images/features/home-15-feature-03.png"
                             alt="image">
                         </figure>
                       </div>
@@ -112,7 +112,7 @@
                     <div class="row child-cols-12 items-center g-4 xl:g-6">
                       <div class="sm:col-auto">
                         <figure class="panel ratio ratio-1x1 overflow-hidden sm:w-300px xl:w-400px">
-                          <img class="image media-cover" src="/assets/images/features/home-15-feature-04.png"
+                          <img class="image media-cover" src="~/assets/images/features/home-15-feature-04.png"
                             alt="image">
                         </figure>
                       </div>

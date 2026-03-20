@@ -18,7 +18,7 @@
                   <div class="row child-cols-12 g-0 col-match">
                     <div class="order-1 sm:order-0">
                       <div class="panel">
-                        <img class="rounded-2" src="/assets/images/features/home-14-feature-01.png" alt="">
+                        <img class="rounded-2" src="~/assets/images/features/home-14-feature-01.png" alt="">
                       </div>
                     </div>
                     <div class="order-0 sm:order-1">
@@ -44,7 +44,7 @@
                     </div>
                     <div>
                       <div class="panel">
-                        <img class="rounded-2" src="/assets/images/features/home-14-feature-02.png" alt="">
+                        <img class="rounded-2" src="~/assets/images/features/home-14-feature-02.png" alt="">
                       </div>
                     </div>
                   </div>
@@ -56,7 +56,7 @@
                   <div class="row child-cols-12 g-0 col-match">
                     <div class="order-1 sm:order-0">
                       <div class="panel">
-                        <img class="rounded-2" src="/assets/images/features/home-14-feature-03.png" alt="">
+                        <img class="rounded-2" src="~/assets/images/features/home-14-feature-03.png" alt="">
                       </div>
                     </div>
                     <div class="order-0 sm:order-1">
@@ -82,7 +82,7 @@
                     </div>
                     <div>
                       <div class="panel">
-                        <img class="rounded-2" src="/assets/images/features/home-14-feature-04.png" alt="">
+                        <img class="rounded-2" src="~/assets/images/features/home-14-feature-04.png" alt="">
                       </div>
                     </div>
                   </div>

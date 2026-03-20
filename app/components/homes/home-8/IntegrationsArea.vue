@@ -15,109 +15,109 @@
             <div class="row child-cols-3 lg:child-cols justify-center items-center text-center g-2 lg:g-4">
               <div>
                 <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/notion.svg"
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/notion.svg"
                     alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/slack.svg"
-                    alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px"
-                    src="/assets/images/tools/google_drive.svg" alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/intercom.svg"
-                    alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/jira.svg"
-                    alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/dropbox.svg"
-                    alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/stripe.svg"
-                    alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/zapier.svg"
-                    alt="tool">
-                </div>
-              </div>
-              <div>
-                <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/figma.svg"
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/slack.svg"
                     alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
                   <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px"
-                    src="/assets/images/tools/confluence.svg" alt="tool">
+                    src="~/assets/images/tools/google_drive.svg" alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/intercom.svg"
+                    alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/jira.svg"
+                    alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/dropbox.svg"
+                    alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/stripe.svg"
+                    alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/zapier.svg"
+                    alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/figma.svg"
+                    alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
                   <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px"
-                    src="/assets/images/tools/mailchimp.svg" alt="tool">
+                    src="~/assets/images/tools/confluence.svg" alt="tool">
+                </div>
+              </div>
+              <div>
+                <div class="panel">
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px"
+                    src="~/assets/images/tools/mailchimp.svg" alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
                   <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px text-tertiary dark:text-tertiary-400"
-                    src="/assets/images/tools/zendesk.svg" alt="tool" data-uc-svg>
+                    src="~/assets/images/tools/zendesk.svg" alt="tool" data-uc-svg>
                 </div>
               </div>
               <div>
                 <div class="panel">
                   <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px"
-                    src="/assets/images/tools/g-calendar.svg" alt="tool">
+                    src="~/assets/images/tools/g-calendar.svg" alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/evernote.svg"
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/evernote.svg"
                     alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/whatsapp.svg"
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/whatsapp.svg"
                     alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/discord.svg"
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/discord.svg"
                     alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
                   <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px"
-                    src="/assets/images/tools/bitbucket.svg" alt="tool">
+                    src="~/assets/images/tools/bitbucket.svg" alt="tool">
                 </div>
               </div>
               <div>
                 <div class="panel">
-                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="/assets/images/tools/invision.svg"
+                  <img class="min-w-48px lg:min-w-80px max-w-48px lg:max-w-80px" src="~/assets/images/tools/invision.svg"
                     alt="tool">
                 </div>
               </div>

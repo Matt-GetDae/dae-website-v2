@@ -29,7 +29,7 @@ defineProps({
             decoding="async"
             data-nimg="1"
             class="me-1"
-            src="/assets/images/common/icons/home.svg"
+            src="~/assets/images/common/icons/home.svg"
             style="color: transparent"
           />
         </li>

@@ -13,7 +13,7 @@
                                                 <div class="lg:col-6 xl:col-4">
                                                     <div class="panel">
                                                         <figure class="featured-image m-0 rounded ratio ratio-16x9 lg:ratio-1x1 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-4.jpg" alt="Unlock productivity potential with AI">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-4.jpg" alt="Unlock productivity potential with AI">
                                                             <NuxtLink to="/blog-details" class="position-cover" data-caption="Unlock productivity potential with AI"></NuxtLink>
                                                         </figure>
                                                         <NuxtLink class="post-category text-primary fw-normal text-none fw-bold fs-7 py-narrow px-1 rounded bg-tertiary text-primary position-absolute top-0 start-0 m-2" to="/blog-category">Product</NuxtLink>
@@ -37,7 +37,7 @@
                                                 <div class="lg:col-6 xl:col-4">
                                                     <div class="panel">
                                                         <figure class="featured-image m-0 rounded ratio ratio-16x9 lg:ratio-1x1 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-5.jpg" alt="Automate as fast as you can type with AI">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-5.jpg" alt="Automate as fast as you can type with AI">
                                                             <NuxtLink to="/blog-details-2" class="position-cover" data-caption="Automate as fast as you can type with AI"></NuxtLink>
                                                         </figure>
                                                         <NuxtLink class="post-category text-primary fw-normal text-none fw-bold fs-7 py-narrow px-1 rounded bg-tertiary text-primary position-absolute top-0 start-0 m-2" to="/blog-category">Design</NuxtLink>
@@ -61,7 +61,7 @@
                                                 <div class="lg:col-6 xl:col-4">
                                                     <div class="panel">
                                                         <figure class="featured-image m-0 rounded ratio ratio-16x9 lg:ratio-1x1 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-6.jpg" alt="Intuitive & powerful AI automation app">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-6.jpg" alt="Intuitive & powerful AI automation app">
                                                             <NuxtLink to="/blog-details-3" class="position-cover" data-caption="Intuitive & powerful AI automation app"></NuxtLink>
                                                         </figure>
                                                         <NuxtLink class="post-category text-primary fw-normal text-none fw-bold fs-7 py-narrow px-1 rounded bg-tertiary text-primary position-absolute top-0 start-0 m-2" to="/blog-category">Business</NuxtLink>
@@ -85,7 +85,7 @@
                                                 <div class="lg:col-6 xl:col-4">
                                                     <div class="panel">
                                                         <figure class="featured-image m-0 rounded ratio ratio-16x9 lg:ratio-1x1 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/img-01.jpg" alt="Team solve today’s biggest challenges">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/img-01.jpg" alt="Team solve today’s biggest challenges">
                                                             <NuxtLink to="/blog-details" class="position-cover" data-caption="Team solve today’s biggest challenges"></NuxtLink>
                                                         </figure>
                                                         <NuxtLink class="post-category text-primary fw-normal text-none fw-bold fs-7 py-narrow px-1 rounded bg-tertiary text-primary position-absolute top-0 start-0 m-2" to="/blog-category">Design</NuxtLink>
@@ -109,7 +109,7 @@
                                                 <div class="lg:col-6 xl:col-4">
                                                     <div class="panel">
                                                         <figure class="featured-image m-0 rounded ratio ratio-16x9 lg:ratio-1x1 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/img-02.jpg" alt="Leading work from tasks management">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/img-02.jpg" alt="Leading work from tasks management">
                                                             <NuxtLink to="/blog-details-2" class="position-cover" data-caption="Leading work from tasks management"></NuxtLink>
                                                         </figure>
                                                         <NuxtLink class="post-category text-primary fw-normal text-none fw-bold fs-7 py-narrow px-1 rounded bg-tertiary text-primary position-absolute top-0 start-0 m-2" to="/blog-category">Business</NuxtLink>
@@ -133,7 +133,7 @@
                                                 <div class="lg:col-6 xl:col-4">
                                                     <div class="panel">
                                                         <figure class="featured-image m-0 rounded ratio ratio-16x9 lg:ratio-1x1 rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/img-03.jpg" alt="Offers a unified platform that fosters innovation">
+                                                            <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/img-03.jpg" alt="Offers a unified platform that fosters innovation">
                                                             <NuxtLink to="/blog-details-3" class="position-cover" data-caption="Offers a unified platform that fosters innovation"></NuxtLink>
                                                         </figure>
                                                         <NuxtLink class="post-category text-primary fw-normal text-none fw-bold fs-7 py-narrow px-1 rounded bg-tertiary text-primary position-absolute top-0 start-0 m-2" to="/blog-category">Product</NuxtLink>
@@ -175,7 +175,7 @@
                                     <div class="widget-content mt-2">
                                         <div class="panel text-center">
                                             <div class="ratio ratio-16x9 rounded lg:rounded-1-5 uc-transition-toggle overflow-hidden">
-                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/blog/post-6.jpg" alt="Pixar Unveils Disney Land of the Dead in New">
+                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/blog/post-6.jpg" alt="Pixar Unveils Disney Land of the Dead in New">
                                                 <NuxtLink class="position-cover" data-caption="Pixar Unveils Disney Land of the Dead in New" to="/blog-details"></NuxtLink>
                                             </div>
                                             <h4 class="h5 mt-3">

@@ -33,7 +33,7 @@ onUnmounted(() => {
                         <div class="uc-navbar-left">
                             <div class="uc-logo max-w-128px lg:max-w-150px">
                                 <NuxtLink class="panel text-none ltr:lg:ms-2 ltr:xl:ms-3 rtl:lg:ms-2 rtl:xl:ms-3" to="/">
-                                    <img src="/assets/images/common/logo-14.svg" alt="Lexend" style="width: 126px !important; height: 32px !important;">
+                                    <img src="~/assets/images/common/logo-14.svg" alt="Lexend" style="width: 126px !important; height: 32px !important;">
                                 </NuxtLink>
                             </div>
                         </div>
@@ -52,12 +52,12 @@ onUnmounted(() => {
                                     </a>
                                     <div class="py-1 bg-white dark:bg-gray-800 shadow-xs w-200px rounded-2 uc-drop" data-uc-drop="mode: click; offset: 16; pos: top-right; boundary: !.uc-navbar-container; animation: uc-animation-slide-top-small; duration: 150;">
                                         <ul class="nav-y gap-0 fs-7">
-                                            <li><a href="#en" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/en.svg" alt="English">English</a></li>
-                                            <li><a href="#fr" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/fr.svg" alt="French">French</a></li>
-                                            <li><a href="#ge" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/ge.svg" alt="Germany">Germany</a></li>
-                                            <li><a href="#sp" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/sp.svg" alt="Spain">Spain</a></li>
-                                            <li><a href="#ar" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/ar.svg" alt="العربية">Arabic (العربية)</a></li>
-                                            <li><a href="#ch" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="/assets/images/common/ch.svg" alt="中文">Chinese (中文)</a></li>
+                                            <li><a href="#en" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/en.svg" alt="English">English</a></li>
+                                            <li><a href="#fr" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/fr.svg" alt="French">French</a></li>
+                                            <li><a href="#ge" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/ge.svg" alt="Germany">Germany</a></li>
+                                            <li><a href="#sp" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/sp.svg" alt="Spain">Spain</a></li>
+                                            <li><a href="#ar" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/ar.svg" alt="العربية">Arabic (العربية)</a></li>
+                                            <li><a href="#ch" class="w-100 p-1 px-2 hover:bg-gray-600 hover:bg-opacity-5 dark:hover:bg-white duration-150"><img class="w-20px me-1 rtl:me-0 rtl:ms-1" src="~/assets/images/common/ch.svg" alt="中文">Chinese (中文)</a></li>
                                         </ul>
                                     </div>
                                 </li>

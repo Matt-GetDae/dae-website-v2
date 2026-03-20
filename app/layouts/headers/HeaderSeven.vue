@@ -52,8 +52,8 @@ const toggleMenu = () => {
             <div class="uc-navbar-left">
               <div class="uc-logo ltr:ms-1 rtl:me-1">
                 <NuxtLink class="panel text-none" to="/" style="width: 140px;">
-                  <img class="dark:d-none" src="/assets/images/common/logo-8-light.svg" alt="Lexend">
-                  <img class="d-none dark:d-block" src="/assets/images/common/logo-8-dark.svg" alt="Lexend">
+                  <img class="dark:d-none" src="~/assets/images/common/logo-8-light.svg" alt="Lexend">
+                  <img class="d-none dark:d-block" src="~/assets/images/common/logo-8-dark.svg" alt="Lexend">
                 </NuxtLink>
               </div>
             </div>
@@ -78,7 +78,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-01.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-01.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow text-inherit">Email Template Builder</span>
@@ -90,7 +90,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-02.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-02.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Landing Page Builder</span>
@@ -102,7 +102,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-03.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-03.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Reporting &amp; analytics</span>
@@ -114,7 +114,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-07.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-07.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Chatbots, Free forever</span>
@@ -137,7 +137,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-04.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-04.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">AI-Powered Tools</span>
@@ -149,7 +149,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-05.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-05.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">E-commerce and retail</span>
@@ -161,7 +161,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-06.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-06.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Large Community</span>
@@ -173,7 +173,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-08.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-08.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">AI-Powered Automation</span>
@@ -196,7 +196,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-01.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-01.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow text-inherit">Email Template Builder</span>
@@ -208,7 +208,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-02.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-02.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Landing Page Builder</span>
@@ -220,7 +220,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-03.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-03.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Reporting &amp; analytics</span>
@@ -232,7 +232,7 @@ const toggleMenu = () => {
                               <NuxtLink class="hstack items-start gap-2 text-none text-dark dark:text-white hover:text-primary-600 dark:hover:text-primary"
                                 to="/page-features">
                                 <span class="icon rounded dark:bg-white">
-                                  <img class="w-32px" src="/assets/images/custom-icons/home-8-icon-07.svg" alt="icon">
+                                  <img class="w-32px" src="~/assets/images/custom-icons/home-8-icon-07.svg" alt="icon">
                                 </span>
                                 <div class="panel">
                                   <span class="fs-7 mb-narrow">Chatbots, Free forever</span>

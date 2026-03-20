@@ -8,8 +8,8 @@
             <div>
               <div class="uc-logo ">
                 <NuxtLink class="panel text-none" to="/home-4" style="width: 140px">
-                  <img class="dark:d-none" src="/assets/images/common/logo-light.svg" alt="">
-                  <img class="d-none dark:d-block" src="/assets/images/common/logo-dark.svg" alt="">
+                  <img class="dark:d-none" src="~/assets/images/common/logo-light.svg" alt="">
+                  <img class="d-none dark:d-block" src="~/assets/images/common/logo-dark.svg" alt="">
                 </NuxtLink>
               </div>
             </div>
@@ -17,11 +17,11 @@
               <div class="hstack items-start gap-1">
                 <a href="#">
                   <img class="text-gray-900 dark:text-white hover:text-opacity-70 transition-all duration-150 image-filter"
-                    src="/assets/images/common/playstore.svg" alt="Google Play Store" data-uc-svg>
+                    src="~/assets/images/common/playstore.svg" alt="Google Play Store" data-uc-svg>
                 </a>
                 <a href="#">
                   <img class="text-gray-900 dark:text-white hover:text-opacity-70 transition-all duration-150 image-filter"
-                    src="/assets/images/common/appstore.svg" alt="Apple Store" data-uc-svg>
+                    src="~/assets/images/common/appstore.svg" alt="Apple Store" data-uc-svg>
                 </a>
               </div>
             </div>

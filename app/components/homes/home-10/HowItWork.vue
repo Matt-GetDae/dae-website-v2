@@ -10,7 +10,7 @@
               <div class="panel vstack items-center gap-2 text-center p-5 xl:py-8">
                 <span
                   class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary text-tertiary dark:text-primary">1</span>
-                <img class="w-100 max-h-200px" src="/assets/images/template/home-10-step-01.svg" alt="Image">
+                <img class="w-100 max-h-200px" src="~/assets/images/template/home-10-step-01.svg" alt="Image">
                 <h3 class="h5 lg:h4 m-0">Download, create account</h3>
                 <p class="fs-6">Quickly download the app and create your account in seconds. No complicated
                   registrations or lengthy forms—just simple, fast onboarding.</p>
@@ -20,7 +20,7 @@
               <div class="panel vstack items-center gap-2 text-center p-5 xl:py-8">
                 <span
                   class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary text-tertiary dark:text-primary">2</span>
-                <img class="w-100 max-h-200px" src="/assets/images/template/home-10-step-02.svg" alt="Image">
+                <img class="w-100 max-h-200px" src="~/assets/images/template/home-10-step-02.svg" alt="Image">
                 <h3 class="h5 lg:h4 m-0">Connect with your circle</h3>
                 <p class="fs-6">Automatically sync your contacts or manually add friends. Our intelligent network helps
                   you connect seamlessly across multiple platforms.</p>
@@ -30,7 +30,7 @@
               <div class="panel vstack items-center gap-2 text-center p-5 xl:py-8">
                 <span
                   class="icon-box w-40px md:w-48px h-40px md:h-48px rounded-circle cstack bg-primary dark:bg-tertiary text-tertiary dark:text-primary">3</span>
-                <img class="w-100 max-h-200px" src="/assets/images/template/home-10-step-03.svg" alt="Image">
+                <img class="w-100 max-h-200px" src="~/assets/images/template/home-10-step-03.svg" alt="Image">
                 <h3 class="h5 lg:h4 m-0">Start communicating</h3>
                 <p class="fs-6">Start chatting, make video calls, and share files instantly. Experience real-time
                   communication with crystal-clear quality and ultimate privacy.</p>

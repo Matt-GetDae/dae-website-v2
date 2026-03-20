@@ -19,7 +19,7 @@
                 class="features-item hstack items-start gap-2 lg:gap-4 p-2 lg:p-4 py-4 lg:py-6 bg-secondary dark:bg-tertiary-800 dark:bg-gradient-45 to-transparent border border-dark dark:border-white dark:border-opacity-15 rounded-1-5">
                 <div class="icon-box cstack rounded w-1/3">
                   <img class="min-w-40px max-w-40px text-tertiary dark:text-primary"
-                    src="/assets/images/custom-icons/home-8-icon-01.svg" alt="feature-icon" data-uc-svg>
+                    src="~/assets/images/custom-icons/home-8-icon-01.svg" alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -35,7 +35,7 @@
                 class="features-item hstack items-start gap-2 lg:gap-4 p-2 lg:p-4 py-4 lg:py-6 bg-secondary dark:bg-tertiary-800 dark:bg-gradient-45 to-transparent border border-dark dark:border-white dark:border-opacity-15 rounded-1-5">
                 <div class="icon-box cstack rounded w-1/3">
                   <img class="min-w-40px max-w-40px text-tertiary dark:text-primary"
-                    src="/assets/images/custom-icons/home-8-icon-02.svg" alt="feature-icon" data-uc-svg>
+                    src="~/assets/images/custom-icons/home-8-icon-02.svg" alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -51,7 +51,7 @@
                 class="features-item hstack items-start gap-2 lg:gap-4 p-2 lg:p-4 py-4 lg:py-6 bg-secondary dark:bg-tertiary-800 dark:bg-gradient-45 to-transparent border border-dark dark:border-white dark:border-opacity-15 rounded-1-5">
                 <div class="icon-box cstack rounded w-1/3">
                   <img class="min-w-40px max-w-40px text-tertiary dark:text-primary"
-                    src="/assets/images/custom-icons/home-8-icon-03.svg" alt="feature-icon" data-uc-svg>
+                    src="~/assets/images/custom-icons/home-8-icon-03.svg" alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -67,7 +67,7 @@
                 class="features-item hstack items-start gap-2 lg:gap-4 p-2 lg:p-4 py-4 lg:py-6 bg-secondary dark:bg-tertiary-800 dark:bg-gradient-45 to-transparent border border-dark dark:border-white dark:border-opacity-15 rounded-1-5">
                 <div class="icon-box cstack rounded w-1/3">
                   <img class="min-w-40px max-w-40px text-tertiary dark:text-primary"
-                    src="/assets/images/custom-icons/home-8-icon-07.svg" alt="feature-icon" data-uc-svg>
+                    src="~/assets/images/custom-icons/home-8-icon-07.svg" alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -83,7 +83,7 @@
                 class="features-item hstack items-start gap-2 lg:gap-4 p-2 lg:p-4 py-4 lg:py-6 bg-secondary dark:bg-tertiary-800 dark:bg-gradient-45 to-transparent border border-dark dark:border-white dark:border-opacity-15 rounded-1-5">
                 <div class="icon-box cstack rounded w-1/3">
                   <img class="min-w-40px max-w-40px text-tertiary dark:text-primary"
-                    src="/assets/images/custom-icons/home-8-icon-05.svg" alt="feature-icon" data-uc-svg>
+                    src="~/assets/images/custom-icons/home-8-icon-05.svg" alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">
@@ -99,7 +99,7 @@
                 class="features-item hstack items-start gap-2 lg:gap-4 p-2 lg:p-4 py-4 lg:py-6 bg-secondary dark:bg-tertiary-800 dark:bg-gradient-45 to-transparent border border-dark dark:border-white dark:border-opacity-15 rounded-1-5">
                 <div class="icon-box cstack rounded w-1/3">
                   <img class="min-w-40px max-w-40px text-tertiary dark:text-primary"
-                    src="/assets/images/custom-icons/home-8-icon-06.svg" alt="feature-icon" data-uc-svg>
+                    src="~/assets/images/custom-icons/home-8-icon-06.svg" alt="feature-icon" data-uc-svg>
                 </div>
                 <div class="panel">
                   <div class="vstack gap-1">

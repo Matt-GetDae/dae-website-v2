@@ -13,8 +13,8 @@
           </div>
           <div
             class="position-absolute top-50 ltr:end-0 rtl:start-0 translate-middle-y z-1 ltr:me-8 rtl:ms-8 d-none lg:d-block end-0" style="margin-right: 56px;">
-            <img class="w-250px xl:w-300px d-block dark:d-none ltr:xl:me-7 rtl:xl:ms-7" src="/assets/images/template/charts.svg" alt="charts">
-            <img class="w-250px xl:w-300px d-none dark:d-block ltr:xl:me-7 rtl:xl:ms-7" src="/assets/images/template/charts-dark.svg" alt="charts-dark">
+            <img class="w-250px xl:w-300px d-block dark:d-none ltr:xl:me-7 rtl:xl:ms-7" src="~/assets/images/template/charts.svg" alt="charts">
+            <img class="w-250px xl:w-300px d-none dark:d-block ltr:xl:me-7 rtl:xl:ms-7" src="~/assets/images/template/charts-dark.svg" alt="charts-dark">
           </div>
         </div>
       </div>

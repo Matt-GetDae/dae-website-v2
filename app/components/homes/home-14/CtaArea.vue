@@ -12,10 +12,10 @@
                             </a>
                             <div class="hstack justify-center gap-2">
                                 <div class="hstack justify-center gap-0">
-                                    <img src="/assets/images/avatars/02.jpg" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600">
-                                    <img src="/assets/images/avatars/05.png" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600 ms-n2">
-                                    <img src="/assets/images/avatars/02.png" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600 ms-n2">
-                                    <img src="/assets/images/avatars/01.jpg" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600 ms-n2">
+                                    <img src="~/assets/images/avatars/02.jpg" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600">
+                                    <img src="~/assets/images/avatars/05.png" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600 ms-n2">
+                                    <img src="~/assets/images/avatars/02.png" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600 ms-n2">
+                                    <img src="~/assets/images/avatars/01.jpg" alt="Avatar-image" class="w-32px h-32px rounded-circle border border-3 border-primary-600 ms-n2">
                                     <div class="cstack w-32px h-32px fs-7 rounded-circle border border-3 border-primary-600 bg-tertiary text-primary ms-n2"><span>+8</span></div>
                                 </div>
                                 <span class="fs-7 text-white text-opacity-60">with +2,3k users</span>
@@ -23,10 +23,10 @@
                         </div>
                         <div class="position-cover bg-gradient-to-t from-dark to-transparent opacity-60"></div>
                         <div class="d-none sm:d-block">
-                            <img src="/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-primary dark:text-primary-700 z-99" style="top: -41%; left: 6%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-primary dark:text-primary-700 z-99" style="top: -41%; left: 6%;" data-uc-svg>
                         </div>
                         <div class="d-none sm:d-block">
-                            <img src="/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-primary dark:text-primary-700 z-99" style="bottom: -41%; right: 6%;" data-uc-svg>
+                            <img src="~/assets/images/vectors/tapes.svg" alt="victor" class="position-absolute h-300px xl:h-400px text-primary dark:text-primary-700 z-99" style="bottom: -41%; right: 6%;" data-uc-svg>
                         </div>
                     </div>
                 </div>

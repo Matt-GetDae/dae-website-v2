@@ -3,10 +3,10 @@
    <div id="hero_header" class="hero-header section panel overflow-hidden">
             <div class="position-absolute top-0 start-0 end-0 min-h-screen overflow-hidden d-none lg:d-block" data-anime="targets: >*; scale: [0, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
                 <div class="position-absolute top-0 start-0 rotate-45" style="top: 30% !important; left: 18% !important;">
-                    <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1" data-uc-svg>
+                    <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1" data-uc-svg>
                 </div>
                 <div class="position-absolute top-0 end-0 rotate-45" style="top: 15% !important; right: 18% !important;">
-                    <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2" data-uc-svg>
+                    <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2" data-uc-svg>
                 </div>
             </div>
             <div class="section-outer panel pt-9 lg:pt-10 pb-6 sm:pb-8 lg:pb-9">
@@ -26,7 +26,7 @@
                                                     <h5 class="h5 m-0">Slack</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Productivity</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-slack.svg" alt="Slack">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-slack.svg" alt="Slack">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Notify your teammates of the latest activities with instant Slack messages.</p>
                                         </div>
@@ -44,7 +44,7 @@
                                                     <h5 class="h5 m-0">Salesforce</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">CRM </span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-salesforce.svg" alt="Salesforce">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-salesforce.svg" alt="Salesforce">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Leave a lasting impression all done inside Salesforce CPQ platform.</p>
                                         </div>
@@ -62,7 +62,7 @@
                                                     <h5 class="h5 m-0">Stripe</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Payment</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-stripe.svg" alt="Stripe">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-stripe.svg" alt="Stripe">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Collect credit card and ACH payments within your sales documents.</p>
                                         </div>
@@ -80,7 +80,7 @@
                                                     <h5 class="h5 m-0">PayPal</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Payment</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-paypal.svg" alt="PayPal">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-paypal.svg" alt="PayPal">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Provide a world-class checkout experience for your customers.</p>
                                         </div>
@@ -98,7 +98,7 @@
                                                     <h5 class="h5 m-0">HubSpot</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">CRM</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-hubspot.svg" alt="HubSpot">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-hubspot.svg" alt="HubSpot">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Expand the ROI from your CRM and unlock easy generation and capabilities.</p>
                                         </div>
@@ -116,7 +116,7 @@
                                                     <h5 class="h5 m-0">Zapier</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Integration platforms</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-zapier.svg" alt="Zapier">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-zapier.svg" alt="Zapier">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Create custom, automated workflows using your favorite Zaps.</p>
                                         </div>
@@ -134,7 +134,7 @@
                                                     <h5 class="h5 m-0">Slack</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Productivity</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-slack.svg" alt="Slack">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-slack.svg" alt="Slack">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Notify your teammates of the latest activities with instant Slack messages.</p>
                                         </div>
@@ -152,7 +152,7 @@
                                                     <h5 class="h5 m-0">Salesforce</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">CRM </span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-salesforce.svg" alt="Salesforce">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-salesforce.svg" alt="Salesforce">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Leave a lasting impression all done inside Salesforce CPQ platform.</p>
                                         </div>
@@ -170,7 +170,7 @@
                                                     <h5 class="h5 m-0">Stripe</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Payment</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-stripe.svg" alt="Stripe">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-stripe.svg" alt="Stripe">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Collect credit card and ACH payments within your sales documents.</p>
                                         </div>
@@ -188,7 +188,7 @@
                                                     <h5 class="h5 m-0">PayPal</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Payment</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-paypal.svg" alt="PayPal">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-paypal.svg" alt="PayPal">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Provide a world-class checkout experience for your customers.</p>
                                         </div>
@@ -206,7 +206,7 @@
                                                     <h5 class="h5 m-0">HubSpot</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">CRM</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-hubspot.svg" alt="HubSpot">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-hubspot.svg" alt="HubSpot">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Expand the ROI from your CRM and unlock easy generation and capabilities.</p>
                                         </div>
@@ -224,7 +224,7 @@
                                                     <h5 class="h5 m-0">Zapier</h5>
                                                     <span class="fs-7 opacity-70 dark:opacity-80">Integration platforms</span>
                                                 </div>
-                                                <img class="w-32px lg:w-40px" src="/assets/images/template/tool-zapier.svg" alt="Zapier">
+                                                <img class="w-32px lg:w-40px" src="~/assets/images/template/tool-zapier.svg" alt="Zapier">
                                             </div>
                                             <p class="fs-6 opacity-70 dark:opacity-80">Create custom, automated workflows using your favorite Zaps.</p>
                                         </div>

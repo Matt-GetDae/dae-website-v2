@@ -33,7 +33,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-01.jpg" alt="Elegant Watch">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-01.jpg" alt="Elegant Watch">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Elegant Watch"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -63,7 +63,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-02.jpg" alt="Hemp Seed">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-02.jpg" alt="Hemp Seed">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Hemp Seed"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -92,7 +92,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="White Classic Watch"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -122,7 +122,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Stylish Starbucks"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -151,7 +151,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-05.jpg" alt="Black AirTag">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-05.jpg" alt="Black AirTag">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Black AirTag"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -180,7 +180,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-06.jpg" alt="Modern Headsets">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-06.jpg" alt="Modern Headsets">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Modern Headsets"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -209,7 +209,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Laptop Cover"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -239,7 +239,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-08.jpg" alt="Disney Toys">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-08.jpg" alt="Disney Toys">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Disney Toys"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -269,7 +269,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-09.jpg" alt="Screen Axe">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-09.jpg" alt="Screen Axe">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Screen Axe"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -299,7 +299,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-10.jpg" alt="Airpods Pro">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-10.jpg" alt="Airpods Pro">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Airpods Pro"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -329,7 +329,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-11.jpg" alt="USB Cable">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-11.jpg" alt="USB Cable">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="USB Cable"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -352,7 +352,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-12.jpg" alt="Stylish Decoration">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-12.jpg" alt="Stylish Decoration">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Stylish Decoration"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -381,7 +381,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-13.jpg" alt="Elegant Tree">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-13.jpg" alt="Elegant Tree">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Elegant Tree"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -404,7 +404,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-14.jpg" alt="Classic Printer">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-14.jpg" alt="Classic Printer">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Classic Printer"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -433,7 +433,7 @@
                                         <div class="vstack gap-2">
                                             <div class="panel">
                                                 <figure class="featured-image m-0 rounded ratio ratio-3x4 overflow-hidden uc-transition-toggle overflow-hidden">
-                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-15.jpg" alt="Sportive Shoes">
+                                                    <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-15.jpg" alt="Sportive Shoes">
                                                     <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Sportive Shoes"></NuxtLink>
                                                 </figure>
                                                 <a href="#add_to_favorite" class="btn btn-md btn-alt-gray-200 hover:bg-primary w-32px h-32px p-0 rounded-circle shadow-xs position-absolute top-0 end-0 m-1 md:m-2">
@@ -509,7 +509,7 @@
                                                     <div class="vstack gap-2">
                                                         <div class="panel">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-05.jpg" alt="Black AirTag">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-05.jpg" alt="Black AirTag">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Black AirTag"></NuxtLink>
                                                             </figure>
                                                         </div>
@@ -534,7 +534,7 @@
                                                     <div class="vstack gap-2">
                                                         <div class="panel">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-06.jpg" alt="Modern Headsets">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-06.jpg" alt="Modern Headsets">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Modern Headsets"></NuxtLink>
                                                             </figure>
                                                         </div>
@@ -559,7 +559,7 @@
                                                     <div class="vstack gap-2">
                                                         <div class="panel">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Laptop Cover"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-1 fs-7 ft-tertiary lh-sm h-16px px-narrow rounded bg-yellow-400 text-dark">70%</span>
@@ -585,7 +585,7 @@
                                                     <div class="vstack gap-2">
                                                         <div class="panel">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-08.jpg" alt="Disney Toys">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-08.jpg" alt="Disney Toys">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Disney Toys"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-1 fs-7 ft-tertiary lh-sm h-16px px-narrow rounded bg-yellow-400 text-dark">75%</span>
@@ -620,7 +620,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-07.jpg" alt="Laptop Cover">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Laptop Cover"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-narrow fs-7 ft-tertiary lh-sm h-16px px-narrow bg-yellow-400 text-dark">70%</span>
@@ -648,7 +648,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-08.jpg" alt="Disney Toys">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-08.jpg" alt="Disney Toys">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Disney Toys"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-narrow fs-7 ft-tertiary lh-sm h-16px px-narrow bg-yellow-400 text-dark">75%</span>
@@ -676,7 +676,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-09.jpg" alt="Screen Axe">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-09.jpg" alt="Screen Axe">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Screen Axe"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-narrow fs-7 ft-tertiary lh-sm h-16px px-narrow bg-yellow-400 text-dark">50%</span>
@@ -704,7 +704,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-10.jpg" alt="Airpods Pro">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-10.jpg" alt="Airpods Pro">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Airpods Pro"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-narrow fs-7 ft-tertiary lh-sm h-16px px-narrow bg-yellow-400 text-dark">30%</span>
@@ -741,7 +741,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-01.jpg" alt="Elegant Watch">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-01.jpg" alt="Elegant Watch">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Elegant Watch"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-narrow fs-7 ft-tertiary lh-sm h-16px px-narrow bg-yellow-400 text-dark">51%</span>
@@ -769,7 +769,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-02.jpg" alt="Hemp Seed">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-02.jpg" alt="Hemp Seed">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Hemp Seed"></NuxtLink>
                                                             </figure>
                                                         </div>
@@ -796,7 +796,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-03.jpg" alt="White Classic Watch">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="White Classic Watch"></NuxtLink>
                                                             </figure>
                                                             <span class="position-absolute top-0 start-0 m-narrow fs-7 ft-tertiary lh-sm h-16px px-narrow bg-yellow-400 text-dark">67%</span>
@@ -824,7 +824,7 @@
                                                     <div class="row g-0">
                                                         <div class="panel w-64px xl:w-80px">
                                                             <figure class="featured-image m-0 rounded ratio ratio-1x1  uc-transition-toggle overflow-hidden">
-                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
+                                                                <img class="media-cover image uc-transition-scale-up uc-transition-opaque" src="~/assets/images/common/products/img-04.jpg" alt="Stylish Starbucks">
                                                                 <NuxtLink to="/shop-product-detail" class="position-cover" data-caption="Stylish Starbucks"></NuxtLink>
                                                             </figure>
                                                         </div>

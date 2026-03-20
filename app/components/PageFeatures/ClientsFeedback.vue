@@ -27,21 +27,21 @@ import { Autoplay, Pagination } from "swiper/modules";
                         <figure
                           class="featured-image m-0 rounded ratio ratio-3x4  uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/portrait/01.jpg" alt="Mark Zellers">
+                            src="~/assets/images/portrait/01.jpg" alt="Mark Zellers">
                         </figure>
                       </SwiperSlide>
                       <SwiperSlide class="swiper-slide">
                         <figure
                           class="featured-image m-0 rounded ratio ratio-3x4  uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/portrait/02.jpg" alt="André Garcia">
+                            src="~/assets/images/portrait/02.jpg" alt="André Garcia">
                         </figure>
                       </SwiperSlide>
                       <SwiperSlide class="swiper-slide">
                         <figure
                           class="featured-image m-0 rounded ratio ratio-3x4  uc-transition-toggle overflow-hidden">
                           <img class="media-cover image uc-transition-scale-up uc-transition-opaque"
-                            src="/assets/images/portrait/03.jpg" alt="Matt Henderson">
+                            src="~/assets/images/portrait/03.jpg" alt="Matt Henderson">
                         </figure>
                       </SwiperSlide>
                      

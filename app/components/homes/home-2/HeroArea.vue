@@ -4,50 +4,50 @@
       <div class="position-absolute top-0 start-0 end-0 min-h-screen overflow-hidden d-none lg:d-block"
         data-anime="onview: -100; targets: img; scale: [0.8, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
         <div class="position-absolute top-0 start-0 rotate-45" style="top: 35% !important; left: 47% !important;">
-          <img class="w-32px text-gray-900 dark:text-white" src="/assets/images/template/star-1.svg" alt="star-1"
+          <img class="w-32px text-gray-900 dark:text-white" src="~/assets/images/template/star-1.svg" alt="star-1"
             data-uc-svg>
         </div>
         <div class="position-absolute top-0 end-0 rotate-45" style="top: 12% !important; right: 15% !important;">
-          <img class="w-24px text-gray-900 dark:text-white" src="/assets/images/template/star-2.svg" alt="star-2"
+          <img class="w-24px text-gray-900 dark:text-white" src="~/assets/images/template/star-2.svg" alt="star-2"
             data-uc-svg>
         </div>
         <div class="position-absolute top-0 start-0 translate-middle-y -rotate-12"
           style="top: 15% !important; left: 35% !important;">
-          <img class="w-48px xl:w-56px d-block dark:d-none" src="/assets/images/template/icon-trophy.svg"
+          <img class="w-48px xl:w-56px d-block dark:d-none" src="~/assets/images/template/icon-trophy.svg"
             alt="icon-trophy">
-          <img class="w-48px xl:w-56px d-none dark:d-block" src="/assets/images/template/icon-trophy-dark.svg"
+          <img class="w-48px xl:w-56px d-none dark:d-block" src="~/assets/images/template/icon-trophy-dark.svg"
             alt="icon-trophy-dark">
         </div>
         <div class="position-absolute top-0 start-0 translate-middle-y rotate-45 ms-n3" style="top: 35% !important;">
-          <img class="w-48px xl:w-56px d-block dark:d-none" src="/assets/images/template/icon-location.svg"
+          <img class="w-48px xl:w-56px d-block dark:d-none" src="~/assets/images/template/icon-location.svg"
             alt="icon-location">
-          <img class="w-48px xl:w-56px d-none dark:d-block" src="/assets/images/template/icon-location-dark.svg"
+          <img class="w-48px xl:w-56px d-none dark:d-block" src="~/assets/images/template/icon-location-dark.svg"
             alt="icon-location-dark">
         </div>
         <div class="position-absolute bottom-0 start-0 translate-middle-y"
           style="bottom: 15% !important; left: 30% !important;">
-          <img class="w-40px xl:w-48px d-block dark:d-none" src="/assets/images/template/icon-globe.svg"
+          <img class="w-40px xl:w-48px d-block dark:d-none" src="~/assets/images/template/icon-globe.svg"
             alt="icon-globe">
-          <img class="w-40px xl:w-48px d-none dark:d-block" src="/assets/images/template/icon-globe-dark.svg"
+          <img class="w-40px xl:w-48px d-none dark:d-block" src="~/assets/images/template/icon-globe-dark.svg"
             alt="icon-globe-dark">
         </div>
         <div class="position-absolute bottom-0 ltr:end-0 rtl:start-0 translate-middle-y rotate-45"
           style="bottom: 20% !important; right: 8% !important;">
-          <img class="w-48px xl:w-56px d-block dark:d-none" src="/assets/images/template/icon-crown.svg"
+          <img class="w-48px xl:w-56px d-block dark:d-none" src="~/assets/images/template/icon-crown.svg"
             alt="icon-crown">
-          <img class="w-48px xl:w-56px d-none dark:d-block" src="/assets/images/template/icon-crown-dark.svg"
+          <img class="w-48px xl:w-56px d-none dark:d-block" src="~/assets/images/template/icon-crown-dark.svg"
             alt="icon-crown-dark">
         </div>
         <div class="position-absolute top-0 end-0 translate-middle-y -rotate-12"
           style="top: 60% !important; right: 48% !important;">
-          <img class="w-48px xl:w-56px d-block dark:d-none" src="/assets/images/template/icon-diamond.svg"
+          <img class="w-48px xl:w-56px d-block dark:d-none" src="~/assets/images/template/icon-diamond.svg"
             alt="icon-diamond">
-          <img class="w-48px xl:w-56px d-none dark:d-block" src="/assets/images/template/icon-diamond-dark.svg"
+          <img class="w-48px xl:w-56px d-none dark:d-block" src="~/assets/images/template/icon-diamond-dark.svg"
             alt="icon-diamond-dark">
         </div>
         <div class="position-absolute top-0 end-0 translate-middle-y -rotate-12 me-n3" style="top: 35% !important;">
-          <img class="w-48px xl:w-56px d-block dark:d-none" src="/assets/images/template/icon-chat.svg" alt="icon-chat">
-          <img class="w-48px xl:w-56px d-none dark:d-block" src="/assets/images/template/icon-chat-dark.svg"
+          <img class="w-48px xl:w-56px d-block dark:d-none" src="~/assets/images/template/icon-chat.svg" alt="icon-chat">
+          <img class="w-48px xl:w-56px d-none dark:d-block" src="~/assets/images/template/icon-chat-dark.svg"
             alt="icon-chat-dark">
         </div>
       </div>
@@ -80,8 +80,8 @@
               <div class="hero-scene panel rtl:me-6 rtl:ms-n6"
                 data-anime="targets: > *; scale: [0.9, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 750});">
                 <div class="panel overflow-hidden">
-                  <img class="d-block dark:d-none" src="/assets/images/template/hero-two.png" alt="Main hero image">
-                  <img class="d-none dark:d-block" src="/assets/images/template/hero-two-dark.png"
+                  <img class="d-block dark:d-none" src="~/assets/images/template/hero-two.png" alt="Main hero image">
+                  <img class="d-none dark:d-block" src="~/assets/images/template/hero-two-dark.png"
                     alt="Main hero image">
                 </div>
               </div>
@@ -95,27 +95,27 @@
                   data-uc-swiper-m="items: 6; gap: 80;">
                   <div class="swiper-wrapper items-center ease-linear">
                     <div class="brand-item swiper-slide text-center">
-                      <img class="brand-item-image h-40px" src="/assets/images/brands/brand-01.svg" alt="Proline"
+                      <img class="brand-item-image h-40px" src="~/assets/images/brands/brand-01.svg" alt="Proline"
                         data-uc-svg>
                     </div>
                     <div class="brand-item swiper-slide text-center">
-                      <img class="brand-item-image h-40px" src="/assets/images/brands/brand-02.svg" alt="Iceberg"
+                      <img class="brand-item-image h-40px" src="~/assets/images/brands/brand-02.svg" alt="Iceberg"
                         data-uc-svg>
                     </div>
                     <div class="brand-item swiper-slide text-center">
-                      <img class="brand-item-image h-40px" src="/assets/images/brands/brand-03.svg" alt="PinPoint"
+                      <img class="brand-item-image h-40px" src="~/assets/images/brands/brand-03.svg" alt="PinPoint"
                         data-uc-svg>
                     </div>
                     <div class="brand-item swiper-slide text-center">
-                      <img class="brand-item-image h-40px" src="/assets/images/brands/brand-04.svg" alt="Clues"
+                      <img class="brand-item-image h-40px" src="~/assets/images/brands/brand-04.svg" alt="Clues"
                         data-uc-svg>
                     </div>
                     <div class="brand-item swiper-slide text-center">
-                      <img class="brand-item-image h-40px" src="/assets/images/brands/brand-05.svg" alt="Snowflake"
+                      <img class="brand-item-image h-40px" src="~/assets/images/brands/brand-05.svg" alt="Snowflake"
                         data-uc-svg>
                     </div>
                     <div class="brand-item swiper-slide text-center">
-                      <img class="brand-item-image h-40px" src="/assets/images/brands/brand-06.svg" alt="Proline"
+                      <img class="brand-item-image h-40px" src="~/assets/images/brands/brand-06.svg" alt="Proline"
                         data-uc-svg>
                     </div>
                   </div>

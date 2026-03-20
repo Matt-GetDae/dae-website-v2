@@ -13,10 +13,10 @@
                 <div
                   class="panel vstack gap-2 items-center text-center px-3 py-4 lg:py-6 xl:py-8 rounded-2 bg-secondary dark:bg-gray-800 lg:hover:-translate-y-2 duration-150 transition-all">
                   <div class="cstack mb-2">
-                    <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-location.svg"
+                    <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-location.svg"
                       alt="location-icon">
                     <img class="w-64px lg:w-80px d-none dark:d-block"
-                      src="/assets/images/template/icon-location-dark.svg" alt="location-icon-dark">
+                      src="~/assets/images/template/icon-location-dark.svg" alt="location-icon-dark">
                   </div>
                   <h5 class="h5 m-0">Visit us</h5>
                   <p class="fs-6 opacity-70 dark:opacity-80">Don Valley, Toronto, CA</p>
@@ -30,9 +30,9 @@
                 <div
                   class="panel vstack gap-2 items-center text-center px-3 py-4 lg:py-6 xl:py-8 rounded-2 bg-secondary dark:bg-gray-800 lg:hover:-translate-y-2 duration-150 transition-all">
                   <div class="cstack mb-2">
-                    <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-chat.svg"
+                    <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-chat.svg"
                       alt="chat-icon">
-                    <img class="w-64px lg:w-80px d-none dark:d-block" src="/assets/images/template/icon-chat-dark.svg"
+                    <img class="w-64px lg:w-80px d-none dark:d-block" src="~/assets/images/template/icon-chat-dark.svg"
                       alt="chat-icon-dark">
                   </div>
                   <h5 class="h5 m-0">Via chat</h5>
@@ -47,10 +47,10 @@
                 <div
                   class="panel vstack gap-2 items-center text-center px-3 py-4 lg:py-6 xl:py-8 rounded-2 bg-secondary dark:bg-gray-800 lg:hover:-translate-y-2 duration-150 transition-all">
                   <div class="cstack mb-2">
-                    <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-internet.svg"
+                    <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-internet.svg"
                       alt="internet-icon">
                     <img class="w-64px lg:w-80px d-none dark:d-block"
-                      src="/assets/images/template/icon-internet-dark.svg" alt="internet-icon-dark">
+                      src="~/assets/images/template/icon-internet-dark.svg" alt="internet-icon-dark">
                   </div>
                   <h5 class="h5 m-0">Report Issue</h5>
                   <p class="fs-6 opacity-70 dark:opacity-80">Get priority support.</p>
@@ -64,10 +64,10 @@
                 <div
                   class="panel vstack gap-2 items-center text-center px-3 py-4 lg:py-6 xl:py-8 rounded-2 bg-secondary dark:bg-gray-800 lg:hover:-translate-y-2 duration-150 transition-all">
                   <div class="cstack mb-2">
-                    <img class="w-64px lg:w-80px d-block dark:d-none" src="/assets/images/template/icon-community.svg"
+                    <img class="w-64px lg:w-80px d-block dark:d-none" src="~/assets/images/template/icon-community.svg"
                       alt="community-icon">
                     <img class="w-64px lg:w-80px d-none dark:d-block"
-                      src="/assets/images/template/icon-community-dark.svg" alt="community-icon-dark">
+                      src="~/assets/images/template/icon-community-dark.svg" alt="community-icon-dark">
                   </div>
                   <h5 class="h5 m-0">Our community</h5>
                   <p class="fs-6 opacity-70 dark:opacity-80">Connect with users.</p>

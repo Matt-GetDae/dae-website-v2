@@ -90,22 +90,22 @@ const loadMore = () => {
                     <div>
                       <div class="panel"><img alt="brand" decoding="async" data-nimg="1"
                           class="max-w-80px lg:max-w-128px image-filter" style="color:transparent"
-                          src="/assets/images/brands/brand-01.svg"></div>
+                          src="~/assets/images/brands/brand-01.svg"></div>
                     </div>
                     <div>
                       <div class="panel"><img alt="brand" decoding="async" data-nimg="1"
                           class="max-w-80px lg:max-w-128px image-filter" style="color:transparent"
-                          src="/assets/images/brands/brand-05.svg"></div>
+                          src="~/assets/images/brands/brand-05.svg"></div>
                     </div>
                     <div>
                       <div class="panel"><img alt="brand" decoding="async" data-nimg="1"
                           class="max-w-80px lg:max-w-128px image-filter" style="color:transparent"
-                          src="/assets/images/brands/brand-03.svg"></div>
+                          src="~/assets/images/brands/brand-03.svg"></div>
                     </div>
                     <div>
                       <div class="panel"><img alt="brand" decoding="async" data-nimg="1"
                           class="max-w-80px lg:max-w-128px image-filter" style="color:transparent"
-                          src="/assets/images/brands/brand-07.svg"></div>
+                          src="~/assets/images/brands/brand-07.svg"></div>
                     </div>
                   </div>
                 </div>

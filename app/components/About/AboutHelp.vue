@@ -51,8 +51,8 @@ const counter_data = [
       <div class="d-none lg:d-block"
         data-anime="onview: -100; targets: img; scale: [0.8, 1]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: 350;">
         <div class="position-absolute bottom-0 start-0 ms-n8 mb-6">
-          <img class="w-150px xl:w-250px d-block dark:d-none" src="/assets/images/template/walking.svg" alt="walking">
-          <img class="w-150px xl:w-250px d-none dark:d-block" src="/assets/images/template/walking-dark.svg"
+          <img class="w-150px xl:w-250px d-block dark:d-none" src="~/assets/images/template/walking.svg" alt="walking">
+          <img class="w-150px xl:w-250px d-none dark:d-block" src="~/assets/images/template/walking-dark.svg"
             alt="walking-dark">
         </div>
       </div>

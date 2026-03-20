@@ -57,7 +57,7 @@ onBeforeUnmount(() => {
           <div class="position-relative w-100 ratio-1x1 rounded-2 overflow-hidden">
             <img
               class="media-cover"
-              src="/assets/images/common/newsletter.jpg"
+              src="~/assets/images/common/newsletter.jpg"
               alt="Newsletter image"
             />
           </div>

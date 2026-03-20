@@ -14,7 +14,7 @@
                                 <div class="row child-cols-6 sm:child-cols-4 lg:child-cols-3 col-match gx-2 gy-6" data-anime="onview: -100; targets: > *; translateY: [48, 0]; opacity: [0, 1]; easing: spring(1, 80, 10, 0); duration: 450; delay: anime.stagger(100, {start: 200});">
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-01.jpg" alt="Mark Zellers">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-01.jpg" alt="Mark Zellers">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">Mark Zellers</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Founder & CEO</span>
@@ -23,7 +23,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-02.jpg" alt="John Zellers">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-02.jpg" alt="John Zellers">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">John Zellers</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Co-Founder</span>
@@ -32,7 +32,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-03.jpg" alt="Kim Yun Son">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-03.jpg" alt="Kim Yun Son">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">Kim Yun Son</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Engineering Manager</span>
@@ -41,7 +41,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-04.jpg" alt="André Garcia">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-04.jpg" alt="André Garcia">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">André Garcia</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Product Manager</span>
@@ -50,7 +50,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-05.jpg" alt="Peter Lary">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-05.jpg" alt="Peter Lary">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">Peter Lary</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">UX Researcher</span>
@@ -59,7 +59,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-06.jpg" alt="Henry Matt">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-06.jpg" alt="Henry Matt">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">Henry Matt</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Customer Success</span>
@@ -68,7 +68,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-07.jpg" alt="Natalia">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-07.jpg" alt="Natalia">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">Natalia</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Lead of fun</span>
@@ -77,7 +77,7 @@
                                     </div>
                                     <div>
                                         <div class="panel vstack items-center gap-2 text-center">
-                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="/assets/images/template/team-08.jpg" alt="Larry">
+                                            <img class="w-100px lg:w-150px xl:w-250px rounded-1-5" src="~/assets/images/template/team-08.jpg" alt="Larry">
                                             <div class="panel vstack items-center gap-0">
                                                 <h6 class="h6 lg:h5 m-0">Larry</h6>
                                                 <span class="fs-7 lg:fs-6 opacity-70">Director of Joy</span>
