@@ -55,9 +55,8 @@ const toggleMenu = () => {
             data-uc-navbar=" animation: uc-animation-slide-top-small; duration: 150;">
             <div class="uc-navbar-left">
               <div class="uc-logo ltr:ms-1 rtl:me-1">
-                <NuxtLink class="panel text-none" to="/" style="width: 200px;">
-                  <span style="font-size: 1.25rem; font-weight: 700; letter-spacing: 0.12em; color: inherit;">DAE</span>
-                  <span style="font-size: 0.65rem; font-weight: 400; letter-spacing: 0.04em; opacity: 0.7; display: block; margin-top: -2px;">Dental Appointment Engine</span>
+                <NuxtLink class="panel text-none" to="/" style="width: 180px;">
+                  <img src="~/assets/images/common/dae-logo-white.png" alt="DAE - Dental Appointment Engine" style="height: 36px; width: auto;">
                 </NuxtLink>
               </div>
             </div>
