@@ -1,12 +1,13 @@
 <script setup>
- 
-import HeaderOne from '~/layouts/headers/HeaderOne.vue'
-import FooterOne from '~/layouts/footers/FooterOne.vue'
+import { onMounted, onUnmounted } from 'vue' 
+
+import HeaderEight from '~/layouts/headers/HeaderEight.vue'
+import FooterEight from '~/layouts/footers/FooterEight.vue'
 
 
 useHead({
-  title: "Lexend - Software, SaaS & Startup Nuxt js Template",
-  meta: [
+  title: "Home 9 - Lexend - Software, SaaS & Startup Nuxt js Template",
+    meta: [
     { name: "description", content: "Lexend is a modern Nuxt.js template for SaaS, Software, and Startup websites. Build fast and SEO-friendly pages." },
     { name: "keywords", content: "SaaS, Startup, Software, Nuxt.js Template, SaaS Template, Startup Template" },
     { name: "robots", content: "index, follow" },
@@ -30,27 +31,47 @@ useHead({
   ],
 })
 
+let styleEl
+
+onMounted(async () => {
+  const css = await import('~/assets/css/theme/theme-five.purge.css?inline')
+  styleEl = document.createElement('style')
+  styleEl.textContent = css.default
+  document.head.appendChild(styleEl)
+})
+
+onUnmounted(() => {
+  if (styleEl && styleEl.parentNode) {
+    styleEl.parentNode.removeChild(styleEl)
+  }
+})
 
 
 </script>
 
 
-
 <template>
-  <div class="uni-body panel bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-200 overflow-x-hidden disable-cursor">
-
-    <HeaderOne /> 
-    <div id="wrapper" class="wrap">  
-      <HomesHome1HeroHomeOne />
-      <HomesHome1FeaturesHomeOne />
-      <HomesHome1IntegrationsHomeOne />
-      <HomesHome1AboutHomeOne />
-      <HomesHome1PricingHomeOne />
-      <HomesHome1ClientsFeedbackHomeOne />
-      <HomesHome1TestimonialHomeOne />
-      <HomesHome1TeamHomeOne />
-      <HomesHome1CtaHomeOne />
-    </div> 
-    <FooterOne />
+  <div class="theme-5">
+    <div class="bp-xs bp-sm bp-md bp-lg bp-xl dom-ready bp-xxl-max uni-body panel uni-body panel bg-tertiary-800 text-tertiary-200 overflow-x-hidden disable-cursor uc-dark">
+      <HeaderEight />
+      <div id="wrapper" class="wrap">
+        <HomesHome9HeroArea />
+        <HomesHome9HwoItWork />
+        <HomesHome9PartnerArea />
+        <HomesHome9FeaturesArea />
+        <HomesHome9KeyFeatures />
+        <HomesHome9PricingArea />
+        <HomesHome9TestimonialArea />
+        <HomesHome9FaqArea />  
+      </div>
+      <FooterEight />
+    </div>
   </div>
 </template>
+
+
+<style scoped>
+  @import '~/assets/css/theme/theme-five.purge.css';  
+ 
+
+</style>

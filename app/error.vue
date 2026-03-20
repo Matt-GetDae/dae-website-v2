@@ -1,24 +1,32 @@
-<script setup> 
-import HeaderTwo from "~/layouts/headers/HeaderTwo.vue";
-import FooterTwo from "~/layouts/footers/FooterTwo.vue";
+<script setup>
+import HeaderEight from '~/layouts/headers/HeaderEight.vue'
+import FooterEight from '~/layouts/footers/FooterEight.vue'
 
 useHead({
-  title: "404 - Lexend - Software, SaaS & Startup Nuxt js Template",
-});
+  title: '404 - Page Not Found',
+})
 
-
+const handleError = () => clearError({ redirect: '/' })
 </script>
 
-
 <template>
-  <div
-    class="uni-body panel bg-white text-gray-900 dark:bg-gray-900 dark:text-gray-200 overflow-x-hidden disable-cursor">
-    <HeaderTwo />
-    <div id="wrapper" class="wrap">
-      <CommonBreadcrumb subtitle="404 page" :style_2="true" />
-      <Error />
+  <div class="theme-5">
+    <div class="bp-xs bp-sm bp-md bp-lg bp-xl dom-ready bp-xxl-max uni-body panel uni-body panel bg-tertiary-800 text-tertiary-200 overflow-x-hidden disable-cursor uc-dark">
+      <HeaderEight />
+      <div id="wrapper" class="wrap">
+        <section class="py-20 text-center" style="min-height: 60vh; display: flex; align-items: center; justify-content: center;">
+          <div>
+            <h1 class="h2 mb-4">Page Not Found</h1>
+            <p class="mb-6">The page you're looking for doesn't exist.</p>
+            <button @click="handleError" class="btn btn-primary">Go Home</button>
+          </div>
+        </section>
+      </div>
+      <FooterEight />
     </div>
-    <FooterTwo />
-
   </div>
 </template>
+
+<style scoped>
+@import '~/assets/css/theme/theme-five.purge.css';
+</style>
