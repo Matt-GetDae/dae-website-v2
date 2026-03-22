@@ -1,0 +1,15 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" rx="12" fill="#0a1628"/>
+<rect x="155" y="75" width="65" height="35" rx="6" fill="#025864" stroke="#93E85F" stroke-width="1.5"/>
+<rect x="163" y="85" width="30" height="3" rx="1.5" fill="white" opacity="0.5"/>
+<rect x="163" y="93" width="42" height="3" rx="1.5" fill="white" opacity="0.3"/>
+<path d="M170 110L175 118L180 110" fill="#025864" stroke="#93E85F" stroke-width="1.5"/>
+<rect x="180" y="120" width="65" height="35" rx="6" fill="#93E85F" opacity="0.2" stroke="#93E85F" stroke-width="1.5"/>
+<rect x="188" y="130" width="30" height="3" rx="1.5" fill="#93E85F" opacity="0.5"/>
+<rect x="188" y="138" width="42" height="3" rx="1.5" fill="#93E85F" opacity="0.3"/>
+<path d="M225 155L220 163L215 155" fill="none" stroke="#93E85F" stroke-width="1.5"/>
+<circle cx="200" cy="173" r="3" fill="#93E85F" opacity="0.4"/>
+<circle cx="200" cy="181" r="2" fill="#93E85F" opacity="0.25"/>
+<text x="200" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#93E85F" opacity="0.6">STEP 4</text>
+<text x="200" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="white">Automated Follow-Up</text>
+</svg>

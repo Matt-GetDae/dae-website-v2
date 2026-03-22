@@ -1,0 +1,12 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" rx="12" fill="#0a1628"/>
+<path d="M160 75H240L210 120V155L190 165V120L160 75Z" fill="#025864" stroke="#93E85F" stroke-width="1.5"/>
+<circle cx="175" cy="68" r="4" fill="white" opacity="0.4"/>
+<circle cx="190" cy="62" r="4" fill="white" opacity="0.4"/>
+<circle cx="205" cy="66" r="4" fill="#93E85F" opacity="0.6"/>
+<circle cx="220" cy="60" r="4" fill="white" opacity="0.4"/>
+<circle cx="230" cy="68" r="4" fill="#93E85F" opacity="0.6"/>
+<circle cx="200" cy="172" r="5" fill="#93E85F"/>
+<text x="200" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#93E85F" opacity="0.6">STEP 3</text>
+<text x="200" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="white">Pre-Qualified Only</text>
+</svg>

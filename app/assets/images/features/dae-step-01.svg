@@ -1,0 +1,11 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" rx="12" fill="#0a1628"/>
+<circle cx="200" cy="130" r="50" stroke="#93E85F" stroke-width="2" fill="none" opacity="0.2"/>
+<circle cx="200" cy="130" r="35" stroke="#93E85F" stroke-width="2" fill="none" opacity="0.4"/>
+<circle cx="200" cy="130" r="20" fill="#93E85F" opacity="0.15"/>
+<circle cx="200" cy="130" r="8" fill="#93E85F"/>
+<path d="M172 130L152 115V145L172 130Z" fill="#025864" stroke="#93E85F" stroke-width="1.5"/>
+<path d="M228 130L248 115V145L228 130Z" fill="#025864" stroke="#93E85F" stroke-width="1.5"/>
+<text x="200" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#93E85F" opacity="0.6">STEP 1</text>
+<text x="200" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="white">Targeted Implant Ads</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" rx="12" fill="#0a1628"/>
+<path d="M160 165V75" stroke="white" stroke-width="1.5" opacity="0.2"/>
+<path d="M160 165H245" stroke="white" stroke-width="1.5" opacity="0.2"/>
+<rect x="168" y="135" width="12" height="30" rx="2" fill="#025864"/>
+<rect x="186" y="120" width="12" height="45" rx="2" fill="#025864"/>
+<rect x="204" y="105" width="12" height="60" rx="2" fill="#93E85F" opacity="0.5"/>
+<rect x="222" y="85" width="12" height="80" rx="2" fill="#93E85F"/>
+<path d="M174 130L192 115L210 100L228 80" stroke="#93E85F" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="228" cy="80" r="4" fill="#93E85F"/>
+<text x="200" y="220" text-anchor="middle" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#93E85F" opacity="0.6">STEP 6</text>
+<text x="200" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" font-weight="700" fill="white">Revenue Visibility</text>
+</svg>
