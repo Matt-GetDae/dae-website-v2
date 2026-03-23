@@ -65,8 +65,8 @@ onMounted(() => {
       const vh = window.innerHeight
       // progress 0→1 as banner scrolls through viewport
       const progress = 1 - (rect.top + rect.height) / (vh + rect.height)
-      // shift dots upward by up to 40px as user scrolls down
-      const offset = Math.max(-40, Math.min(0, (progress - 0.5) * -80))
+      // start 30px lower, travel up by 100px total as user scrolls
+      const offset = 30 - (progress * 100)
       dots.style.transform = `translateY(calc(-50% + ${offset}px))`
     }
     window.addEventListener('scroll', onScroll, { passive: true })
