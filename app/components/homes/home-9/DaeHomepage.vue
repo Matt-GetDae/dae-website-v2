@@ -996,15 +996,17 @@ onUnmounted(() => {
   font-weight: 700;
   line-height: 1.1;
   letter-spacing: -0.025em;
-  color: #0f172a;
   max-width: 900px;
   margin: 0 auto;
-}
-.dae-hero__accent {
-  color: #131338;
-  background: linear-gradient(135deg, #131338, #5CF7BB);
+  background-image: linear-gradient(90deg, #131338, #3a2c6f);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.dae-hero__accent {
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(90deg, #3a2c6f, #5CF7BB);
+  -webkit-background-clip: text;
   background-clip: text;
 }
 .dae-hero__sub {
