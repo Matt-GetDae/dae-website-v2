@@ -992,13 +992,14 @@ onUnmounted(() => {
   50% { opacity: 0.4; }
 }
 .dae-hero__h1 {
-  font-size: clamp(2.5rem, 5vw, 4.5rem);
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: clamp(2.75rem, 5.5vw, 4.5rem);
   font-weight: 700;
-  line-height: 1.1;
-  letter-spacing: -0.025em;
+  line-height: 1;
+  letter-spacing: -0.01em;
   max-width: 900px;
   margin: 0 auto;
-  background-image: linear-gradient(90deg, #131338, #3a2c6f);
+  background-image: linear-gradient(90deg, #1d2735, #3a2c6f);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
