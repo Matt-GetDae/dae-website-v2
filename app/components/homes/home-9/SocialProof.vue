@@ -1,5 +1,5 @@
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, onUnmounted } from 'vue'
 
 // Counter animation
 const counters = ref([
@@ -11,6 +11,7 @@ const counters = ref([
 ])
 
 const hasAnimated = ref(false)
+let scrollCleanup = null
 
 function animateCounters() {
   if (hasAnimated.value) return
@@ -53,6 +54,27 @@ onMounted(() => {
 
   const section = document.getElementById('social-proof')
   if (section) observer.observe(section)
+
+  // Parallax on arrow-dots
+  const dots = document.querySelector('.sp-banner-dots')
+  if (dots) {
+    const onScroll = () => {
+      const banner = dots.closest('.sp-banner-inner')
+      if (!banner) return
+      const rect = banner.getBoundingClientRect()
+      const vh = window.innerHeight
+      // progress 0→1 as banner scrolls through viewport
+      const progress = 1 - (rect.top + rect.height) / (vh + rect.height)
+      // shift dots upward by up to 40px as user scrolls down
+      const offset = Math.max(-40, Math.min(0, (progress - 0.5) * -80))
+      dots.style.transform = `translateY(calc(-50% + ${offset}px))`
+    }
+    window.addEventListener('scroll', onScroll, { passive: true })
+    scrollCleanup = () => window.removeEventListener('scroll', onScroll)
+  }
+})
+onUnmounted(() => {
+  if (scrollCleanup) scrollCleanup()
 })
 </script>
 
@@ -313,6 +335,8 @@ onMounted(() => {
   width: 260px;
   height: auto;
   opacity: 0.25;
+  will-change: transform;
+  transition: transform 0.1s linear;
 }
 
 /* ============================
