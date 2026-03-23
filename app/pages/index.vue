@@ -1,8 +1,4 @@
 <script setup>
-import { onMounted, onUnmounted } from 'vue'
-import HeaderEight from '~/layouts/headers/HeaderEight.vue'
-import FooterEight from '~/layouts/footers/FooterEight.vue'
-
 useHead({
   title: "DAE - Dental Appointment Engine | Implant Consultations on Autopilot",
   meta: [
@@ -13,50 +9,37 @@ useHead({
   ],
   link: [
     { rel: "canonical", href: "https://dentalappointmentengine.com/" },
+    { rel: "preconnect", href: "https://fonts.googleapis.com" },
+    { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
+    { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" },
   ],
-  metaOG: [
-    { property: "og:title", content: "DAE - Dental Appointment Engine | Implant Consultations on Autopilot" },
-    { property: "og:description", content: "The patient acquisition system that generates, qualifies, and books high-value implant consultations for dental clinics automatically." },
-    { property: "og:type", content: "website" },
-    { property: "og:url", content: "https://dentalappointmentengine.com/" },
-    { property: "og:image", content: "https://dentalappointmentengine.com/og-image.jpg" }
-  ],
-  metaTwitter: [
-    { name: "twitter:card", content: "summary_large_image" },
-    { name: "twitter:title", content: "DAE - Dental Appointment Engine | Implant Consultations on Autopilot" },
-    { name: "twitter:description", content: "The patient acquisition system that generates, qualifies, and books high-value implant consultations for dental clinics automatically." },
-    { name: "twitter:image", content: "https://dentalappointmentengine.com/og-image.jpg" }
-  ],
-})
-
-let styleEl
-
-onMounted(async () => {
-  const css = await import('~/assets/css/theme/theme-five.purge.css?inline')
-  styleEl = document.createElement('style')
-  styleEl.textContent = css.default
-  document.head.appendChild(styleEl)
-})
-
-onUnmounted(() => {
-  if (styleEl && styleEl.parentNode) {
-    styleEl.parentNode.removeChild(styleEl)
-  }
+  htmlAttrs: { lang: "en" },
 })
 </script>
 
 <template>
-  <div class="theme-5">
-    <div class="bp-xs bp-sm bp-md bp-lg bp-xl dom-ready bp-xxl-max uni-body panel overflow-x-hidden">
-      <HeaderEight />
-      <div id="wrapper" class="wrap">
-        <HomesHome9DaeHomepage />
-      </div>
-      <FooterEight />
-    </div>
-  </div>
+  <HomesHome9DaeHomepage />
 </template>
 
-<style scoped>
-  @import '~/assets/css/theme/theme-five.purge.css';
+<style>
+/* Global reset — no template styles interfere */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background: #ffffff;
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+a { color: inherit; }
+img { max-width: 100%; height: auto; display: block; }
+button { font-family: inherit; }
 </style>
