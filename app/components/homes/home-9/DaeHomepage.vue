@@ -467,19 +467,11 @@ onUnmounted(() => {
               <a href="#how-it-works" class="dae-feature__link">See revenue tracking →</a>
             </div>
             <div class="dae-feature__visual dae-reveal">
-              <div class="dae-mockup-card">
-                <div class="dae-mockup-card__header">
-                  <span class="dae-mockup-card__dot" style="background:#ff5f56"></span>
-                  <span class="dae-mockup-card__dot" style="background:#ffbd2e"></span>
-                  <span class="dae-mockup-card__dot" style="background:#27c93f"></span>
-                  <span class="dae-mockup-card__title">Revenue Tracker</span>
-                </div>
-                <div class="dae-mockup-card__body">
-                  <div class="dae-mockup-stat"><span class="dae-mockup-stat__val">$142K</span><span class="dae-mockup-stat__label">Revenue This Month</span></div>
-                  <div class="dae-mockup-stat"><span class="dae-mockup-stat__val">38</span><span class="dae-mockup-stat__label">Consultations Booked</span></div>
-                  <div class="dae-mockup-stat"><span class="dae-mockup-stat__val">72%</span><span class="dae-mockup-stat__label">Acceptance Rate</span></div>
-                </div>
-              </div>
+              <img
+                src="~/assets/images/custom-icons/ghl-revenue-dashboard.jpg"
+                alt="DAE revenue dashboard showing monthly revenue trends, consultations booked, treatment breakdown, and recent conversions"
+                class="dae-feature__img"
+              />
             </div>
           </div>
         </div>
