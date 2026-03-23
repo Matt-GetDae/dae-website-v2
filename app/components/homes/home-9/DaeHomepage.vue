@@ -399,32 +399,11 @@ onUnmounted(() => {
         <div class="dae-container">
           <div class="dae-feature__grid dae-feature__grid--reverse">
             <div class="dae-feature__visual dae-reveal">
-              <div class="dae-mockup-card">
-                <div class="dae-mockup-card__header">
-                  <span class="dae-mockup-card__dot" style="background:#ff5f56"></span>
-                  <span class="dae-mockup-card__dot" style="background:#ffbd2e"></span>
-                  <span class="dae-mockup-card__dot" style="background:#27c93f"></span>
-                  <span class="dae-mockup-card__title">Lead Screening</span>
-                </div>
-                <div class="dae-mockup-card__body">
-                  <div class="dae-screen-row">
-                    <span class="dae-screen-row__name">Sarah M.</span>
-                    <span class="dae-screen-row__tag dae-screen-row__tag--pass">Qualified</span>
-                  </div>
-                  <div class="dae-screen-row">
-                    <span class="dae-screen-row__name">Mike T.</span>
-                    <span class="dae-screen-row__tag dae-screen-row__tag--review">Under Review</span>
-                  </div>
-                  <div class="dae-screen-row">
-                    <span class="dae-screen-row__name">Linda K.</span>
-                    <span class="dae-screen-row__tag dae-screen-row__tag--pass">Qualified</span>
-                  </div>
-                  <div class="dae-screen-row">
-                    <span class="dae-screen-row__name">John D.</span>
-                    <span class="dae-screen-row__tag dae-screen-row__tag--fail">Unqualified</span>
-                  </div>
-                </div>
-              </div>
+              <img
+                src="~/assets/images/custom-icons/ghl-pipeline-dashboard.jpg"
+                alt="DAE opportunities pipeline showing new leads, qualified patients, booked consultations, and won cases with deal values"
+                class="dae-feature__img"
+              />
             </div>
             <div class="dae-feature__text dae-reveal">
               <h2 class="dae-feature__h2">Every lead screened and nurtured before you see them</h2>
