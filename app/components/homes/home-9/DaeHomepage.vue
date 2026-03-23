@@ -82,10 +82,19 @@ let observer = null
 onMounted(() => {
   window.addEventListener('scroll', handleScroll, { passive: true })
   nextTick(() => {
+    const revealEls = document.querySelectorAll('.dae-reveal')
+    /* First, hide all reveal elements below the fold */
+    revealEls.forEach((el) => {
+      const rect = el.getBoundingClientRect()
+      if (rect.top > window.innerHeight * 0.85) {
+        el.classList.add('dae-hidden')
+      }
+    })
     observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
+            entry.target.classList.remove('dae-hidden')
             entry.target.classList.add('dae-visible')
             observer.unobserve(entry.target)
           }
@@ -93,7 +102,7 @@ onMounted(() => {
       },
       { threshold: 0.08, rootMargin: '0px 0px -40px 0px' }
     )
-    document.querySelectorAll('.dae-reveal').forEach((el) => {
+    revealEls.forEach((el) => {
       observer.observe(el)
     })
   })
@@ -762,9 +771,13 @@ onUnmounted(() => {
 
 /* ─── SCROLL ANIMATION ─── */
 .dae-reveal {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.6s ease, transform 0.6s ease;
+}
+.dae-reveal.dae-hidden {
   opacity: 0;
   transform: translateY(24px);
-  transition: opacity 0.6s ease, transform 0.6s ease;
 }
 .dae-reveal.dae-visible {
   opacity: 1;
