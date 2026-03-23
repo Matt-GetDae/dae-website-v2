@@ -1,8 +1,6 @@
 
 <template>
-  <NuxtLayout> 
+  <NuxtLayout>
     <NuxtPage />
-    <CommonBackToTop />
   </NuxtLayout>
 </template>
- 
