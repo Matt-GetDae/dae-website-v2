@@ -57,8 +57,7 @@ onUnmounted(() => {
       <div id="wrapper" class="wrap">
         <HomesHome9HeroArea />
         <HomesHome9SocialProof />
-        <HomesHome9HwoItWork />
-        <HomesHome9PartnerArea />
+
         <HomesHome9FeaturesArea />
         <HomesHome9KeyFeatures />
         <HomesHome9PricingArea />
