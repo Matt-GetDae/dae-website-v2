@@ -382,17 +382,327 @@ onUnmounted(() => {
               <a href="#how-it-works" class="dae-feature__link">See the full pipeline →</a>
             </div>
             <div class="dae-feature__visual dae-reveal">
-              <div class="dae-mockup-card">
-                <div class="dae-mockup-card__header">
-                  <span class="dae-mockup-card__dot" style="background:#ff5f56"></span>
-                  <span class="dae-mockup-card__dot" style="background:#ffbd2e"></span>
-                  <span class="dae-mockup-card__dot" style="background:#27c93f"></span>
-                  <span class="dae-mockup-card__title">Campaign Dashboard</span>
-                </div>
-                <div class="dae-mockup-card__body">
-                  <div class="dae-mockup-stat"><span class="dae-mockup-stat__val">847</span><span class="dae-mockup-stat__label">Clicks This Week</span></div>
-                  <div class="dae-mockup-stat"><span class="dae-mockup-stat__val">124</span><span class="dae-mockup-stat__label">Leads Generated</span></div>
-                  <div class="dae-mockup-stat"><span class="dae-mockup-stat__val">$18.40</span><span class="dae-mockup-stat__label">Cost Per Lead</span></div>
+              <div class="ghl-dash">
+                <!-- Sidebar -->
+                <aside class="ghl-dash__sidebar">
+                  <div class="ghl-dash__logo">
+                    <img src="~/assets/images/common/dae-logo-white.png" alt="DAE" class="ghl-dash__logo-img" />
+                  </div>
+                  <div class="ghl-dash__search">
+                    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#64748b" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                    <span>Search...</span>
+                  </div>
+                  <div class="ghl-dash__nav-group">
+                    <span class="ghl-dash__nav-label">MAIN</span>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/></svg>
+                      Dashboard
+                    </a>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15a2 2 0 01-2 2H7l-4 4V5a2 2 0 012-2h14a2 2 0 012 2z"/></svg>
+                      Conversations
+                    </a>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                      Calendar
+                    </a>
+                    <a class="ghl-dash__nav-item ghl-dash__nav-item--active">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M17 21v-2a4 4 0 00-4-4H5a4 4 0 00-4-4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 00-3-3.87"/><path d="M16 3.13a4 4 0 010 7.75"/></svg>
+                      Contacts
+                      <span class="ghl-dash__badge">24</span>
+                    </a>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+                      Opportunities
+                    </a>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="1" y="4" width="22" height="16" rx="2"/><line x1="1" y1="10" x2="23" y2="10"/></svg>
+                      Payments
+                    </a>
+                  </div>
+                  <div class="ghl-dash__nav-group">
+                    <span class="ghl-dash__nav-label">MARKETING</span>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>
+                      Campaigns
+                    </a>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 014 10 15.3 15.3 0 01-4 10 15.3 15.3 0 01-4-10 15.3 15.3 0 014-10z"/></svg>
+                      Sites
+                    </a>
+                  </div>
+                  <div class="ghl-dash__nav-group">
+                    <span class="ghl-dash__nav-label">REPORTING</span>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+                      Reports
+                    </a>
+                    <a class="ghl-dash__nav-item">
+                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 00.33 1.82l.06.06a2 2 0 010 2.83 2 2 0 01-2.83 0l-.06-.06a1.65 1.65 0 00-1.82-.33 1.65 1.65 0 00-1 1.51V21a2 2 0 01-4 0v-.09A1.65 1.65 0 009 19.4a1.65 1.65 0 00-1.82.33l-.06.06a2 2 0 01-2.83-2.83l.06-.06A1.65 1.65 0 004.68 15a1.65 1.65 0 00-1.51-1H3a2 2 0 010-4h.09A1.65 1.65 0 004.6 9a1.65 1.65 0 00-.33-1.82l-.06-.06a2 2 0 012.83-2.83l.06.06A1.65 1.65 0 009 4.68a1.65 1.65 0 001-1.51V3a2 2 0 014 0v.09a1.65 1.65 0 001 1.51 1.65 1.65 0 001.82-.33l.06-.06a2 2 0 012.83 2.83l-.06.06A1.65 1.65 0 0019.4 9a1.65 1.65 0 001.51 1H21a2 2 0 010 4h-.09a1.65 1.65 0 00-1.51 1z"/></svg>
+                      Settings
+                    </a>
+                  </div>
+                  <div class="ghl-dash__user">
+                    <span class="ghl-dash__avatar ghl-dash__avatar--sm ghl-dash__avatar--green">SM</span>
+                    <div class="ghl-dash__user-info">
+                      <span class="ghl-dash__user-name">Dr. Sarah Mitchell</span>
+                      <span class="ghl-dash__user-role">Implant Specialist</span>
+                    </div>
+                  </div>
+                </aside>
+                <!-- Main Content -->
+                <div class="ghl-dash__main">
+                  <!-- Header -->
+                  <div class="ghl-dash__header">
+                    <h3 class="ghl-dash__title">Contacts</h3>
+                    <div class="ghl-dash__header-actions">
+                      <div class="ghl-dash__search-bar">
+                        <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#94a3b8" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                        <span>Search patients...</span>
+                      </div>
+                      <button class="ghl-dash__add-btn">+ Add Patient</button>
+                    </div>
+                  </div>
+                  <!-- Filter Tabs -->
+                  <div class="ghl-dash__filters">
+                    <span class="ghl-dash__filter ghl-dash__filter--active">All <b>24</b></span>
+                    <span class="ghl-dash__filter"><i class="ghl-dash__dot ghl-dash__dot--new"></i> New <b>12</b></span>
+                    <span class="ghl-dash__filter"><i class="ghl-dash__dot ghl-dash__dot--qualified"></i> Qualified <b>8</b></span>
+                    <span class="ghl-dash__filter"><i class="ghl-dash__dot ghl-dash__dot--booked"></i> Booked <b>4</b></span>
+                  </div>
+                  <!-- Patient Cards Grid -->
+                  <div class="ghl-dash__cards">
+                    <!-- Card 1 -->
+                    <div class="ghl-dash__card">
+                      <div class="ghl-dash__card-top">
+                        <div class="ghl-dash__card-identity">
+                          <span class="ghl-dash__avatar ghl-dash__avatar--blue">JA</span>
+                          <div>
+                            <span class="ghl-dash__card-name">James Anderson</span>
+                            <span class="ghl-dash__card-loc">📍 Sydney, NSW</span>
+                          </div>
+                        </div>
+                        <span class="ghl-dash__status ghl-dash__status--new">● New</span>
+                      </div>
+                      <div class="ghl-dash__tags">
+                        <span class="ghl-dash__tag ghl-dash__tag--teal">Full Arch Implants</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Google Ads</span>
+                      </div>
+                      <div class="ghl-dash__metrics">
+                        <div><span class="ghl-dash__metric-label">Est. Value</span><span class="ghl-dash__metric-val ghl-dash__metric-val--teal">$28,000</span></div>
+                        <div><span class="ghl-dash__metric-label">Lead Score</span><span class="ghl-dash__metric-val">87/100</span></div>
+                      </div>
+                      <div class="ghl-dash__pipeline">
+                        <div class="ghl-dash__pipe-track">
+                          <div class="ghl-dash__pipe-fill" style="width:40%"></div>
+                          <span class="ghl-dash__pipe-dot" style="left:40%"></span>
+                        </div>
+                        <div class="ghl-dash__pipe-labels">
+                          <span>Lead</span><span class="ghl-dash__pipe-active">Qualify</span><span>Book</span><span>Consult</span>
+                        </div>
+                      </div>
+                      <div class="ghl-dash__card-footer">
+                        <span class="ghl-dash__timestamp">Added 2 hours ago</span>
+                        <div class="ghl-dash__actions">
+                          <span class="ghl-dash__action-icon">📞</span>
+                          <span class="ghl-dash__action-icon">✉️</span>
+                          <span class="ghl-dash__action-icon">⋯</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Card 2 -->
+                    <div class="ghl-dash__card">
+                      <div class="ghl-dash__card-top">
+                        <div class="ghl-dash__card-identity">
+                          <span class="ghl-dash__avatar ghl-dash__avatar--orange">ST</span>
+                          <div>
+                            <span class="ghl-dash__card-name">Sophie Taylor</span>
+                            <span class="ghl-dash__card-loc">📍 Perth, WA</span>
+                          </div>
+                        </div>
+                        <span class="ghl-dash__status ghl-dash__status--qualified">● Qualified</span>
+                      </div>
+                      <div class="ghl-dash__tags">
+                        <span class="ghl-dash__tag ghl-dash__tag--teal">All-on-4 Implants</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Facebook</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Urgent</span>
+                      </div>
+                      <div class="ghl-dash__metrics">
+                        <div><span class="ghl-dash__metric-label">Est. Value</span><span class="ghl-dash__metric-val ghl-dash__metric-val--teal">$24,000</span></div>
+                        <div><span class="ghl-dash__metric-label">Lead Score</span><span class="ghl-dash__metric-val">92/100</span></div>
+                      </div>
+                      <div class="ghl-dash__pipeline">
+                        <div class="ghl-dash__pipe-track">
+                          <div class="ghl-dash__pipe-fill" style="width:65%"></div>
+                          <span class="ghl-dash__pipe-dot" style="left:65%"></span>
+                        </div>
+                        <div class="ghl-dash__pipe-labels">
+                          <span>Lead</span><span>Qualify</span><span class="ghl-dash__pipe-active">Book</span><span>Consult</span>
+                        </div>
+                      </div>
+                      <div class="ghl-dash__card-footer">
+                        <span class="ghl-dash__timestamp">Qualified 3 hours ago</span>
+                        <div class="ghl-dash__actions">
+                          <span class="ghl-dash__action-icon">📞</span>
+                          <span class="ghl-dash__action-icon">✉️</span>
+                          <span class="ghl-dash__action-icon">⋯</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Card 3 -->
+                    <div class="ghl-dash__card">
+                      <div class="ghl-dash__card-top">
+                        <div class="ghl-dash__card-identity">
+                          <span class="ghl-dash__avatar ghl-dash__avatar--red">RN</span>
+                          <div>
+                            <span class="ghl-dash__card-name">Rachel Nguyen</span>
+                            <span class="ghl-dash__card-loc">📍 Sydney, NSW</span>
+                          </div>
+                        </div>
+                        <span class="ghl-dash__status ghl-dash__status--booked">● Booked</span>
+                      </div>
+                      <div class="ghl-dash__tags">
+                        <span class="ghl-dash__tag ghl-dash__tag--teal">Full Arch Implants</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Referral</span>
+                      </div>
+                      <div class="ghl-dash__metrics">
+                        <div><span class="ghl-dash__metric-label">Est. Value</span><span class="ghl-dash__metric-val ghl-dash__metric-val--teal">$32,000</span></div>
+                        <div><span class="ghl-dash__metric-label">Lead Score</span><span class="ghl-dash__metric-val">95/100</span></div>
+                      </div>
+                      <div class="ghl-dash__pipeline">
+                        <div class="ghl-dash__pipe-track">
+                          <div class="ghl-dash__pipe-fill" style="width:100%"></div>
+                          <span class="ghl-dash__pipe-dot" style="left:100%"></span>
+                        </div>
+                        <div class="ghl-dash__pipe-labels">
+                          <span>Lead</span><span>Qualify</span><span>Book</span><span class="ghl-dash__pipe-active">Consult</span>
+                        </div>
+                      </div>
+                      <div class="ghl-dash__card-footer">
+                        <span class="ghl-dash__timestamp">Mar 28, 10:00am</span>
+                        <div class="ghl-dash__actions">
+                          <span class="ghl-dash__action-icon">📞</span>
+                          <span class="ghl-dash__action-icon">✉️</span>
+                          <span class="ghl-dash__action-icon">⋯</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Card 4 -->
+                    <div class="ghl-dash__card">
+                      <div class="ghl-dash__card-top">
+                        <div class="ghl-dash__card-identity">
+                          <span class="ghl-dash__avatar ghl-dash__avatar--purple">MC</span>
+                          <div>
+                            <span class="ghl-dash__card-name">Maria Chen</span>
+                            <span class="ghl-dash__card-loc">📍 Melbourne, VIC</span>
+                          </div>
+                        </div>
+                        <span class="ghl-dash__status ghl-dash__status--new">● New</span>
+                      </div>
+                      <div class="ghl-dash__tags">
+                        <span class="ghl-dash__tag ghl-dash__tag--teal">Single Implant</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Website</span>
+                      </div>
+                      <div class="ghl-dash__metrics">
+                        <div><span class="ghl-dash__metric-label">Est. Value</span><span class="ghl-dash__metric-val ghl-dash__metric-val--teal">$5,500</span></div>
+                        <div><span class="ghl-dash__metric-label">Lead Score</span><span class="ghl-dash__metric-val">64/100</span></div>
+                      </div>
+                      <div class="ghl-dash__pipeline">
+                        <div class="ghl-dash__pipe-track">
+                          <div class="ghl-dash__pipe-fill" style="width:40%"></div>
+                          <span class="ghl-dash__pipe-dot" style="left:40%"></span>
+                        </div>
+                        <div class="ghl-dash__pipe-labels">
+                          <span>Lead</span><span class="ghl-dash__pipe-active">Qualify</span><span>Book</span><span>Consult</span>
+                        </div>
+                      </div>
+                      <div class="ghl-dash__card-footer">
+                        <span class="ghl-dash__timestamp">Added 5 hours ago</span>
+                        <div class="ghl-dash__actions">
+                          <span class="ghl-dash__action-icon">📞</span>
+                          <span class="ghl-dash__action-icon">✉️</span>
+                          <span class="ghl-dash__action-icon">⋯</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Card 5 -->
+                    <div class="ghl-dash__card">
+                      <div class="ghl-dash__card-top">
+                        <div class="ghl-dash__card-identity">
+                          <span class="ghl-dash__avatar ghl-dash__avatar--orange">DK</span>
+                          <div>
+                            <span class="ghl-dash__card-name">David Kim</span>
+                            <span class="ghl-dash__card-loc">📍 Adelaide, SA</span>
+                          </div>
+                        </div>
+                        <span class="ghl-dash__status ghl-dash__status--qualified">● Qualified</span>
+                      </div>
+                      <div class="ghl-dash__tags">
+                        <span class="ghl-dash__tag ghl-dash__tag--teal">Single Implant</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Google Ads</span>
+                      </div>
+                      <div class="ghl-dash__metrics">
+                        <div><span class="ghl-dash__metric-label">Est. Value</span><span class="ghl-dash__metric-val ghl-dash__metric-val--teal">$5,500</span></div>
+                        <div><span class="ghl-dash__metric-label">Lead Score</span><span class="ghl-dash__metric-val">78/100</span></div>
+                      </div>
+                      <div class="ghl-dash__pipeline">
+                        <div class="ghl-dash__pipe-track">
+                          <div class="ghl-dash__pipe-fill" style="width:65%"></div>
+                          <span class="ghl-dash__pipe-dot" style="left:65%"></span>
+                        </div>
+                        <div class="ghl-dash__pipe-labels">
+                          <span>Lead</span><span>Qualify</span><span class="ghl-dash__pipe-active">Book</span><span>Consult</span>
+                        </div>
+                      </div>
+                      <div class="ghl-dash__card-footer">
+                        <span class="ghl-dash__timestamp">Qualified 1 day ago</span>
+                        <div class="ghl-dash__actions">
+                          <span class="ghl-dash__action-icon">📞</span>
+                          <span class="ghl-dash__action-icon">✉️</span>
+                          <span class="ghl-dash__action-icon">⋯</span>
+                        </div>
+                      </div>
+                    </div>
+                    <!-- Card 6 -->
+                    <div class="ghl-dash__card">
+                      <div class="ghl-dash__card-top">
+                        <div class="ghl-dash__card-identity">
+                          <span class="ghl-dash__avatar ghl-dash__avatar--green">MT</span>
+                          <div>
+                            <span class="ghl-dash__card-name">Michael Torres</span>
+                            <span class="ghl-dash__card-loc">📍 Gold Coast, QLD</span>
+                          </div>
+                        </div>
+                        <span class="ghl-dash__status ghl-dash__status--booked">● Booked</span>
+                      </div>
+                      <div class="ghl-dash__tags">
+                        <span class="ghl-dash__tag ghl-dash__tag--teal">All-on-4 Implants</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Facebook</span>
+                        <span class="ghl-dash__tag ghl-dash__tag--gray">Insurance</span>
+                      </div>
+                      <div class="ghl-dash__metrics">
+                        <div><span class="ghl-dash__metric-label">Est. Value</span><span class="ghl-dash__metric-val ghl-dash__metric-val--teal">$24,000</span></div>
+                        <div><span class="ghl-dash__metric-label">Lead Score</span><span class="ghl-dash__metric-val">91/100</span></div>
+                      </div>
+                      <div class="ghl-dash__pipeline">
+                        <div class="ghl-dash__pipe-track">
+                          <div class="ghl-dash__pipe-fill" style="width:100%"></div>
+                          <span class="ghl-dash__pipe-dot" style="left:100%"></span>
+                        </div>
+                        <div class="ghl-dash__pipe-labels">
+                          <span>Lead</span><span>Qualify</span><span>Book</span><span class="ghl-dash__pipe-active">Consult</span>
+                        </div>
+                      </div>
+                      <div class="ghl-dash__card-footer">
+                        <span class="ghl-dash__timestamp">Mar 29, 2:30pm</span>
+                        <div class="ghl-dash__actions">
+                          <span class="ghl-dash__action-icon">📞</span>
+                          <span class="ghl-dash__action-icon">✉️</span>
+                          <span class="ghl-dash__action-icon">⋯</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -1157,6 +1467,406 @@ onUnmounted(() => {
   color: #374151;
   margin-bottom: 8px;
   box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+
+/* ═══════════════════════════════════════════════════════════════════
+   GHL CONTACTS DASHBOARD MOCKUP
+═══════════════════════════════════════════════════════════════════ */
+.ghl-dash {
+  display: flex;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+  font-size: 11px;
+  line-height: 1.4;
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  max-height: 520px;
+  pointer-events: none;
+  user-select: none;
+}
+.ghl-dash__sidebar {
+  width: 160px;
+  min-width: 160px;
+  background: #1e2235;
+  color: #c1c7d4;
+  display: flex;
+  flex-direction: column;
+  padding: 14px 0;
+  overflow: hidden;
+}
+.ghl-dash__logo {
+  padding: 0 14px 12px;
+}
+.ghl-dash__logo-img {
+  height: 28px;
+  width: auto;
+  display: block;
+}
+.ghl-dash__search {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin: 0 10px 14px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  background: rgba(255,255,255,0.06);
+  font-size: 10px;
+  color: #64748b;
+}
+.ghl-dash__nav-group {
+  margin-bottom: 10px;
+}
+.ghl-dash__nav-label {
+  display: block;
+  padding: 6px 14px 4px;
+  font-size: 8.5px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #64748b;
+  text-transform: uppercase;
+}
+.ghl-dash__nav-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 5px 14px;
+  font-size: 10.5px;
+  color: #a0a8b9;
+  text-decoration: none;
+  cursor: default;
+  transition: background 150ms ease;
+  white-space: nowrap;
+}
+.ghl-dash__nav-item--active {
+  background: rgba(92,247,187,0.1);
+  color: #5CF7BB;
+}
+.ghl-dash__badge {
+  margin-left: auto;
+  background: #5CF7BB;
+  color: #131338;
+  font-size: 9px;
+  font-weight: 700;
+  padding: 1px 6px;
+  border-radius: 9999px;
+}
+.ghl-dash__user {
+  margin-top: auto;
+  padding: 12px 14px 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border-top: 1px solid rgba(255,255,255,0.08);
+}
+.ghl-dash__user-info {
+  display: flex;
+  flex-direction: column;
+}
+.ghl-dash__user-name {
+  font-size: 10px;
+  font-weight: 600;
+  color: #e2e8f0;
+  white-space: nowrap;
+}
+.ghl-dash__user-role {
+  font-size: 8.5px;
+  color: #64748b;
+}
+
+/* Main content area */
+.ghl-dash__main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  background: #f8fafc;
+  overflow: hidden;
+}
+.ghl-dash__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 16px;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  gap: 12px;
+}
+.ghl-dash__title {
+  font-size: 14px;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 0;
+  white-space: nowrap;
+}
+.ghl-dash__header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ghl-dash__search-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  font-size: 10px;
+  color: #94a3b8;
+  white-space: nowrap;
+}
+.ghl-dash__add-btn {
+  padding: 5px 12px;
+  border-radius: 6px;
+  border: none;
+  background: #5CF7BB;
+  color: #131338;
+  font-size: 10px;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: default;
+}
+
+/* Filter tabs */
+.ghl-dash__filters {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 16px;
+  background: #ffffff;
+  border-bottom: 1px solid #e2e8f0;
+  flex-wrap: nowrap;
+}
+.ghl-dash__filter {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  font-size: 10px;
+  font-weight: 500;
+  color: #64748b;
+  border: 1px solid #e2e8f0;
+  background: #ffffff;
+  white-space: nowrap;
+}
+.ghl-dash__filter b {
+  font-weight: 700;
+  color: #475569;
+}
+.ghl-dash__filter--active {
+  background: #5CF7BB;
+  color: #131338;
+  border-color: #5CF7BB;
+}
+.ghl-dash__filter--active b {
+  color: #131338;
+}
+.ghl-dash__dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+}
+.ghl-dash__dot--new { background: #3b82f6; }
+.ghl-dash__dot--qualified { background: #f59e0b; }
+.ghl-dash__dot--booked { background: #22c55e; }
+
+/* Patient cards grid */
+.ghl-dash__cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  padding: 12px 16px;
+  overflow: hidden;
+}
+.ghl-dash__card {
+  background: #ffffff;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  min-width: 0;
+}
+.ghl-dash__card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 6px;
+}
+.ghl-dash__card-identity {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  min-width: 0;
+}
+.ghl-dash__avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+  font-weight: 700;
+  color: #ffffff;
+  flex-shrink: 0;
+}
+.ghl-dash__avatar--sm {
+  width: 26px;
+  height: 26px;
+  font-size: 8px;
+}
+.ghl-dash__avatar--blue { background: #3b82f6; }
+.ghl-dash__avatar--orange { background: #f59e0b; }
+.ghl-dash__avatar--red { background: #ef4444; }
+.ghl-dash__avatar--purple { background: #8b5cf6; }
+.ghl-dash__avatar--green { background: #22c55e; }
+.ghl-dash__card-name {
+  display: block;
+  font-size: 10.5px;
+  font-weight: 600;
+  color: #0f172a;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.ghl-dash__card-loc {
+  display: block;
+  font-size: 9px;
+  color: #94a3b8;
+  white-space: nowrap;
+}
+.ghl-dash__status {
+  font-size: 9px;
+  font-weight: 500;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.ghl-dash__status--new { color: #3b82f6; }
+.ghl-dash__status--qualified { color: #f59e0b; }
+.ghl-dash__status--booked { color: #22c55e; }
+
+/* Tags */
+.ghl-dash__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 3px;
+}
+.ghl-dash__tag {
+  font-size: 8.5px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-weight: 500;
+  white-space: nowrap;
+}
+.ghl-dash__tag--teal {
+  background: rgba(92,247,187,0.15);
+  color: #0d9466;
+}
+.ghl-dash__tag--gray {
+  background: #f1f5f9;
+  color: #64748b;
+}
+
+/* Metrics */
+.ghl-dash__metrics {
+  display: flex;
+  gap: 8px;
+}
+.ghl-dash__metrics > div {
+  flex: 1;
+  background: #f8fafc;
+  border-radius: 6px;
+  padding: 5px 7px;
+}
+.ghl-dash__metric-label {
+  display: block;
+  font-size: 8px;
+  color: #94a3b8;
+  margin-bottom: 1px;
+}
+.ghl-dash__metric-val {
+  font-size: 11px;
+  font-weight: 700;
+  color: #0f172a;
+}
+.ghl-dash__metric-val--teal {
+  color: #0d9466;
+}
+
+/* Pipeline progress */
+.ghl-dash__pipeline {
+  padding: 2px 0;
+}
+.ghl-dash__pipe-track {
+  position: relative;
+  height: 3px;
+  background: #e2e8f0;
+  border-radius: 2px;
+  margin-bottom: 3px;
+}
+.ghl-dash__pipe-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background: linear-gradient(90deg, #5CF7BB, #3ecf96);
+  border-radius: 2px;
+}
+.ghl-dash__pipe-dot {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 7px;
+  height: 7px;
+  background: #ffffff;
+  border: 2px solid #5CF7BB;
+  border-radius: 50%;
+}
+.ghl-dash__pipe-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 7.5px;
+  color: #94a3b8;
+}
+.ghl-dash__pipe-active {
+  color: #5CF7BB;
+  font-weight: 700;
+}
+
+/* Card footer */
+.ghl-dash__card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 4px;
+  border-top: 1px solid #f1f5f9;
+}
+.ghl-dash__timestamp {
+  font-size: 8px;
+  color: #94a3b8;
+}
+.ghl-dash__actions {
+  display: flex;
+  gap: 4px;
+}
+.ghl-dash__action-icon {
+  font-size: 10px;
+  opacity: 0.5;
+}
+
+/* GHL responsive: hide sidebar on small screens, show 2-col cards */
+@media (max-width: 900px) {
+  .ghl-dash__sidebar { display: none; }
+  .ghl-dash__cards { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 600px) {
+  .ghl-dash__cards { grid-template-columns: 1fr; }
+  .ghl-dash__header-actions { display: none; }
 }
 
 /* ═══════════════════════════════════════════════════════════════════
