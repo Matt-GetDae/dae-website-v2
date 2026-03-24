@@ -347,7 +347,7 @@ onUnmounted(() => {
             <div class="dae-showcase__card">
               <div class="dae-showcase__img-wrap dae-showcase__img-wrap--blue">
                 <img
-                  src="~/assets/images/custom-icons/meta-creative-implants.jpg"
+                  src="~/assets/images/custom-icons/meta-creative-implants.png"
                   alt="Dental implant ad creatives and marketing assets"
                   class="dae-showcase__img"
                 />
