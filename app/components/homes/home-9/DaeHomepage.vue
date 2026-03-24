@@ -1003,8 +1003,8 @@ onUnmounted(() => {
   z-index: 5;
   pointer-events: none;
 }
-.dae-hero__float--left { left: 16px; top: 50%; transform: translateY(-50%); }
-.dae-hero__float--right { right: 16px; top: 50%; transform: translateY(-50%); }
+.dae-hero__float--left { left: 16px; top: 50%; transform: translateY(-50%) rotate(4deg); }
+.dae-hero__float--right { right: 16px; top: 50%; transform: translateY(-50%) rotate(-4deg); }
 @media (max-width: 1300px) {
   .dae-hero__float { display: none; }
 }
@@ -1022,7 +1022,7 @@ onUnmounted(() => {
 .dae-hero__float-stack {
   display: flex;
   flex-direction: column;
-  gap: 12px;
+  gap: 24px;
   align-items: flex-end;
 }
 @media (min-width: 1500px) {
