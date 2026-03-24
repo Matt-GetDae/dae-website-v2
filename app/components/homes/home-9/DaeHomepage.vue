@@ -1004,7 +1004,7 @@ onUnmounted(() => {
   pointer-events: none;
 }
 .dae-hero__float--left { left: 16px; top: 50%; transform: translateY(-50%) rotate(4deg); }
-.dae-hero__float--right { right: 16px; top: 50%; transform: translateY(-50%) rotate(-4deg); }
+.dae-hero__float--right { right: 16px; top: 42%; transform: translateY(-50%) rotate(-4deg); }
 @media (max-width: 1300px) {
   .dae-hero__float { display: none; }
 }
