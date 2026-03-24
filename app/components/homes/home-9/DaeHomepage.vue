@@ -1032,10 +1032,10 @@ onUnmounted(() => {
 .dae-preview {
   background: #ffffff;
   padding: 0 0 80px;
-  perspective: 1200px;
 }
 .dae-preview .dae-container {
   max-width: 1400px;
+  perspective: 20px;
 }
 .dae-preview__card {
   border-radius: 16px;
@@ -1045,8 +1045,8 @@ onUnmounted(() => {
     0 20px 60px rgba(19,19,56,0.10),
     0 8px 24px rgba(19,19,56,0.06);
   background: #ffffff;
-  transform: rotateX(2.5deg);
-  transform-origin: center bottom;
+  transform: rotateX(0.1deg);
+  transform-style: preserve-3d;
   transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94),
               box-shadow 0.5s ease;
 }
