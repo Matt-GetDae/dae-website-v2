@@ -228,40 +228,12 @@ onUnmounted(() => {
       <!-- ═══════════════════════════════════════════════════════════ -->
       <section class="dae-preview">
         <div class="dae-container">
-          <div class="dae-preview__card">
-            <!-- Tab bar -->
-            <div class="dae-preview__tabs">
-              <button class="dae-preview__tab dae-preview__tab--active">Pipeline View</button>
-              <button class="dae-preview__tab">Lead Tracker</button>
-              <button class="dae-preview__tab">Revenue Dashboard</button>
-              <button class="dae-preview__tab">Booking Calendar</button>
-            </div>
-            <!-- Mockup content -->
-            <div class="dae-preview__body">
-              <div class="dae-kanban">
-                <div class="dae-kanban__cols">
-                  <div class="dae-kanban__col">
-                    <div class="dae-kanban__head"><span class="dae-kanban__dot" style="background:#5CF7BB"></span> New Lead <span class="dae-kanban__count">3</span></div>
-                    <div class="dae-kanban__card">James R. — Single Implant</div>
-                    <div class="dae-kanban__card">Maria K. — Full Arch</div>
-                    <div class="dae-kanban__card">Tom W. — Consultation</div>
-                  </div>
-                  <div class="dae-kanban__col">
-                    <div class="dae-kanban__head"><span class="dae-kanban__dot" style="background:#4da6ff"></span> Qualified <span class="dae-kanban__count">2</span></div>
-                    <div class="dae-kanban__card">Sarah M. — Full Arch</div>
-                    <div class="dae-kanban__card">David L. — All-on-4</div>
-                  </div>
-                  <div class="dae-kanban__col">
-                    <div class="dae-kanban__head"><span class="dae-kanban__dot" style="background:#ffa94d"></span> Booked <span class="dae-kanban__count">1</span></div>
-                    <div class="dae-kanban__card">Helen P. — Implant Bridge</div>
-                  </div>
-                  <div class="dae-kanban__col">
-                    <div class="dae-kanban__head"><span class="dae-kanban__dot" style="background:#a78bfa"></span> Accepted <span class="dae-kanban__count">1</span></div>
-                    <div class="dae-kanban__card">Robert G. — Full Arch</div>
-                  </div>
-                </div>
-              </div>
-            </div>
+          <div class="dae-preview__card dae-preview__card--img">
+            <img
+              src="~/assets/images/custom-icons/dae-pipeline-hero.png"
+              alt="DAE pipeline dashboard showing new leads, qualified patients, and booked consultations with deal values"
+              class="dae-preview__hero-img"
+            />
           </div>
         </div>
       </section>
@@ -1072,79 +1044,17 @@ onUnmounted(() => {
   box-shadow: 0 8px 32px rgba(0,0,0,0.08);
   background: #ffffff;
 }
-.dae-preview__tabs {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  padding: 12px 16px;
-  border-bottom: 1px solid #e2e8f0;
-  overflow-x: auto;
+.dae-preview__card--img {
+  padding: 0;
+  line-height: 0;
 }
-.dae-preview__tab {
-  padding: 6px 16px;
-  font-size: 0.8125rem;
-  font-weight: 500;
-  border-radius: 9999px;
-  border: none;
-  cursor: pointer;
-  white-space: nowrap;
-  background: transparent;
-  color: #64748b;
-  transition: background 150ms ease;
-}
-.dae-preview__tab:hover { background: #f1f5f9; }
-.dae-preview__tab--active {
-  background: rgba(92, 247, 187, 0.12);
-  color: #131338;
-  font-weight: 600;
-}
-.dae-preview__body {
-  padding: 24px;
-  background: #f8fafc;
-  min-height: 240px;
+.dae-preview__hero-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 16px;
 }
 
-/* Kanban mockup */
-.dae-kanban__cols {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
-}
-@media (max-width: 768px) {
-  .dae-kanban__cols { grid-template-columns: repeat(2, 1fr); }
-}
-.dae-kanban__head {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 0.8125rem;
-  font-weight: 600;
-  color: #0f172a;
-  margin-bottom: 12px;
-}
-.dae-kanban__dot {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-}
-.dae-kanban__count {
-  background: #f1f5f9;
-  padding: 1px 8px;
-  border-radius: 9999px;
-  font-size: 0.75rem;
-  color: #64748b;
-  font-weight: 500;
-}
-.dae-kanban__card {
-  background: #ffffff;
-  border: 1px solid #e2e8f0;
-  border-radius: 8px;
-  padding: 10px 12px;
-  font-size: 0.8125rem;
-  color: #374151;
-  margin-bottom: 8px;
-  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
-}
 
 /* Feature section image */
 .dae-feature__img {
