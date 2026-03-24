@@ -1031,14 +1031,30 @@ onUnmounted(() => {
 ═══════════════════════════════════════════════════════════════════ */
 .dae-preview {
   background: #ffffff;
-  padding: 0 0 64px;
+  padding: 0 0 80px;
+  perspective: 1200px;
+}
+.dae-preview .dae-container {
+  max-width: 1400px;
 }
 .dae-preview__card {
   border-radius: 16px;
   border: 1px solid #e2e8f0;
   overflow: hidden;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.08);
+  box-shadow:
+    0 20px 60px rgba(19,19,56,0.10),
+    0 8px 24px rgba(19,19,56,0.06);
   background: #ffffff;
+  transform: rotateX(2.5deg);
+  transform-origin: center bottom;
+  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+              box-shadow 0.5s ease;
+}
+.dae-preview__card:hover {
+  transform: rotateX(0deg);
+  box-shadow:
+    0 12px 40px rgba(19,19,56,0.08),
+    0 4px 16px rgba(19,19,56,0.04);
 }
 .dae-preview__card--img {
   padding: 0;
