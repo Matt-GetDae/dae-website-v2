@@ -1022,7 +1022,7 @@ onUnmounted(() => {
 .dae-hero__float-stack {
   display: flex;
   flex-direction: column;
-  gap: 24px;
+  gap: 48px;
   align-items: flex-end;
 }
 @media (min-width: 1500px) {
