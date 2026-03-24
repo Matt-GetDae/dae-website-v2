@@ -393,7 +393,7 @@ onUnmounted(() => {
       <!-- ═══════════════════════════════════════════════════════════ -->
       <section class="dae-feature dae-feature--alt">
         <div class="dae-container">
-          <div class="dae-feature__grid">
+          <div class="dae-feature__grid dae-feature__grid--reverse">
             <div class="dae-feature__text dae-reveal">
               <h2 class="dae-feature__h2">Every lead screened and nurtured before you see them</h2>
               <p class="dae-feature__body">
