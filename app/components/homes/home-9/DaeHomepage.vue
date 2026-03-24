@@ -202,23 +202,26 @@ onUnmounted(() => {
           </div>
         </div>
 
-        <!-- Decorative floating cards -->
+        <!-- Decorative floating images -->
         <div class="dae-hero__float dae-hero__float--left dae-reveal" aria-hidden="true">
-          <div class="dae-float-card">
-            <span class="dae-float-card__dot" style="background:#5CF7BB"></span>
-            <div>
-              <div class="dae-float-card__label">New Lead</div>
-              <div class="dae-float-card__detail">Sarah M. — Full Arch Inquiry</div>
-            </div>
-          </div>
+          <img
+            src="~/assets/images/custom-icons/hero-float-revenue.jpg"
+            alt="Revenue growth chart showing $95K to $190K over 6 months"
+            class="dae-hero__float-img"
+          />
         </div>
         <div class="dae-hero__float dae-hero__float--right dae-reveal" aria-hidden="true">
-          <div class="dae-float-card">
-            <span class="dae-float-card__icon">📅</span>
-            <div>
-              <div class="dae-float-card__label">Consult Booked</div>
-              <div class="dae-float-card__detail">Dr. Patel — Tomorrow 2:30pm</div>
-            </div>
+          <div class="dae-hero__float-stack">
+            <img
+              src="~/assets/images/custom-icons/hero-float-lead-card.jpg"
+              alt="New lead notification — Sophie Taylor, All-on-4 Implants, $24,000"
+              class="dae-hero__float-img dae-hero__float-img--small"
+            />
+            <img
+              src="~/assets/images/custom-icons/hero-float-bar-chart.jpg"
+              alt="Monthly consultations bar chart showing growth from 10 to 18"
+              class="dae-hero__float-img"
+            />
           </div>
         </div>
       </section>
@@ -994,37 +997,40 @@ onUnmounted(() => {
   .dae-hero__ctas { flex-direction: row; justify-content: center; }
 }
 
-/* Floating cards (hero decoration) */
+/* Floating images (hero decoration) */
 .dae-hero__float {
   position: absolute;
   z-index: 5;
   pointer-events: none;
 }
-.dae-hero__float--left { left: 24px; top: 50%; transform: translateY(-50%); }
-.dae-hero__float--right { right: 24px; top: 50%; transform: translateY(-50%); }
-@media (max-width: 1200px) {
+.dae-hero__float--left { left: 16px; top: 50%; transform: translateY(-50%); }
+.dae-hero__float--right { right: 16px; top: 50%; transform: translateY(-50%); }
+@media (max-width: 1300px) {
   .dae-hero__float { display: none; }
 }
-.dae-float-card {
+.dae-hero__float-img {
+  display: block;
+  width: 240px;
+  height: auto;
+  border-radius: 14px;
+  box-shadow: 0 8px 32px rgba(19,19,56,0.10), 0 2px 8px rgba(0,0,0,0.06);
+  border: 1px solid rgba(226,232,240,0.6);
+}
+.dae-hero__float-img--small {
+  width: 200px;
+}
+.dae-hero__float-stack {
   display: flex;
-  align-items: center;
+  flex-direction: column;
   gap: 12px;
-  background: #ffffff;
-  border: 1px solid #e2e8f0;
-  border-radius: 12px;
-  padding: 14px 18px;
-  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
-  font-size: 0.8125rem;
+  align-items: flex-end;
 }
-.dae-float-card__dot {
-  width: 10px;
-  height: 10px;
-  border-radius: 50%;
-  flex-shrink: 0;
+@media (min-width: 1500px) {
+  .dae-hero__float-img { width: 280px; }
+  .dae-hero__float-img--small { width: 230px; }
+  .dae-hero__float--left { left: 32px; }
+  .dae-hero__float--right { right: 32px; }
 }
-.dae-float-card__icon { font-size: 1.25rem; }
-.dae-float-card__label { font-weight: 600; color: #0f172a; }
-.dae-float-card__detail { color: #64748b; }
 
 /* ═══════════════════════════════════════════════════════════════════
    PRODUCT PREVIEW
