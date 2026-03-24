@@ -333,28 +333,49 @@ onUnmounted(() => {
       </section>
 
       <!-- ═══════════════════════════════════════════════════════════ -->
-      <!-- SECTION 5: HOW IT WORKS — 3 Steps Overview                -->
+      <!-- SECTION 5: HOW IT WORKS — 3 Showcase Cards                -->
       <!-- ═══════════════════════════════════════════════════════════ -->
       <section id="how-it-works" class="dae-steps-overview">
         <div class="dae-container">
-          <h2 class="dae-section-h2 dae-reveal">
-            From ad click to booked consultation
+          <h2 class="dae-showcase__h2 dae-reveal">
+            Everything You Need to <span class="dae-showcase__accent">Scale</span>
           </h2>
-          <div class="dae-steps-overview__grid dae-reveal">
-            <div class="dae-step-card">
-              <div class="dae-step-card__num">1</div>
-              <h3 class="dae-step-card__title">Attract</h3>
-              <p class="dae-step-card__desc">High-intent campaigns on Meta and Google bring implant-ready patients to your door. Precision targeting, not awareness spray.</p>
+          <p class="dae-showcase__sub dae-reveal">
+            From first ad click to booked consultation and revenue tracked — one integrated system replaces your entire marketing stack.
+          </p>
+          <div class="dae-showcase__grid dae-reveal">
+            <div class="dae-showcase__card">
+              <div class="dae-showcase__img-wrap dae-showcase__img-wrap--blue">
+                <img
+                  src="~/assets/images/custom-icons/ghl-contacts-dashboard.jpg"
+                  alt="Patient contacts and lead management dashboard"
+                  class="dae-showcase__img"
+                />
+              </div>
+              <h3 class="dae-showcase__card-title">Patient Acquisition</h3>
+              <p class="dae-showcase__card-desc">Targeted campaigns bring implant-ready patients to your door. Every lead captured, scored, and qualified automatically.</p>
             </div>
-            <div class="dae-step-card">
-              <div class="dae-step-card__num">2</div>
-              <h3 class="dae-step-card__title">Qualify</h3>
-              <p class="dae-step-card__desc">AI screens every lead for treatment readiness, budget, and timeline before your team touches them. Only real candidates get through.</p>
+            <div class="dae-showcase__card">
+              <div class="dae-showcase__img-wrap dae-showcase__img-wrap--purple">
+                <img
+                  src="~/assets/images/custom-icons/ghl-pipeline-dashboard.jpg"
+                  alt="Opportunities pipeline with lead stages and deal values"
+                  class="dae-showcase__img"
+                />
+              </div>
+              <h3 class="dae-showcase__card-title">Pipeline Management</h3>
+              <p class="dae-showcase__card-desc">Track every opportunity from new lead to booked consultation. Visual pipeline keeps your team aligned and focused.</p>
             </div>
-            <div class="dae-step-card">
-              <div class="dae-step-card__num">3</div>
-              <h3 class="dae-step-card__title">Book</h3>
-              <p class="dae-step-card__desc">Qualified patients are routed into your calendar automatically. Pre-filled details, zero phone tag, consultations that convert.</p>
+            <div class="dae-showcase__card">
+              <div class="dae-showcase__img-wrap dae-showcase__img-wrap--green">
+                <img
+                  src="~/assets/images/custom-icons/ghl-revenue-dashboard.jpg"
+                  alt="Revenue tracking dashboard with charts and conversion data"
+                  class="dae-showcase__img"
+                />
+              </div>
+              <h3 class="dae-showcase__card-title">Revenue Intelligence</h3>
+              <p class="dae-showcase__card-desc">Know your true ROI down to the dollar. Revenue trends, conversion rates, and case value tracking in real time.</p>
             </div>
           </div>
         </div>
@@ -1244,50 +1265,85 @@ onUnmounted(() => {
 }
 
 /* ═══════════════════════════════════════════════════════════════════
-   3-STEP OVERVIEW (Record → Edit → Share equivalent)
+   SHOWCASE CARDS (3-col image + title + desc)
 ═══════════════════════════════════════════════════════════════════ */
 .dae-steps-overview {
   background: #ffffff;
   padding: 80px 0;
 }
-.dae-steps-overview__grid {
+.dae-showcase__h2 {
+  font-family: 'DM Serif Display', Georgia, serif;
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+  color: #0f172a;
+  text-align: center;
+  margin-bottom: 16px;
+}
+.dae-showcase__accent {
+  font-style: italic;
+  background-image: linear-gradient(90deg, #3a2c6f, #5CF7BB);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.dae-showcase__sub {
+  text-align: center;
+  color: #64748b;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+  max-width: 640px;
+  margin: 0 auto 48px;
+}
+.dae-showcase__grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 32px;
 }
-@media (max-width: 768px) {
-  .dae-steps-overview__grid { grid-template-columns: 1fr; }
+@media (max-width: 900px) {
+  .dae-showcase__grid { grid-template-columns: 1fr; gap: 40px; }
 }
-.dae-step-card {
+.dae-showcase__card {
   text-align: center;
-  padding: 32px;
-  border-radius: 16px;
-  background: #f8fafc;
-  border: 1px solid #f1f5f9;
 }
-.dae-step-card__num {
-  display: inline-flex;
-  align-items: center;
+.dae-showcase__img-wrap {
+  border-radius: 20px;
+  padding: 24px 20px 0;
+  margin-bottom: 24px;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
   justify-content: center;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  background: rgba(92, 247, 187, 0.15);
-  color: #131338;
+  min-height: 260px;
+}
+.dae-showcase__img-wrap--blue {
+  background: linear-gradient(135deg, #dbeafe, #eff6ff);
+}
+.dae-showcase__img-wrap--purple {
+  background: linear-gradient(135deg, #ede9fe, #f3e8ff);
+}
+.dae-showcase__img-wrap--green {
+  background: linear-gradient(135deg, #d1fae5, #ecfdf5);
+}
+.dae-showcase__img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 10px 10px 0 0;
+  box-shadow: 0 -4px 24px rgba(0,0,0,0.08);
+}
+.dae-showcase__card-title {
+  font-size: 1.25rem;
   font-weight: 700;
-  font-size: 0.875rem;
-  margin-bottom: 16px;
-}
-.dae-step-card__title {
-  font-size: 1.125rem;
-  font-weight: 600;
   color: #0f172a;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
-.dae-step-card__desc {
-  font-size: 0.875rem;
+.dae-showcase__card-desc {
+  font-size: 0.9375rem;
   color: #64748b;
   line-height: 1.6;
+  max-width: 340px;
+  margin: 0 auto;
 }
 
 /* ═══════════════════════════════════════════════════════════════════
