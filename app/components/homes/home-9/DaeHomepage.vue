@@ -699,13 +699,14 @@ onUnmounted(() => {
   min-width: 180px;
 }
 .dae-btn--primary {
-  background: #131338;
-  color: #5CF7BB;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.12);
+  background: #5CF7BB;
+  color: #131338;
+  font-weight: 700;
+  box-shadow: 0 1px 3px rgba(92,247,187,0.3);
 }
 .dae-btn--primary:hover {
-  background: #1c1c4d;
-  box-shadow: 0 4px 12px rgba(19,19,56,0.3);
+  background: #3ee8a5;
+  box-shadow: 0 4px 16px rgba(92,247,187,0.4);
 }
 .dae-btn--secondary {
   background: #ffffff;
@@ -716,13 +717,13 @@ onUnmounted(() => {
   background: #f8fafc;
 }
 .dae-btn--white {
-  background: #ffffff;
+  background: #F9E219;
   color: #131338;
   font-weight: 700;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+  box-shadow: 0 4px 16px rgba(249,226,25,0.3);
 }
 .dae-btn--white:hover {
-  background: #f0fdf8;
+  background: #f7d800;
 }
 
 /* ─── SCROLL ANIMATION ─── */
@@ -849,10 +850,11 @@ onUnmounted(() => {
 }
 .dae-nav__cta--outline:hover { background: #f8fafc; }
 .dae-nav__cta--primary {
-  background: #131338;
-  color: #5CF7BB;
+  background: #5CF7BB;
+  color: #131338;
+  font-weight: 700;
 }
-.dae-nav__cta--primary:hover { background: #1c1c4d; }
+.dae-nav__cta--primary:hover { background: #3ee8a5; }
 
 /* Mobile burger */
 .dae-nav__burger {
@@ -948,7 +950,7 @@ onUnmounted(() => {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #5CF7BB;
+  background: #F9E219;
   animation: dae-pulse 2s infinite;
 }
 @keyframes dae-pulse {
@@ -956,23 +958,17 @@ onUnmounted(() => {
   50% { opacity: 0.4; }
 }
 .dae-hero__h1 {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Sora', system-ui, sans-serif;
   font-size: clamp(2.75rem, 5.5vw, 4.5rem);
-  font-weight: 700;
+  font-weight: 800;
   line-height: 1;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
   max-width: 900px;
   margin: 0 auto;
-  background-image: linear-gradient(90deg, #1d2735, #3a2c6f);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  color: #131338;
 }
 .dae-hero__accent {
-  -webkit-text-fill-color: transparent;
-  background-image: linear-gradient(90deg, #3a2c6f, #5CF7BB);
-  -webkit-background-clip: text;
-  background-clip: text;
+  color: #5CF7BB;
 }
 .dae-hero__sub {
   margin-top: 24px;
@@ -1074,8 +1070,8 @@ onUnmounted(() => {
 }
 .dae-proof__h2 {
   font-size: clamp(1.5rem, 2.5vw, 2rem);
-  font-weight: 700;
-  color: #0f172a;
+  font-weight: 800;
+  color: #131338;
   text-align: center;
   margin-bottom: 16px;
 }
@@ -1103,7 +1099,7 @@ onUnmounted(() => {
 }
 .dae-proof__stat-val {
   font-size: 2rem;
-  font-weight: 700;
+  font-weight: 800;
   color: #131338;
 }
 .dae-proof__stat-label {
@@ -1142,8 +1138,8 @@ onUnmounted(() => {
 }
 .dae-compare__card-title {
   font-size: 1.25rem;
-  font-weight: 600;
-  color: #0f172a;
+  font-weight: 700;
+  color: #131338;
   margin-bottom: 24px;
 }
 .dae-compare__card-title--light { color: #ffffff; }
@@ -1182,20 +1178,17 @@ onUnmounted(() => {
   padding: 80px 0;
 }
 .dae-showcase__h2 {
-  font-family: 'DM Serif Display', Georgia, serif;
+  font-family: 'Sora', system-ui, sans-serif;
   font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 700;
+  font-weight: 800;
   line-height: 1.1;
-  color: #0f172a;
+  color: #131338;
   text-align: center;
   margin-bottom: 16px;
 }
 .dae-showcase__accent {
-  font-style: italic;
-  background-image: linear-gradient(90deg, #3a2c6f, #5CF7BB);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
+  font-style: normal;
+  color: #5CF7BB;
 }
 .dae-showcase__sub {
   text-align: center;
@@ -1227,13 +1220,13 @@ onUnmounted(() => {
   min-height: 260px;
 }
 .dae-showcase__img-wrap--blue {
-  background: linear-gradient(135deg, #dbeafe, #eff6ff);
+  background: linear-gradient(135deg, #e8fdf4, #d1fae5);
 }
 .dae-showcase__img-wrap--purple {
-  background: linear-gradient(135deg, #ede9fe, #f3e8ff);
+  background: linear-gradient(135deg, #fef9e1, #fdf3c7);
 }
 .dae-showcase__img-wrap--green {
-  background: linear-gradient(135deg, #d1fae5, #ecfdf5);
+  background: linear-gradient(135deg, #e0e0f7, #eeeef9);
 }
 .dae-showcase__img {
   width: 100%;
@@ -1245,7 +1238,7 @@ onUnmounted(() => {
 .dae-showcase__card-title {
   font-size: 1.25rem;
   font-weight: 700;
-  color: #0f172a;
+  color: #131338;
   margin-bottom: 8px;
 }
 .dae-showcase__card-desc {
@@ -1286,8 +1279,8 @@ onUnmounted(() => {
 }
 .dae-feature__h2 {
   font-size: clamp(1.75rem, 2.5vw, 2.25rem);
-  font-weight: 700;
-  color: #0f172a;
+  font-weight: 800;
+  color: #131338;
   line-height: 1.2;
   margin-bottom: 16px;
 }
@@ -1418,7 +1411,7 @@ onUnmounted(() => {
 }
 .dae-stats__h2 {
   font-size: clamp(1.5rem, 2.5vw, 2rem);
-  font-weight: 700;
+  font-weight: 800;
   color: #ffffff;
   text-align: center;
   margin-bottom: 48px;
@@ -1434,8 +1427,8 @@ onUnmounted(() => {
 }
 .dae-stats__val {
   font-size: 3rem;
-  font-weight: 700;
-  color: #5CF7BB;
+  font-weight: 800;
+  color: #F9E219;
   margin-bottom: 8px;
 }
 .dae-stats__label {
@@ -1494,7 +1487,7 @@ onUnmounted(() => {
   min-width: 28px;
 }
 .dae-step-selector--active .dae-step-selector__num {
-  color: #5CF7BB;
+  color: #F9E219;
 }
 .dae-step-selector__title {
   font-size: 0.9375rem;
@@ -1516,7 +1509,7 @@ onUnmounted(() => {
 .dae-step-detail__title {
   font-size: 1.375rem;
   font-weight: 700;
-  color: #0f172a;
+  color: #131338;
   margin-bottom: 16px;
 }
 .dae-step-detail__desc {
@@ -1554,7 +1547,7 @@ onUnmounted(() => {
   height: 64px;
   border-radius: 50%;
   background: #131338;
-  color: #5CF7BB;
+  color: #F9E219;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -1618,7 +1611,7 @@ onUnmounted(() => {
   text-align: left;
   font-size: 1rem;
   font-weight: 600;
-  color: #0f172a;
+  color: #131338;
   gap: 16px;
 }
 .dae-faq__chevron {
@@ -1650,7 +1643,7 @@ onUnmounted(() => {
 }
 .dae-cta-banner__h2 {
   font-size: clamp(1.75rem, 3vw, 2.5rem);
-  font-weight: 700;
+  font-weight: 800;
   color: #ffffff;
   margin-bottom: 16px;
   max-width: 640px;
@@ -1690,7 +1683,7 @@ onUnmounted(() => {
 }
 .dae-footer__tagline {
   font-size: 1.75rem;
-  font-weight: 700;
+  font-weight: 800;
 }
 .dae-footer__grid {
   display: grid;

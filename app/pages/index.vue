@@ -11,7 +11,7 @@ useHead({
     { rel: "canonical", href: "https://dentalappointmentengine.com/" },
     { rel: "preconnect", href: "https://fonts.googleapis.com" },
     { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" },
-    { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&display=swap" },
+    { rel: "stylesheet", href: "https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700;800&display=swap" },
   ],
   htmlAttrs: { lang: "en" },
 })
@@ -33,7 +33,7 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
-  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: 'Sora', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   background: #ffffff;
   color: #0f172a;
   -webkit-font-smoothing: antialiased;
