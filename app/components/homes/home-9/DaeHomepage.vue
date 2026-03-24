@@ -418,14 +418,7 @@ onUnmounted(() => {
       <!-- ═══════════════════════════════════════════════════════════ -->
       <section class="dae-feature dae-feature--alt">
         <div class="dae-container">
-          <div class="dae-feature__grid dae-feature__grid--reverse">
-            <div class="dae-feature__visual dae-reveal">
-              <img
-                src="~/assets/images/custom-icons/ghl-pipeline-dashboard.jpg"
-                alt="DAE opportunities pipeline showing new leads, qualified patients, booked consultations, and won cases with deal values"
-                class="dae-feature__img"
-              />
-            </div>
+          <div class="dae-feature__grid">
             <div class="dae-feature__text dae-reveal">
               <h2 class="dae-feature__h2">Every lead screened and nurtured before you see them</h2>
               <p class="dae-feature__body">
@@ -440,6 +433,13 @@ onUnmounted(() => {
                 <span class="dae-pill-tag">Timeline Qualification</span>
               </div>
               <a href="#how-it-works" class="dae-feature__link">See screening in action →</a>
+            </div>
+            <div class="dae-feature__visual dae-reveal">
+              <img
+                src="~/assets/images/custom-icons/ghl-pipeline-dashboard.jpg"
+                alt="DAE opportunities pipeline showing new leads, qualified patients, booked consultations, and won cases with deal values"
+                class="dae-feature__img"
+              />
             </div>
           </div>
         </div>
