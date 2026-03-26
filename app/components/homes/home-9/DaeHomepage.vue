@@ -758,8 +758,8 @@ onUnmounted(() => {
    ANNOUNCEMENT BAR
 ═══════════════════════════════════════════════════════════════════ */
 .dae-announce {
-  background: #131338;
-  color: #ffffff;
+  background: #f4f4f6;
+  color: #131338;
   text-align: center;
   padding: 10px 16px;
   font-size: 0.875rem;
@@ -771,8 +771,8 @@ onUnmounted(() => {
   gap: 8px;
 }
 .dae-announce__badge {
-  background: rgba(92, 247, 187, 0.2);
-  color: #5CF7BB;
+  background: rgba(92, 247, 187, 0.25);
+  color: #0d9b6a;
   font-size: 0.75rem;
   font-weight: 600;
   padding: 2px 10px;
@@ -918,7 +918,7 @@ onUnmounted(() => {
 .dae-hero {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(180deg, #eef0ff 0%, #ffffff 60%);
+  background: #ffffff;
   padding: 96px 0 80px;
 }
 @media (min-width: 1024px) {
@@ -975,7 +975,7 @@ onUnmounted(() => {
   color: #131338;
 }
 .dae-hero__accent {
-  color: #5CF7BB;
+  color: #F9E219;
 }
 .dae-hero__sub {
   margin-top: 24px;
