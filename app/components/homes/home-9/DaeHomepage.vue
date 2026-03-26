@@ -648,7 +648,7 @@ onUnmounted(() => {
 
 /* ─── RESET & BASE ─── */
 .dae-page {
-  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-family: 'Sora', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif !important;
   font-size: 16px;
   line-height: 1.6;
   color: #0f172a;
@@ -659,6 +659,10 @@ onUnmounted(() => {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+.dae-page h1, .dae-page h2, .dae-page h3, .dae-page h4, .dae-page h5, .dae-page h6,
+.dae-page p, .dae-page span, .dae-page a, .dae-page button, .dae-page li, .dae-page div {
+  font-family: 'Sora', system-ui, sans-serif !important;
 }
 
 /* ─── CONTAINER ─── */
@@ -965,9 +969,9 @@ onUnmounted(() => {
   50% { opacity: 0.4; }
 }
 .dae-hero__h1 {
-  font-family: 'Sora', system-ui, sans-serif;
+  font-family: 'Sora', system-ui, sans-serif !important;
   font-size: clamp(2.75rem, 5.5vw, 4.5rem);
-  font-weight: 800;
+  font-weight: 800 !important;
   line-height: 1;
   letter-spacing: -0.02em;
   max-width: 900px;
