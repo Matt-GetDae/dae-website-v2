@@ -202,24 +202,28 @@ onUnmounted(() => {
           </div>
         </div>
 
-        <!-- Decorative floating images -->
-        <div class="dae-hero__float dae-hero__float--left dae-reveal" aria-hidden="true">
-          <img
-            src="~/assets/images/custom-icons/hero-float-revenue.jpg"
-            alt="Revenue growth chart showing $95K to $190K over 6 months"
-            class="dae-hero__float-img"
-          />
-        </div>
-        <div class="dae-hero__float dae-hero__float--right dae-reveal" aria-hidden="true">
-          <div class="dae-hero__float-stack">
+        <!-- Decorative floating images — scattered Supademo-style -->
+        <div class="dae-hero__floats" aria-hidden="true">
+          <!-- Left side -->
+          <div class="dae-hero__float dae-hero__float--l1 dae-reveal">
+            <img
+              src="~/assets/images/custom-icons/hero-float-revenue.jpg"
+              alt="Revenue growth chart"
+              class="dae-hero__float-img"
+            />
+          </div>
+          <!-- Right side -->
+          <div class="dae-hero__float dae-hero__float--r1 dae-reveal">
             <img
               src="~/assets/images/custom-icons/hero-float-lead-card.jpg"
-              alt="New lead notification — Sophie Taylor, All-on-4 Implants, $24,000"
-              class="dae-hero__float-img dae-hero__float-img--small"
+              alt="New lead notification — Sophie Taylor"
+              class="dae-hero__float-img"
             />
+          </div>
+          <div class="dae-hero__float dae-hero__float--r2 dae-reveal">
             <img
               src="~/assets/images/custom-icons/hero-float-bar-chart.jpg"
-              alt="Monthly consultations bar chart showing growth from 10 to 18"
+              alt="Monthly consultations bar chart"
               class="dae-hero__float-img"
             />
           </div>
@@ -997,39 +1001,66 @@ onUnmounted(() => {
   .dae-hero__ctas { flex-direction: row; justify-content: center; }
 }
 
-/* Floating images (hero decoration) */
+/* Floating images (hero decoration) — scattered layout */
+.dae-hero__floats {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 5;
+  overflow: visible;
+}
+@media (max-width: 1300px) {
+  .dae-hero__floats { display: none; }
+}
 .dae-hero__float {
   position: absolute;
-  z-index: 5;
-  pointer-events: none;
-}
-.dae-hero__float--left { left: 16px; top: 50%; transform: translateY(-50%) rotate(4deg); }
-.dae-hero__float--right { right: 16px; top: 42%; transform: translateY(-50%) rotate(-4deg); }
-@media (max-width: 1300px) {
-  .dae-hero__float { display: none; }
+  transition: transform 0.4s ease;
 }
 .dae-hero__float-img {
   display: block;
-  width: 240px;
   height: auto;
   border-radius: 14px;
   box-shadow: 0 8px 32px rgba(19,19,56,0.10), 0 2px 8px rgba(0,0,0,0.06);
   border: 1px solid rgba(226,232,240,0.6);
 }
-.dae-hero__float-img--small {
-  width: 200px;
+
+/* Left side — revenue chart: upper-left area, tilted inward */
+.dae-hero__float--l1 {
+  left: -40px;
+  top: 22%;
+  transform: rotate(-6deg);
 }
-.dae-hero__float-stack {
-  display: flex;
-  flex-direction: column;
-  gap: 48px;
-  align-items: flex-end;
+.dae-hero__float--l1 .dae-hero__float-img {
+  width: 240px;
 }
+
+/* Right side — lead card: upper-right, tilted inward */
+.dae-hero__float--r1 {
+  right: -20px;
+  top: 12%;
+  transform: rotate(4deg);
+}
+.dae-hero__float--r1 .dae-hero__float-img {
+  width: 220px;
+}
+
+/* Right side — bar chart: lower-right, tilted more */
+.dae-hero__float--r2 {
+  right: -50px;
+  top: 58%;
+  transform: rotate(-5deg);
+}
+.dae-hero__float--r2 .dae-hero__float-img {
+  width: 260px;
+}
+
 @media (min-width: 1500px) {
-  .dae-hero__float-img { width: 280px; }
-  .dae-hero__float-img--small { width: 230px; }
-  .dae-hero__float--left { left: 32px; }
-  .dae-hero__float--right { right: 32px; }
+  .dae-hero__float--l1 { left: -20px; }
+  .dae-hero__float--l1 .dae-hero__float-img { width: 280px; }
+  .dae-hero__float--r1 { right: 0px; }
+  .dae-hero__float--r1 .dae-hero__float-img { width: 240px; }
+  .dae-hero__float--r2 { right: -30px; }
+  .dae-hero__float--r2 .dae-hero__float-img { width: 290px; }
 }
 
 /* ═══════════════════════════════════════════════════════════════════
