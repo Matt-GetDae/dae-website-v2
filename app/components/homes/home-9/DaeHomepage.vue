@@ -1024,34 +1024,37 @@ onUnmounted(() => {
   border: 1px solid rgba(226,232,240,0.6);
 }
 
-/* Left side — revenue chart: upper-left area, tilted inward */
+/* Left side — revenue chart: tilted inward with 3D perspective */
 .dae-hero__float--l1 {
   left: -40px;
   top: 22%;
-  transform: rotate(-6deg);
+  perspective: 800px;
 }
 .dae-hero__float--l1 .dae-hero__float-img {
   width: 240px;
+  transform: rotateY(18deg) rotate(-4deg);
 }
 
-/* Right side — lead card: upper-right, tilted inward */
+/* Right side — lead card: upper-right, 3D tilt inward */
 .dae-hero__float--r1 {
   right: -20px;
   top: 12%;
-  transform: rotate(4deg);
+  perspective: 800px;
 }
 .dae-hero__float--r1 .dae-hero__float-img {
   width: 220px;
+  transform: rotateY(-16deg) rotate(3deg);
 }
 
-/* Right side — bar chart: lower-right, tilted more */
+/* Right side — bar chart: lower-right, 3D tilt inward */
 .dae-hero__float--r2 {
   right: -50px;
   top: 58%;
-  transform: rotate(-5deg);
+  perspective: 800px;
 }
 .dae-hero__float--r2 .dae-hero__float-img {
   width: 260px;
+  transform: rotateY(-20deg) rotate(-3deg);
 }
 
 @media (min-width: 1500px) {
